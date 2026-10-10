@@ -1,0 +1,3 @@
+uvicorn[standard]==0.54.0
+fastapi[all]==0.142.2
+python-fontbro==0.29.0

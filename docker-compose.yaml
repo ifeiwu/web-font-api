@@ -1,0 +1,10 @@
+services:
+  web-font-api:
+    build: .
+    restart: unless-stopped
+    container_name: web-font-api
+    ports:
+      - "8001:8000"
+    image: web-font-api
+    volumes:
+      - ./data:/data
