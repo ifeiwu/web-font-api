@@ -1,0 +1,18 @@
+{
+    "id": "duru-sans",
+    "title": "Duru Sans",
+    "family": "Duru Sans",
+    "category": "sans-serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/duru-sans",
+    "files": [
+        {
+            "name": "DuruSans-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

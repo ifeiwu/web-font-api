@@ -1,0 +1,18 @@
+{
+    "id": "reenie-beanie",
+    "title": "Reenie Beanie",
+    "family": "Reenie Beanie",
+    "category": "handwriting",
+    "source": "google",
+    "language": "en",
+    "path": "google/reenie-beanie",
+    "files": [
+        {
+            "name": "ReenieBeanie-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 500
+        }
+    ]
+}

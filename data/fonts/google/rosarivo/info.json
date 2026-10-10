@@ -1,0 +1,25 @@
+{
+    "id": "rosarivo",
+    "title": "Rosarivo",
+    "family": "Rosarivo",
+    "category": "serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/rosarivo",
+    "files": [
+        {
+            "name": "Rosarivo-Italic",
+            "ext": "ttf",
+            "subfamily": "Italic",
+            "style": "italic",
+            "weight": 400
+        },
+        {
+            "name": "Rosarivo-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

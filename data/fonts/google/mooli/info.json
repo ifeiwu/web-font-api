@@ -1,0 +1,18 @@
+{
+    "id": "mooli",
+    "title": "Mooli",
+    "family": "Mooli",
+    "category": "sans-serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/mooli",
+    "files": [
+        {
+            "name": "Mooli-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

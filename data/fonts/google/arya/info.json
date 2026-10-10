@@ -1,0 +1,25 @@
+{
+    "id": "arya",
+    "title": "Arya",
+    "family": "Arya",
+    "category": "sans-serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/arya",
+    "files": [
+        {
+            "name": "Arya-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "Arya-Bold",
+            "ext": "ttf",
+            "subfamily": "Bold",
+            "style": "normal",
+            "weight": 700
+        }
+    ]
+}

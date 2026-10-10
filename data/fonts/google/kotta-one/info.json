@@ -1,0 +1,18 @@
+{
+    "id": "kotta-one",
+    "title": "Kotta One",
+    "family": "Kotta One",
+    "category": "serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/kotta-one",
+    "files": [
+        {
+            "name": "KottaOne-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

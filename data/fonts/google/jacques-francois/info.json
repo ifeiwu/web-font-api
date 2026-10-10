@@ -1,0 +1,18 @@
+{
+    "id": "jacques-francois",
+    "title": "Jacques Francois",
+    "family": "Jacques Francois",
+    "category": "serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/jacques-francois",
+    "files": [
+        {
+            "name": "JacquesFrancois-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

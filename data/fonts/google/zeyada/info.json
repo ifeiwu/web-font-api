@@ -1,0 +1,18 @@
+{
+    "id": "zeyada",
+    "title": "Zeyada",
+    "family": "Zeyada",
+    "category": "handwriting",
+    "source": "google",
+    "language": "en",
+    "path": "google/zeyada",
+    "files": [
+        {
+            "name": "Zeyada-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "id": "carter-one",
+    "title": "Carter One",
+    "family": "Carter One",
+    "category": "display",
+    "source": "google",
+    "language": "en",
+    "path": "google/carter-one",
+    "files": [
+        {
+            "name": "CarterOne-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

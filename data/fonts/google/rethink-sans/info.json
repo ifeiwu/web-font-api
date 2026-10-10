@@ -1,0 +1,81 @@
+{
+    "id": "rethink-sans",
+    "title": "Rethink Sans",
+    "family": "Rethink Sans",
+    "category": "sans-serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/rethink-sans",
+    "files": [
+        {
+            "name": "RethinkSans-Italic",
+            "ext": "ttf",
+            "subfamily": "Italic",
+            "style": "italic",
+            "weight": 400
+        },
+        {
+            "name": "RethinkSans-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "RethinkSans-Medium",
+            "ext": "ttf",
+            "subfamily": "Medium",
+            "style": "normal",
+            "weight": 500
+        },
+        {
+            "name": "RethinkSans-MediumItalic",
+            "ext": "ttf",
+            "subfamily": "MediumItalic",
+            "style": "italic",
+            "weight": 500
+        },
+        {
+            "name": "RethinkSans-SemiBold",
+            "ext": "ttf",
+            "subfamily": "SemiBold",
+            "style": "normal",
+            "weight": 600
+        },
+        {
+            "name": "RethinkSans-SemiBoldItalic",
+            "ext": "ttf",
+            "subfamily": "SemiBoldItalic",
+            "style": "italic",
+            "weight": 600
+        },
+        {
+            "name": "RethinkSans-Bold",
+            "ext": "ttf",
+            "subfamily": "Bold",
+            "style": "normal",
+            "weight": 700
+        },
+        {
+            "name": "RethinkSans-BoldItalic",
+            "ext": "ttf",
+            "subfamily": "BoldItalic",
+            "style": "italic",
+            "weight": 700
+        },
+        {
+            "name": "RethinkSans-ExtraBold",
+            "ext": "ttf",
+            "subfamily": "ExtraBold",
+            "style": "normal",
+            "weight": 800
+        },
+        {
+            "name": "RethinkSans-ExtraBoldItalic",
+            "ext": "ttf",
+            "subfamily": "ExtraBoldItalic",
+            "style": "italic",
+            "weight": 800
+        }
+    ]
+}

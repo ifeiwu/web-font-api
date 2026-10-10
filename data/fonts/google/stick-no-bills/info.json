@@ -1,0 +1,60 @@
+{
+    "id": "stick-no-bills",
+    "title": "Stick No Bills",
+    "family": "Stick No Bills",
+    "category": "sans-serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/stick-no-bills",
+    "files": [
+        {
+            "name": "StickNoBills-ExtraLight",
+            "ext": "ttf",
+            "subfamily": "ExtraLight",
+            "style": "normal",
+            "weight": 250
+        },
+        {
+            "name": "StickNoBills-Light",
+            "ext": "ttf",
+            "subfamily": "Light",
+            "style": "normal",
+            "weight": 300
+        },
+        {
+            "name": "StickNoBills-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "StickNoBills-Medium",
+            "ext": "ttf",
+            "subfamily": "Medium",
+            "style": "normal",
+            "weight": 500
+        },
+        {
+            "name": "StickNoBills-SemiBold",
+            "ext": "ttf",
+            "subfamily": "SemiBold",
+            "style": "normal",
+            "weight": 600
+        },
+        {
+            "name": "StickNoBills-Bold",
+            "ext": "ttf",
+            "subfamily": "Bold",
+            "style": "normal",
+            "weight": 700
+        },
+        {
+            "name": "StickNoBills-ExtraBold",
+            "ext": "ttf",
+            "subfamily": "ExtraBold",
+            "style": "normal",
+            "weight": 800
+        }
+    ]
+}

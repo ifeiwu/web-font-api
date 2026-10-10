@@ -1,0 +1,18 @@
+{
+    "id": "emilys-candy",
+    "title": "Emilys Candy",
+    "family": "Emilys Candy",
+    "category": "display",
+    "source": "google",
+    "language": "en",
+    "path": "google/emilys-candy",
+    "files": [
+        {
+            "name": "EmilysCandy-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": "allan",
+    "title": "Allan",
+    "family": "Allan",
+    "category": "display",
+    "source": "google",
+    "language": "en",
+    "path": "google/allan",
+    "files": [
+        {
+            "name": "Allan-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "Allan-Bold",
+            "ext": "ttf",
+            "subfamily": "Bold",
+            "style": "normal",
+            "weight": 700
+        }
+    ]
+}

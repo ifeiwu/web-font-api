@@ -1,0 +1,53 @@
+{
+    "id": "gabarito",
+    "title": "Gabarito",
+    "family": "Gabarito",
+    "category": "display",
+    "source": "google",
+    "language": "en",
+    "path": "google/gabarito",
+    "files": [
+        {
+            "name": "Gabarito-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "Gabarito-Medium",
+            "ext": "ttf",
+            "subfamily": "Medium",
+            "style": "normal",
+            "weight": 500
+        },
+        {
+            "name": "Gabarito-SemiBold",
+            "ext": "ttf",
+            "subfamily": "SemiBold",
+            "style": "normal",
+            "weight": 600
+        },
+        {
+            "name": "Gabarito-Bold",
+            "ext": "ttf",
+            "subfamily": "Bold",
+            "style": "normal",
+            "weight": 700
+        },
+        {
+            "name": "Gabarito-ExtraBold",
+            "ext": "ttf",
+            "subfamily": "ExtraBold",
+            "style": "normal",
+            "weight": 800
+        },
+        {
+            "name": "Gabarito-Black",
+            "ext": "ttf",
+            "subfamily": "Black",
+            "style": "normal",
+            "weight": 900
+        }
+    ]
+}

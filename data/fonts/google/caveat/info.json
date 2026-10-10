@@ -1,0 +1,39 @@
+{
+    "id": "caveat",
+    "title": "Caveat",
+    "family": "Caveat",
+    "category": "handwriting",
+    "source": "google",
+    "language": "en",
+    "path": "google/caveat",
+    "files": [
+        {
+            "name": "Caveat-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "Caveat-Medium",
+            "ext": "ttf",
+            "subfamily": "Medium",
+            "style": "normal",
+            "weight": 500
+        },
+        {
+            "name": "Caveat-SemiBold",
+            "ext": "ttf",
+            "subfamily": "SemiBold",
+            "style": "normal",
+            "weight": 600
+        },
+        {
+            "name": "Caveat-Bold",
+            "ext": "ttf",
+            "subfamily": "Bold",
+            "style": "normal",
+            "weight": 700
+        }
+    ]
+}

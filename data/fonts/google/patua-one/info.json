@@ -1,0 +1,18 @@
+{
+    "id": "patua-one",
+    "title": "Patua One",
+    "family": "Patua One",
+    "category": "display",
+    "source": "google",
+    "language": "en",
+    "path": "google/patua-one",
+    "files": [
+        {
+            "name": "PatuaOne-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

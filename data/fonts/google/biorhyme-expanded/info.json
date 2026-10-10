@@ -1,0 +1,46 @@
+{
+    "id": "biorhyme-expanded",
+    "title": "BioRhyme Expanded",
+    "family": "BioRhyme Expanded",
+    "category": "serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/biorhyme-expanded",
+    "files": [
+        {
+            "name": "BioRhymeExpanded-ExtraLight",
+            "ext": "ttf",
+            "subfamily": "ExtraLight",
+            "style": "normal",
+            "weight": 275
+        },
+        {
+            "name": "BioRhymeExpanded-Light",
+            "ext": "ttf",
+            "subfamily": "Light",
+            "style": "normal",
+            "weight": 300
+        },
+        {
+            "name": "BioRhymeExpanded-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "BioRhymeExpanded-Bold",
+            "ext": "ttf",
+            "subfamily": "Bold",
+            "style": "normal",
+            "weight": 700
+        },
+        {
+            "name": "BioRhymeExpanded-ExtraBold",
+            "ext": "ttf",
+            "subfamily": "ExtraBold",
+            "style": "normal",
+            "weight": 800
+        }
+    ]
+}

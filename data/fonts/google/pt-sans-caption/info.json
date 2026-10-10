@@ -1,0 +1,25 @@
+{
+    "id": "pt-sans-caption",
+    "title": "PT Sans Caption",
+    "family": "PT Sans Caption",
+    "category": "sans-serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/pt-sans-caption",
+    "files": [
+        {
+            "name": "PTSansCaption-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "PTSansCaption-Bold",
+            "ext": "ttf",
+            "subfamily": "Bold",
+            "style": "normal",
+            "weight": 700
+        }
+    ]
+}

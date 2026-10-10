@@ -1,0 +1,25 @@
+{
+    "id": "codystar",
+    "title": "Codystar",
+    "family": "Codystar",
+    "category": "display",
+    "source": "google",
+    "language": "en",
+    "path": "google/codystar",
+    "files": [
+        {
+            "name": "Codystar-Light",
+            "ext": "ttf",
+            "subfamily": "Light",
+            "style": "normal",
+            "weight": 300
+        },
+        {
+            "name": "Codystar-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

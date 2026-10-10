@@ -1,0 +1,25 @@
+{
+    "id": "brawler",
+    "title": "Brawler",
+    "family": "Brawler",
+    "category": "serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/brawler",
+    "files": [
+        {
+            "name": "Brawler-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "Brawler-Bold",
+            "ext": "ttf",
+            "subfamily": "Bold",
+            "style": "normal",
+            "weight": 700
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "id": "sometype-mono",
+    "title": "Sometype Mono",
+    "family": "Sometype Mono",
+    "category": "monospace",
+    "source": "google",
+    "language": "en",
+    "path": "google/sometype-mono",
+    "files": [
+        {
+            "name": "SometypeMono-Italic",
+            "ext": "ttf",
+            "subfamily": "Italic",
+            "style": "italic",
+            "weight": 400
+        },
+        {
+            "name": "SometypeMono-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "SometypeMono-Medium",
+            "ext": "ttf",
+            "subfamily": "Medium",
+            "style": "normal",
+            "weight": 500
+        },
+        {
+            "name": "SometypeMono-MediumItalic",
+            "ext": "ttf",
+            "subfamily": "MediumItalic",
+            "style": "italic",
+            "weight": 500
+        },
+        {
+            "name": "SometypeMono-SemiBold",
+            "ext": "ttf",
+            "subfamily": "SemiBold",
+            "style": "normal",
+            "weight": 600
+        },
+        {
+            "name": "SometypeMono-SemiBoldItalic",
+            "ext": "ttf",
+            "subfamily": "SemiBoldItalic",
+            "style": "italic",
+            "weight": 600
+        },
+        {
+            "name": "SometypeMono-Bold",
+            "ext": "ttf",
+            "subfamily": "Bold",
+            "style": "normal",
+            "weight": 700
+        },
+        {
+            "name": "SometypeMono-BoldItalic",
+            "ext": "ttf",
+            "subfamily": "BoldItalic",
+            "style": "italic",
+            "weight": 700
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "id": "loved-by-the-king",
+    "title": "Loved by the King",
+    "family": "Loved by the King",
+    "category": "handwriting",
+    "source": "google",
+    "language": "en",
+    "path": "google/loved-by-the-king",
+    "files": [
+        {
+            "name": "LovedbytheKing-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

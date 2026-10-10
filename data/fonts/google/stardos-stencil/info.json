@@ -1,0 +1,25 @@
+{
+    "id": "stardos-stencil",
+    "title": "Stardos Stencil",
+    "family": "Stardos Stencil",
+    "category": "display",
+    "source": "google",
+    "language": "en",
+    "path": "google/stardos-stencil",
+    "files": [
+        {
+            "name": "StardosStencil-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "StardosStencil-Bold",
+            "ext": "ttf",
+            "subfamily": "Bold",
+            "style": "normal",
+            "weight": 700
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "id": "bonbon",
+    "title": "Bonbon",
+    "family": "Bonbon",
+    "category": "handwriting",
+    "source": "google",
+    "language": "en",
+    "path": "google/bonbon",
+    "files": [
+        {
+            "name": "Bonbon-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

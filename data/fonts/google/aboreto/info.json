@@ -1,0 +1,18 @@
+{
+    "id": "aboreto",
+    "title": "Aboreto",
+    "family": "Aboreto",
+    "category": "display",
+    "source": "google",
+    "language": "en",
+    "path": "google/aboreto",
+    "files": [
+        {
+            "name": "Aboreto-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

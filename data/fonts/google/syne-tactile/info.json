@@ -1,0 +1,18 @@
+{
+    "id": "syne-tactile",
+    "title": "Syne Tactile",
+    "family": "Syne Tactile",
+    "category": "display",
+    "source": "google",
+    "language": "en",
+    "path": "google/syne-tactile",
+    "files": [
+        {
+            "name": "SyneTactile-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

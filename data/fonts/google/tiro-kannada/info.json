@@ -1,0 +1,25 @@
+{
+    "id": "tiro-kannada",
+    "title": "Tiro Kannada",
+    "family": "Tiro Kannada",
+    "category": "serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/tiro-kannada",
+    "files": [
+        {
+            "name": "TiroKannada-Italic",
+            "ext": "ttf",
+            "subfamily": "Italic",
+            "style": "italic",
+            "weight": 400
+        },
+        {
+            "name": "TiroKannada-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

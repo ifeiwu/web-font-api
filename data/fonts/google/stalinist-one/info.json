@@ -1,0 +1,18 @@
+{
+    "id": "stalinist-one",
+    "title": "Stalinist One",
+    "family": "Stalinist One",
+    "category": "display",
+    "source": "google",
+    "language": "en",
+    "path": "google/stalinist-one",
+    "files": [
+        {
+            "name": "StalinistOne-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

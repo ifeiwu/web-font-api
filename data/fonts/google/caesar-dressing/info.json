@@ -1,0 +1,18 @@
+{
+    "id": "caesar-dressing",
+    "title": "Caesar Dressing",
+    "family": "Caesar Dressing",
+    "category": "display",
+    "source": "google",
+    "language": "en",
+    "path": "google/caesar-dressing",
+    "files": [
+        {
+            "name": "CaesarDressing-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

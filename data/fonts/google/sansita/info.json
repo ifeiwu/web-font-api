@@ -1,0 +1,67 @@
+{
+    "id": "sansita",
+    "title": "Sansita",
+    "family": "Sansita",
+    "category": "sans-serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/sansita",
+    "files": [
+        {
+            "name": "Sansita-Italic",
+            "ext": "ttf",
+            "subfamily": "Italic",
+            "style": "italic",
+            "weight": 400
+        },
+        {
+            "name": "Sansita-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "Sansita-Bold",
+            "ext": "ttf",
+            "subfamily": "Bold",
+            "style": "normal",
+            "weight": 700
+        },
+        {
+            "name": "Sansita-BoldItalic",
+            "ext": "ttf",
+            "subfamily": "BoldItalic",
+            "style": "italic",
+            "weight": 700
+        },
+        {
+            "name": "Sansita-ExtraBold",
+            "ext": "ttf",
+            "subfamily": "ExtraBold",
+            "style": "normal",
+            "weight": 800
+        },
+        {
+            "name": "Sansita-ExtraBoldItalic",
+            "ext": "ttf",
+            "subfamily": "ExtraBoldItalic",
+            "style": "italic",
+            "weight": 800
+        },
+        {
+            "name": "Sansita-Black",
+            "ext": "ttf",
+            "subfamily": "Black",
+            "style": "normal",
+            "weight": 900
+        },
+        {
+            "name": "Sansita-BlackItalic",
+            "ext": "ttf",
+            "subfamily": "BlackItalic",
+            "style": "italic",
+            "weight": 900
+        }
+    ]
+}

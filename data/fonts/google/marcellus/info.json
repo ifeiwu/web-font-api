@@ -1,0 +1,18 @@
+{
+    "id": "marcellus",
+    "title": "Marcellus",
+    "family": "Marcellus",
+    "category": "serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/marcellus",
+    "files": [
+        {
+            "name": "Marcellus-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

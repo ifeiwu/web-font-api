@@ -1,0 +1,18 @@
+{
+    "id": "stint-ultra-expanded",
+    "title": "Stint Ultra Expanded",
+    "family": "Stint Ultra Expanded",
+    "category": "serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/stint-ultra-expanded",
+    "files": [
+        {
+            "name": "StintUltraExpanded-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

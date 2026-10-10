@@ -1,0 +1,18 @@
+{
+    "id": "meie-script",
+    "title": "Meie Script",
+    "family": "Meie Script",
+    "category": "handwriting",
+    "source": "google",
+    "language": "en",
+    "path": "google/meie-script",
+    "files": [
+        {
+            "name": "MeieScript-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

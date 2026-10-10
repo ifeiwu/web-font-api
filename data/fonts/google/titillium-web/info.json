@@ -1,0 +1,88 @@
+{
+    "id": "titillium-web",
+    "title": "Titillium Web",
+    "family": "Titillium Web",
+    "category": "sans-serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/titillium-web",
+    "files": [
+        {
+            "name": "TitilliumWeb-ExtraLight",
+            "ext": "ttf",
+            "subfamily": "ExtraLight",
+            "style": "normal",
+            "weight": 275
+        },
+        {
+            "name": "TitilliumWeb-ExtraLightItalic",
+            "ext": "ttf",
+            "subfamily": "ExtraLightItalic",
+            "style": "italic",
+            "weight": 275
+        },
+        {
+            "name": "TitilliumWeb-Light",
+            "ext": "ttf",
+            "subfamily": "Light",
+            "style": "normal",
+            "weight": 300
+        },
+        {
+            "name": "TitilliumWeb-LightItalic",
+            "ext": "ttf",
+            "subfamily": "LightItalic",
+            "style": "italic",
+            "weight": 300
+        },
+        {
+            "name": "TitilliumWeb-Italic",
+            "ext": "ttf",
+            "subfamily": "Italic",
+            "style": "italic",
+            "weight": 400
+        },
+        {
+            "name": "TitilliumWeb-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "TitilliumWeb-SemiBold",
+            "ext": "ttf",
+            "subfamily": "SemiBold",
+            "style": "normal",
+            "weight": 600
+        },
+        {
+            "name": "TitilliumWeb-SemiBoldItalic",
+            "ext": "ttf",
+            "subfamily": "SemiBoldItalic",
+            "style": "italic",
+            "weight": 600
+        },
+        {
+            "name": "TitilliumWeb-Bold",
+            "ext": "ttf",
+            "subfamily": "Bold",
+            "style": "normal",
+            "weight": 700
+        },
+        {
+            "name": "TitilliumWeb-BoldItalic",
+            "ext": "ttf",
+            "subfamily": "BoldItalic",
+            "style": "italic",
+            "weight": 700
+        },
+        {
+            "name": "TitilliumWeb-Black",
+            "ext": "ttf",
+            "subfamily": "Black",
+            "style": "normal",
+            "weight": 900
+        }
+    ]
+}

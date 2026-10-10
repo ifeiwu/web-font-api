@@ -1,0 +1,18 @@
+{
+    "id": "kurale",
+    "title": "Kurale",
+    "family": "Kurale",
+    "category": "serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/kurale",
+    "files": [
+        {
+            "name": "Kurale-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

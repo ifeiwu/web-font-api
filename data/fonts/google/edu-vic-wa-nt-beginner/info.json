@@ -1,0 +1,39 @@
+{
+    "id": "edu-vic-wa-nt-beginner",
+    "title": "Edu VIC WA NT Beginner",
+    "family": "Edu VIC WA NT Beginner",
+    "category": "handwriting",
+    "source": "google",
+    "language": "en",
+    "path": "google/edu-vic-wa-nt-beginner",
+    "files": [
+        {
+            "name": "EduVICWANTBeginner-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "EduVICWANTBeginner-Medium",
+            "ext": "ttf",
+            "subfamily": "Medium",
+            "style": "normal",
+            "weight": 500
+        },
+        {
+            "name": "EduVICWANTBeginner-SemiBold",
+            "ext": "ttf",
+            "subfamily": "SemiBold",
+            "style": "normal",
+            "weight": 600
+        },
+        {
+            "name": "EduVICWANTBeginner-Bold",
+            "ext": "ttf",
+            "subfamily": "Bold",
+            "style": "normal",
+            "weight": 700
+        }
+    ]
+}

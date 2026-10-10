@@ -1,0 +1,25 @@
+{
+    "id": "chau-philomene-one",
+    "title": "Chau Philomene One",
+    "family": "Chau Philomene One",
+    "category": "sans-serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/chau-philomene-one",
+    "files": [
+        {
+            "name": "ChauPhilomeneOne-Italic",
+            "ext": "ttf",
+            "subfamily": "Italic",
+            "style": "italic",
+            "weight": 400
+        },
+        {
+            "name": "ChauPhilomeneOne-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

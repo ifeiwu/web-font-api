@@ -1,0 +1,18 @@
+{
+    "id": "racing-sans-one",
+    "title": "Racing Sans One",
+    "family": "Racing Sans One",
+    "category": "display",
+    "source": "google",
+    "language": "en",
+    "path": "google/racing-sans-one",
+    "files": [
+        {
+            "name": "RacingSansOne-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

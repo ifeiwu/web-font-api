@@ -1,0 +1,18 @@
+{
+    "id": "norican",
+    "title": "Norican",
+    "family": "Norican",
+    "category": "handwriting",
+    "source": "google",
+    "language": "en",
+    "path": "google/norican",
+    "files": [
+        {
+            "name": "Norican-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

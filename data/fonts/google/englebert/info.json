@@ -1,0 +1,18 @@
+{
+    "id": "englebert",
+    "title": "Englebert",
+    "family": "Englebert",
+    "category": "sans-serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/englebert",
+    "files": [
+        {
+            "name": "Englebert-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

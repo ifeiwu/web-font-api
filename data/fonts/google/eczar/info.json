@@ -1,0 +1,46 @@
+{
+    "id": "eczar",
+    "title": "Eczar",
+    "family": "Eczar",
+    "category": "serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/eczar",
+    "files": [
+        {
+            "name": "Eczar-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "Eczar-Medium",
+            "ext": "ttf",
+            "subfamily": "Medium",
+            "style": "normal",
+            "weight": 500
+        },
+        {
+            "name": "Eczar-SemiBold",
+            "ext": "ttf",
+            "subfamily": "SemiBold",
+            "style": "normal",
+            "weight": 600
+        },
+        {
+            "name": "Eczar-Bold",
+            "ext": "ttf",
+            "subfamily": "Bold",
+            "style": "normal",
+            "weight": 700
+        },
+        {
+            "name": "Eczar-ExtraBold",
+            "ext": "ttf",
+            "subfamily": "ExtraBold",
+            "style": "normal",
+            "weight": 800
+        }
+    ]
+}

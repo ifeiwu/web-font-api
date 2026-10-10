@@ -1,0 +1,18 @@
+{
+    "id": "petit-formal-script",
+    "title": "Petit Formal Script",
+    "family": "Petit Formal Script",
+    "category": "handwriting",
+    "source": "google",
+    "language": "en",
+    "path": "google/petit-formal-script",
+    "files": [
+        {
+            "name": "PetitFormalScript-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "id": "hind-siliguri",
+    "title": "Hind Siliguri",
+    "family": "Hind Siliguri",
+    "category": "sans-serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/hind-siliguri",
+    "files": [
+        {
+            "name": "HindSiliguri-Light",
+            "ext": "ttf",
+            "subfamily": "Light",
+            "style": "normal",
+            "weight": 300
+        },
+        {
+            "name": "HindSiliguri-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "HindSiliguri-Medium",
+            "ext": "ttf",
+            "subfamily": "Medium",
+            "style": "normal",
+            "weight": 500
+        },
+        {
+            "name": "HindSiliguri-SemiBold",
+            "ext": "ttf",
+            "subfamily": "SemiBold",
+            "style": "normal",
+            "weight": 600
+        },
+        {
+            "name": "HindSiliguri-Bold",
+            "ext": "ttf",
+            "subfamily": "Bold",
+            "style": "normal",
+            "weight": 700
+        }
+    ]
+}

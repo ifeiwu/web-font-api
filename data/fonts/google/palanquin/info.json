@@ -1,0 +1,60 @@
+{
+    "id": "palanquin",
+    "title": "Palanquin",
+    "family": "Palanquin",
+    "category": "sans-serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/palanquin",
+    "files": [
+        {
+            "name": "Palanquin-Thin",
+            "ext": "ttf",
+            "subfamily": "Thin",
+            "style": "normal",
+            "weight": 250
+        },
+        {
+            "name": "Palanquin-ExtraLight",
+            "ext": "ttf",
+            "subfamily": "ExtraLight",
+            "style": "normal",
+            "weight": 275
+        },
+        {
+            "name": "Palanquin-Light",
+            "ext": "ttf",
+            "subfamily": "Light",
+            "style": "normal",
+            "weight": 300
+        },
+        {
+            "name": "Palanquin-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "Palanquin-Medium",
+            "ext": "ttf",
+            "subfamily": "Medium",
+            "style": "normal",
+            "weight": 500
+        },
+        {
+            "name": "Palanquin-SemiBold",
+            "ext": "ttf",
+            "subfamily": "SemiBold",
+            "style": "normal",
+            "weight": 600
+        },
+        {
+            "name": "Palanquin-Bold",
+            "ext": "ttf",
+            "subfamily": "Bold",
+            "style": "normal",
+            "weight": 700
+        }
+    ]
+}

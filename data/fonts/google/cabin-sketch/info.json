@@ -1,0 +1,25 @@
+{
+    "id": "cabin-sketch",
+    "title": "Cabin Sketch",
+    "family": "Cabin Sketch",
+    "category": "display",
+    "source": "google",
+    "language": "en",
+    "path": "google/cabin-sketch",
+    "files": [
+        {
+            "name": "CabinSketch-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "CabinSketch-Bold",
+            "ext": "ttf",
+            "subfamily": "Bold",
+            "style": "normal",
+            "weight": 700
+        }
+    ]
+}

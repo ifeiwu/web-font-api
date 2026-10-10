@@ -1,0 +1,137 @@
+{
+    "id": "sofia-sans",
+    "title": "Sofia Sans",
+    "family": "Sofia Sans",
+    "category": "sans-serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/sofia-sans",
+    "files": [
+        {
+            "name": "SofiaSans-ExtraLight",
+            "ext": "ttf",
+            "subfamily": "ExtraLight",
+            "style": "normal",
+            "weight": 250
+        },
+        {
+            "name": "SofiaSans-ExtraLightItalic",
+            "ext": "ttf",
+            "subfamily": "ExtraLightItalic",
+            "style": "italic",
+            "weight": 250
+        },
+        {
+            "name": "SofiaSans-Thin",
+            "ext": "ttf",
+            "subfamily": "Thin",
+            "style": "normal",
+            "weight": 250
+        },
+        {
+            "name": "SofiaSans-ThinItalic",
+            "ext": "ttf",
+            "subfamily": "ThinItalic",
+            "style": "italic",
+            "weight": 250
+        },
+        {
+            "name": "SofiaSans-Light",
+            "ext": "ttf",
+            "subfamily": "Light",
+            "style": "normal",
+            "weight": 300
+        },
+        {
+            "name": "SofiaSans-LightItalic",
+            "ext": "ttf",
+            "subfamily": "LightItalic",
+            "style": "italic",
+            "weight": 300
+        },
+        {
+            "name": "SofiaSans-Italic",
+            "ext": "ttf",
+            "subfamily": "Italic",
+            "style": "italic",
+            "weight": 400
+        },
+        {
+            "name": "SofiaSans-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "SofiaSans-Medium",
+            "ext": "ttf",
+            "subfamily": "Medium",
+            "style": "normal",
+            "weight": 500
+        },
+        {
+            "name": "SofiaSans-MediumItalic",
+            "ext": "ttf",
+            "subfamily": "MediumItalic",
+            "style": "italic",
+            "weight": 500
+        },
+        {
+            "name": "SofiaSans-SemiBold",
+            "ext": "ttf",
+            "subfamily": "SemiBold",
+            "style": "normal",
+            "weight": 600
+        },
+        {
+            "name": "SofiaSans-SemiBoldItalic",
+            "ext": "ttf",
+            "subfamily": "SemiBoldItalic",
+            "style": "italic",
+            "weight": 600
+        },
+        {
+            "name": "SofiaSans-Bold",
+            "ext": "ttf",
+            "subfamily": "Bold",
+            "style": "normal",
+            "weight": 700
+        },
+        {
+            "name": "SofiaSans-BoldItalic",
+            "ext": "ttf",
+            "subfamily": "BoldItalic",
+            "style": "italic",
+            "weight": 700
+        },
+        {
+            "name": "SofiaSans-ExtraBold",
+            "ext": "ttf",
+            "subfamily": "ExtraBold",
+            "style": "normal",
+            "weight": 800
+        },
+        {
+            "name": "SofiaSans-ExtraBoldItalic",
+            "ext": "ttf",
+            "subfamily": "ExtraBoldItalic",
+            "style": "italic",
+            "weight": 800
+        },
+        {
+            "name": "SofiaSans-Black",
+            "ext": "ttf",
+            "subfamily": "Black",
+            "style": "normal",
+            "weight": 900
+        },
+        {
+            "name": "SofiaSans-BlackItalic",
+            "ext": "ttf",
+            "subfamily": "BlackItalic",
+            "style": "italic",
+            "weight": 900
+        }
+    ]
+}

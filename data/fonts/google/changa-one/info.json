@@ -1,0 +1,25 @@
+{
+    "id": "changa-one",
+    "title": "Changa One",
+    "family": "Changa One",
+    "category": "display",
+    "source": "google",
+    "language": "en",
+    "path": "google/changa-one",
+    "files": [
+        {
+            "name": "ChangaOne-Italic",
+            "ext": "ttf",
+            "subfamily": "Italic",
+            "style": "italic",
+            "weight": 400
+        },
+        {
+            "name": "ChangaOne-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

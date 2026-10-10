@@ -1,0 +1,67 @@
+{
+    "id": "anek-gurmukhi",
+    "title": "Anek Gurmukhi",
+    "family": "Anek Gurmukhi",
+    "category": "sans-serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/anek-gurmukhi",
+    "files": [
+        {
+            "name": "AnekGurmukhi-ExtraLight",
+            "ext": "ttf",
+            "subfamily": "ExtraLight",
+            "style": "normal",
+            "weight": 250
+        },
+        {
+            "name": "AnekGurmukhi-Thin",
+            "ext": "ttf",
+            "subfamily": "Thin",
+            "style": "normal",
+            "weight": 250
+        },
+        {
+            "name": "AnekGurmukhi-Light",
+            "ext": "ttf",
+            "subfamily": "Light",
+            "style": "normal",
+            "weight": 300
+        },
+        {
+            "name": "AnekGurmukhi-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "AnekGurmukhi-Medium",
+            "ext": "ttf",
+            "subfamily": "Medium",
+            "style": "normal",
+            "weight": 500
+        },
+        {
+            "name": "AnekGurmukhi-SemiBold",
+            "ext": "ttf",
+            "subfamily": "SemiBold",
+            "style": "normal",
+            "weight": 600
+        },
+        {
+            "name": "AnekGurmukhi-Bold",
+            "ext": "ttf",
+            "subfamily": "Bold",
+            "style": "normal",
+            "weight": 700
+        },
+        {
+            "name": "AnekGurmukhi-ExtraBold",
+            "ext": "ttf",
+            "subfamily": "ExtraBold",
+            "style": "normal",
+            "weight": 800
+        }
+    ]
+}

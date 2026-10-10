@@ -1,0 +1,74 @@
+{
+    "id": "catamaran",
+    "title": "Catamaran",
+    "family": "Catamaran",
+    "category": "sans-serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/catamaran",
+    "files": [
+        {
+            "name": "Catamaran-ExtraLight",
+            "ext": "ttf",
+            "subfamily": "ExtraLight",
+            "style": "normal",
+            "weight": 250
+        },
+        {
+            "name": "Catamaran-Thin",
+            "ext": "ttf",
+            "subfamily": "Thin",
+            "style": "normal",
+            "weight": 250
+        },
+        {
+            "name": "Catamaran-Light",
+            "ext": "ttf",
+            "subfamily": "Light",
+            "style": "normal",
+            "weight": 300
+        },
+        {
+            "name": "Catamaran-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "Catamaran-Medium",
+            "ext": "ttf",
+            "subfamily": "Medium",
+            "style": "normal",
+            "weight": 500
+        },
+        {
+            "name": "Catamaran-SemiBold",
+            "ext": "ttf",
+            "subfamily": "SemiBold",
+            "style": "normal",
+            "weight": 600
+        },
+        {
+            "name": "Catamaran-Bold",
+            "ext": "ttf",
+            "subfamily": "Bold",
+            "style": "normal",
+            "weight": 700
+        },
+        {
+            "name": "Catamaran-ExtraBold",
+            "ext": "ttf",
+            "subfamily": "ExtraBold",
+            "style": "normal",
+            "weight": 800
+        },
+        {
+            "name": "Catamaran-Black",
+            "ext": "ttf",
+            "subfamily": "Black",
+            "style": "normal",
+            "weight": 900
+        }
+    ]
+}

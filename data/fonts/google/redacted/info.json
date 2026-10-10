@@ -1,0 +1,18 @@
+{
+    "id": "redacted",
+    "title": "Redacted",
+    "family": "Redacted",
+    "category": "display",
+    "source": "google",
+    "language": "en",
+    "path": "google/redacted",
+    "files": [
+        {
+            "name": "Redacted-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

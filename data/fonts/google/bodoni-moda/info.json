@@ -1,0 +1,95 @@
+{
+    "id": "bodoni-moda",
+    "title": "Bodoni Moda",
+    "family": "Bodoni Moda",
+    "category": "serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/bodoni-moda",
+    "files": [
+        {
+            "name": "BodoniModa-Italic",
+            "ext": "ttf",
+            "subfamily": "Italic",
+            "style": "italic",
+            "weight": 400
+        },
+        {
+            "name": "BodoniModa-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "BodoniModa-Medium",
+            "ext": "ttf",
+            "subfamily": "Medium",
+            "style": "normal",
+            "weight": 500
+        },
+        {
+            "name": "BodoniModa-MediumItalic",
+            "ext": "ttf",
+            "subfamily": "MediumItalic",
+            "style": "italic",
+            "weight": 500
+        },
+        {
+            "name": "BodoniModa-SemiBold",
+            "ext": "ttf",
+            "subfamily": "SemiBold",
+            "style": "normal",
+            "weight": 600
+        },
+        {
+            "name": "BodoniModa-SemiBoldItalic",
+            "ext": "ttf",
+            "subfamily": "SemiBoldItalic",
+            "style": "italic",
+            "weight": 600
+        },
+        {
+            "name": "BodoniModa-Bold",
+            "ext": "ttf",
+            "subfamily": "Bold",
+            "style": "normal",
+            "weight": 700
+        },
+        {
+            "name": "BodoniModa-BoldItalic",
+            "ext": "ttf",
+            "subfamily": "BoldItalic",
+            "style": "italic",
+            "weight": 700
+        },
+        {
+            "name": "BodoniModa-ExtraBold",
+            "ext": "ttf",
+            "subfamily": "ExtraBold",
+            "style": "normal",
+            "weight": 800
+        },
+        {
+            "name": "BodoniModa-ExtraBoldItalic",
+            "ext": "ttf",
+            "subfamily": "ExtraBoldItalic",
+            "style": "italic",
+            "weight": 800
+        },
+        {
+            "name": "BodoniModa-Black",
+            "ext": "ttf",
+            "subfamily": "Black",
+            "style": "normal",
+            "weight": 900
+        },
+        {
+            "name": "BodoniModa-BlackItalic",
+            "ext": "ttf",
+            "subfamily": "BlackItalic",
+            "style": "italic",
+            "weight": 900
+        }
+    ]
+}

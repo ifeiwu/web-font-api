@@ -1,0 +1,32 @@
+{
+    "id": "life-savers",
+    "title": "Life Savers",
+    "family": "Life Savers",
+    "category": "display",
+    "source": "google",
+    "language": "en",
+    "path": "google/life-savers",
+    "files": [
+        {
+            "name": "LifeSavers-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "LifeSavers-Bold",
+            "ext": "ttf",
+            "subfamily": "Bold",
+            "style": "normal",
+            "weight": 700
+        },
+        {
+            "name": "LifeSavers-ExtraBold",
+            "ext": "ttf",
+            "subfamily": "ExtraBold",
+            "style": "normal",
+            "weight": 800
+        }
+    ]
+}

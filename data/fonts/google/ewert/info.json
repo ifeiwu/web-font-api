@@ -1,0 +1,18 @@
+{
+    "id": "ewert",
+    "title": "Ewert",
+    "family": "Ewert",
+    "category": "display",
+    "source": "google",
+    "language": "en",
+    "path": "google/ewert",
+    "files": [
+        {
+            "name": "Ewert-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

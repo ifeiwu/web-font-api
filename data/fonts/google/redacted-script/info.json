@@ -1,0 +1,32 @@
+{
+    "id": "redacted-script",
+    "title": "Redacted Script",
+    "family": "Redacted Script",
+    "category": "display",
+    "source": "google",
+    "language": "en",
+    "path": "google/redacted-script",
+    "files": [
+        {
+            "name": "RedactedScript-Light",
+            "ext": "ttf",
+            "subfamily": "Light",
+            "style": "normal",
+            "weight": 300
+        },
+        {
+            "name": "RedactedScript-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "RedactedScript-Bold",
+            "ext": "ttf",
+            "subfamily": "Bold",
+            "style": "normal",
+            "weight": 700
+        }
+    ]
+}

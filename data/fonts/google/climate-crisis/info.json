@@ -1,0 +1,18 @@
+{
+    "id": "climate-crisis",
+    "title": "Climate Crisis",
+    "family": "Climate Crisis",
+    "category": "display",
+    "source": "google",
+    "language": "en",
+    "path": "google/climate-crisis",
+    "files": [
+        {
+            "name": "ClimateCrisis-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

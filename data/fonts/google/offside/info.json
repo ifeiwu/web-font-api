@@ -1,0 +1,18 @@
+{
+    "id": "offside",
+    "title": "Offside",
+    "family": "Offside",
+    "category": "display",
+    "source": "google",
+    "language": "en",
+    "path": "google/offside",
+    "files": [
+        {
+            "name": "Offside-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

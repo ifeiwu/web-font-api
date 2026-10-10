@@ -1,0 +1,18 @@
+{
+    "id": "croissant-one",
+    "title": "Croissant One",
+    "family": "Croissant One",
+    "category": "display",
+    "source": "google",
+    "language": "en",
+    "path": "google/croissant-one",
+    "files": [
+        {
+            "name": "CroissantOne-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

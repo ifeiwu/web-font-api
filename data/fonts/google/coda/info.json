@@ -1,0 +1,25 @@
+{
+    "id": "coda",
+    "title": "Coda",
+    "family": "Coda",
+    "category": "display",
+    "source": "google",
+    "language": "en",
+    "path": "google/coda",
+    "files": [
+        {
+            "name": "Coda-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "Coda-ExtraBold",
+            "ext": "ttf",
+            "subfamily": "ExtraBold",
+            "style": "normal",
+            "weight": 800
+        }
+    ]
+}

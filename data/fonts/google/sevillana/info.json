@@ -1,0 +1,18 @@
+{
+    "id": "sevillana",
+    "title": "Sevillana",
+    "family": "Sevillana",
+    "category": "display",
+    "source": "google",
+    "language": "en",
+    "path": "google/sevillana",
+    "files": [
+        {
+            "name": "Sevillana-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

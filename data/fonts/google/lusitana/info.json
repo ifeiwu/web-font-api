@@ -1,0 +1,25 @@
+{
+    "id": "lusitana",
+    "title": "Lusitana",
+    "family": "Lusitana",
+    "category": "serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/lusitana",
+    "files": [
+        {
+            "name": "Lusitana-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "Lusitana-Bold",
+            "ext": "ttf",
+            "subfamily": "Bold",
+            "style": "normal",
+            "weight": 700
+        }
+    ]
+}

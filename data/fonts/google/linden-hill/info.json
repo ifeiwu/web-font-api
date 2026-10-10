@@ -1,0 +1,25 @@
+{
+    "id": "linden-hill",
+    "title": "Linden Hill",
+    "family": "Linden Hill",
+    "category": "serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/linden-hill",
+    "files": [
+        {
+            "name": "LindenHill-Italic",
+            "ext": "ttf",
+            "subfamily": "Italic",
+            "style": "italic",
+            "weight": 400
+        },
+        {
+            "name": "LindenHill-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

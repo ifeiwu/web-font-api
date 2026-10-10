@@ -1,0 +1,18 @@
+{
+    "id": "libre-barcode-39",
+    "title": "Libre Barcode 39",
+    "family": "Libre Barcode 39",
+    "category": "display",
+    "source": "google",
+    "language": "en",
+    "path": "google/libre-barcode-39",
+    "files": [
+        {
+            "name": "LibreBarcode39-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

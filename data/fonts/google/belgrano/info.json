@@ -1,0 +1,18 @@
+{
+    "id": "belgrano",
+    "title": "Belgrano",
+    "family": "Belgrano",
+    "category": "serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/belgrano",
+    "files": [
+        {
+            "name": "Belgrano-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

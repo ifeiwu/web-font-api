@@ -1,0 +1,18 @@
+{
+    "id": "henny-penny",
+    "title": "Henny Penny",
+    "family": "Henny Penny",
+    "category": "display",
+    "source": "google",
+    "language": "en",
+    "path": "google/henny-penny",
+    "files": [
+        {
+            "name": "HennyPenny-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "id": "poiret-one",
+    "title": "Poiret One",
+    "family": "Poiret One",
+    "category": "display",
+    "source": "google",
+    "language": "en",
+    "path": "google/poiret-one",
+    "files": [
+        {
+            "name": "PoiretOne-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "id": "tauri",
+    "title": "Tauri",
+    "family": "Tauri",
+    "category": "sans-serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/tauri",
+    "files": [
+        {
+            "name": "Tauri-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

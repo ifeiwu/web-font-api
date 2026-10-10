@@ -1,0 +1,18 @@
+{
+    "id": "butcherman",
+    "title": "Butcherman",
+    "family": "Butcherman",
+    "category": "display",
+    "source": "google",
+    "language": "en",
+    "path": "google/butcherman",
+    "files": [
+        {
+            "name": "Butcherman-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

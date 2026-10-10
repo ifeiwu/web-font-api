@@ -1,0 +1,18 @@
+{
+    "id": "noto-music",
+    "title": "Noto Music",
+    "family": "Noto Music",
+    "category": "sans-serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/noto-music",
+    "files": [
+        {
+            "name": "NotoMusic-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

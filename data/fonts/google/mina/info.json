@@ -1,0 +1,25 @@
+{
+    "id": "mina",
+    "title": "Mina",
+    "family": "Mina",
+    "category": "sans-serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/mina",
+    "files": [
+        {
+            "name": "Mina-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "Mina-Bold",
+            "ext": "ttf",
+            "subfamily": "Bold",
+            "style": "normal",
+            "weight": 700
+        }
+    ]
+}

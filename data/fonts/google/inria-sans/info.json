@@ -1,0 +1,53 @@
+{
+    "id": "inria-sans",
+    "title": "Inria Sans",
+    "family": "Inria Sans",
+    "category": "sans-serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/inria-sans",
+    "files": [
+        {
+            "name": "InriaSans-Light",
+            "ext": "ttf",
+            "subfamily": "Light",
+            "style": "normal",
+            "weight": 300
+        },
+        {
+            "name": "InriaSans-LightItalic",
+            "ext": "ttf",
+            "subfamily": "LightItalic",
+            "style": "italic",
+            "weight": 300
+        },
+        {
+            "name": "InriaSans-Italic",
+            "ext": "ttf",
+            "subfamily": "Italic",
+            "style": "italic",
+            "weight": 400
+        },
+        {
+            "name": "InriaSans-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "InriaSans-Bold",
+            "ext": "ttf",
+            "subfamily": "Bold",
+            "style": "normal",
+            "weight": 700
+        },
+        {
+            "name": "InriaSans-BoldItalic",
+            "ext": "ttf",
+            "subfamily": "BoldItalic",
+            "style": "italic",
+            "weight": 700
+        }
+    ]
+}

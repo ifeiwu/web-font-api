@@ -1,0 +1,18 @@
+{
+    "id": "pavanam",
+    "title": "Pavanam",
+    "family": "Pavanam",
+    "category": "sans-serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/pavanam",
+    "files": [
+        {
+            "name": "Pavanam-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

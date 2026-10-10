@@ -1,0 +1,18 @@
+{
+    "id": "leckerli-one",
+    "title": "Leckerli One",
+    "family": "Leckerli One",
+    "category": "handwriting",
+    "source": "google",
+    "language": "en",
+    "path": "google/leckerli-one",
+    "files": [
+        {
+            "name": "LeckerliOne-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

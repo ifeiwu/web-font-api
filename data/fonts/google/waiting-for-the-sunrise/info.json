@@ -1,0 +1,18 @@
+{
+    "id": "waiting-for-the-sunrise",
+    "title": "Waiting for the Sunrise",
+    "family": "Waiting for the Sunrise",
+    "category": "handwriting",
+    "source": "google",
+    "language": "en",
+    "path": "google/waiting-for-the-sunrise",
+    "files": [
+        {
+            "name": "WaitingfortheSunrise-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 300
+        }
+    ]
+}

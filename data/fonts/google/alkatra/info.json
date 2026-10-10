@@ -1,0 +1,39 @@
+{
+    "id": "alkatra",
+    "title": "Alkatra",
+    "family": "Alkatra",
+    "category": "display",
+    "source": "google",
+    "language": "en",
+    "path": "google/alkatra",
+    "files": [
+        {
+            "name": "Alkatra-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "Alkatra-Medium",
+            "ext": "ttf",
+            "subfamily": "Medium",
+            "style": "normal",
+            "weight": 500
+        },
+        {
+            "name": "Alkatra-SemiBold",
+            "ext": "ttf",
+            "subfamily": "SemiBold",
+            "style": "normal",
+            "weight": 600
+        },
+        {
+            "name": "Alkatra-Bold",
+            "ext": "ttf",
+            "subfamily": "Bold",
+            "style": "normal",
+            "weight": 700
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "id": "libre-caslon-text",
+    "title": "Libre Caslon Text",
+    "family": "Libre Caslon Text",
+    "category": "serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/libre-caslon-text",
+    "files": [
+        {
+            "name": "LibreCaslonText-Italic",
+            "ext": "ttf",
+            "subfamily": "Italic",
+            "style": "italic",
+            "weight": 400
+        },
+        {
+            "name": "LibreCaslonText-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "LibreCaslonText-Bold",
+            "ext": "ttf",
+            "subfamily": "Bold",
+            "style": "normal",
+            "weight": 700
+        }
+    ]
+}

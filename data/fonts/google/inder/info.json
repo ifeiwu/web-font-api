@@ -1,0 +1,18 @@
+{
+    "id": "inder",
+    "title": "Inder",
+    "family": "Inder",
+    "category": "sans-serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/inder",
+    "files": [
+        {
+            "name": "Inder-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

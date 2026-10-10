@@ -1,0 +1,18 @@
+{
+    "id": "rationale",
+    "title": "Rationale",
+    "family": "Rationale",
+    "category": "sans-serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/rationale",
+    "files": [
+        {
+            "name": "Rationale-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

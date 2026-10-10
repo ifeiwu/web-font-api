@@ -1,0 +1,25 @@
+{
+    "id": "montserrat-subrayada",
+    "title": "Montserrat Subrayada",
+    "family": "Montserrat Subrayada",
+    "category": "sans-serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/montserrat-subrayada",
+    "files": [
+        {
+            "name": "MontserratSubrayada-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "MontserratSubrayada-Bold",
+            "ext": "ttf",
+            "subfamily": "Bold",
+            "style": "normal",
+            "weight": 700
+        }
+    ]
+}

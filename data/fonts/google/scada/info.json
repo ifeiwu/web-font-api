@@ -1,0 +1,39 @@
+{
+    "id": "scada",
+    "title": "Scada",
+    "family": "Scada",
+    "category": "sans-serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/scada",
+    "files": [
+        {
+            "name": "Scada-Italic",
+            "ext": "ttf",
+            "subfamily": "Italic",
+            "style": "italic",
+            "weight": 400
+        },
+        {
+            "name": "Scada-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "Scada-Bold",
+            "ext": "ttf",
+            "subfamily": "Bold",
+            "style": "normal",
+            "weight": 700
+        },
+        {
+            "name": "Scada-BoldItalic",
+            "ext": "ttf",
+            "subfamily": "BoldItalic",
+            "style": "italic",
+            "weight": 700
+        }
+    ]
+}

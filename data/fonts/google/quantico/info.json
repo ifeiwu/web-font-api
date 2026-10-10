@@ -1,0 +1,39 @@
+{
+    "id": "quantico",
+    "title": "Quantico",
+    "family": "Quantico",
+    "category": "sans-serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/quantico",
+    "files": [
+        {
+            "name": "Quantico-Italic",
+            "ext": "ttf",
+            "subfamily": "Italic",
+            "style": "italic",
+            "weight": 400
+        },
+        {
+            "name": "Quantico-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "Quantico-Bold",
+            "ext": "ttf",
+            "subfamily": "Bold",
+            "style": "normal",
+            "weight": 700
+        },
+        {
+            "name": "Quantico-BoldItalic",
+            "ext": "ttf",
+            "subfamily": "BoldItalic",
+            "style": "italic",
+            "weight": 700
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": "quattrocento",
+    "title": "Quattrocento",
+    "family": "Quattrocento",
+    "category": "serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/quattrocento",
+    "files": [
+        {
+            "name": "Quattrocento-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "Quattrocento-Bold",
+            "ext": "ttf",
+            "subfamily": "Bold",
+            "style": "normal",
+            "weight": 700
+        }
+    ]
+}

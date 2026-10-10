@@ -1,0 +1,53 @@
+{
+    "id": "overlock",
+    "title": "Overlock",
+    "family": "Overlock",
+    "category": "display",
+    "source": "google",
+    "language": "en",
+    "path": "google/overlock",
+    "files": [
+        {
+            "name": "Overlock-Italic",
+            "ext": "ttf",
+            "subfamily": "Italic",
+            "style": "italic",
+            "weight": 400
+        },
+        {
+            "name": "Overlock-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "Overlock-Bold",
+            "ext": "ttf",
+            "subfamily": "Bold",
+            "style": "normal",
+            "weight": 700
+        },
+        {
+            "name": "Overlock-BoldItalic",
+            "ext": "ttf",
+            "subfamily": "BoldItalic",
+            "style": "italic",
+            "weight": 700
+        },
+        {
+            "name": "Overlock-Black",
+            "ext": "ttf",
+            "subfamily": "Black",
+            "style": "normal",
+            "weight": 900
+        },
+        {
+            "name": "Overlock-BlackItalic",
+            "ext": "ttf",
+            "subfamily": "BlackItalic",
+            "style": "italic",
+            "weight": 900
+        }
+    ]
+}

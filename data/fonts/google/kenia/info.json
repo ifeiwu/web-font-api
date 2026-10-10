@@ -1,0 +1,18 @@
+{
+    "id": "kenia",
+    "title": "Kenia",
+    "family": "Kenia",
+    "category": "display",
+    "source": "google",
+    "language": "en",
+    "path": "google/kenia",
+    "files": [
+        {
+            "name": "Kenia-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

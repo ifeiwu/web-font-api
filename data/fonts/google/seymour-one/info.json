@@ -1,0 +1,18 @@
+{
+    "id": "seymour-one",
+    "title": "Seymour One",
+    "family": "Seymour One",
+    "category": "sans-serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/seymour-one",
+    "files": [
+        {
+            "name": "SeymourOne-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

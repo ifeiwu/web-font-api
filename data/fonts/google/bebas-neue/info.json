@@ -1,0 +1,18 @@
+{
+    "id": "bebas-neue",
+    "title": "Bebas Neue",
+    "family": "Bebas Neue",
+    "category": "sans-serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/bebas-neue",
+    "files": [
+        {
+            "name": "BebasNeue-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

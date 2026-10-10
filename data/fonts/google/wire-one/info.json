@@ -1,0 +1,18 @@
+{
+    "id": "wire-one",
+    "title": "Wire One",
+    "family": "Wire One",
+    "category": "sans-serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/wire-one",
+    "files": [
+        {
+            "name": "WireOne-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

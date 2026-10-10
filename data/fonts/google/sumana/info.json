@@ -1,0 +1,25 @@
+{
+    "id": "sumana",
+    "title": "Sumana",
+    "family": "Sumana",
+    "category": "serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/sumana",
+    "files": [
+        {
+            "name": "Sumana-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "Sumana-Bold",
+            "ext": "ttf",
+            "subfamily": "Bold",
+            "style": "normal",
+            "weight": 700
+        }
+    ]
+}

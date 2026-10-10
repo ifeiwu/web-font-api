@@ -1,0 +1,46 @@
+{
+    "id": "noto-traditional-nushu",
+    "title": "Noto Traditional Nushu",
+    "family": "Noto Traditional Nushu",
+    "category": "sans-serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/noto-traditional-nushu",
+    "files": [
+        {
+            "name": "NotoTraditionalNushu-Light",
+            "ext": "ttf",
+            "subfamily": "Light",
+            "style": "normal",
+            "weight": 300
+        },
+        {
+            "name": "NotoTraditionalNushu-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "NotoTraditionalNushu-Medium",
+            "ext": "ttf",
+            "subfamily": "Medium",
+            "style": "normal",
+            "weight": 500
+        },
+        {
+            "name": "NotoTraditionalNushu-SemiBold",
+            "ext": "ttf",
+            "subfamily": "SemiBold",
+            "style": "normal",
+            "weight": 600
+        },
+        {
+            "name": "NotoTraditionalNushu-Bold",
+            "ext": "ttf",
+            "subfamily": "Bold",
+            "style": "normal",
+            "weight": 700
+        }
+    ]
+}

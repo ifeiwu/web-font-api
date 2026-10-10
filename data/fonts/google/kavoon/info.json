@@ -1,0 +1,18 @@
+{
+    "id": "kavoon",
+    "title": "Kavoon",
+    "family": "Kavoon",
+    "category": "display",
+    "source": "google",
+    "language": "en",
+    "path": "google/kavoon",
+    "files": [
+        {
+            "name": "Kavoon-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

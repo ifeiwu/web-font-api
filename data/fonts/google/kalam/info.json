@@ -1,0 +1,32 @@
+{
+    "id": "kalam",
+    "title": "Kalam",
+    "family": "Kalam",
+    "category": "handwriting",
+    "source": "google",
+    "language": "en",
+    "path": "google/kalam",
+    "files": [
+        {
+            "name": "Kalam-Light",
+            "ext": "ttf",
+            "subfamily": "Light",
+            "style": "normal",
+            "weight": 300
+        },
+        {
+            "name": "Kalam-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "Kalam-Bold",
+            "ext": "ttf",
+            "subfamily": "Bold",
+            "style": "normal",
+            "weight": 700
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": "tiro-devanagari-marathi",
+    "title": "Tiro Devanagari Marathi",
+    "family": "Tiro Devanagari Marathi",
+    "category": "serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/tiro-devanagari-marathi",
+    "files": [
+        {
+            "name": "TiroDevanagariMarathi-Italic",
+            "ext": "ttf",
+            "subfamily": "Italic",
+            "style": "italic",
+            "weight": 400
+        },
+        {
+            "name": "TiroDevanagariMarathi-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

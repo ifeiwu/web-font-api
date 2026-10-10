@@ -1,0 +1,39 @@
+{
+    "id": "edu-sa-beginner",
+    "title": "Edu SA Beginner",
+    "family": "Edu SA Beginner",
+    "category": "handwriting",
+    "source": "google",
+    "language": "en",
+    "path": "google/edu-sa-beginner",
+    "files": [
+        {
+            "name": "EduSABeginner-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "EduSABeginner-Medium",
+            "ext": "ttf",
+            "subfamily": "Medium",
+            "style": "normal",
+            "weight": 500
+        },
+        {
+            "name": "EduSABeginner-SemiBold",
+            "ext": "ttf",
+            "subfamily": "SemiBold",
+            "style": "normal",
+            "weight": 600
+        },
+        {
+            "name": "EduSABeginner-Bold",
+            "ext": "ttf",
+            "subfamily": "Bold",
+            "style": "normal",
+            "weight": 700
+        }
+    ]
+}

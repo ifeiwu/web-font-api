@@ -1,0 +1,18 @@
+{
+    "id": "homemade-apple",
+    "title": "Homemade Apple",
+    "family": "Homemade Apple",
+    "category": "handwriting",
+    "source": "google",
+    "language": "en",
+    "path": "google/homemade-apple",
+    "files": [
+        {
+            "name": "HomemadeApple-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

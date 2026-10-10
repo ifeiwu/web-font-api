@@ -1,0 +1,32 @@
+{
+    "id": "fira-mono",
+    "title": "Fira Mono",
+    "family": "Fira Mono",
+    "category": "monospace",
+    "source": "google",
+    "language": "en",
+    "path": "google/fira-mono",
+    "files": [
+        {
+            "name": "FiraMono-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "FiraMono-Medium",
+            "ext": "ttf",
+            "subfamily": "Medium",
+            "style": "normal",
+            "weight": 500
+        },
+        {
+            "name": "FiraMono-Bold",
+            "ext": "ttf",
+            "subfamily": "Bold",
+            "style": "normal",
+            "weight": 700
+        }
+    ]
+}

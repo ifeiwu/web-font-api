@@ -1,0 +1,18 @@
+{
+    "id": "graduate",
+    "title": "Graduate",
+    "family": "Graduate",
+    "category": "serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/graduate",
+    "files": [
+        {
+            "name": "Graduate-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

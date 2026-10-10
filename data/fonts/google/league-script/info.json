@@ -1,0 +1,18 @@
+{
+    "id": "league-script",
+    "title": "League Script",
+    "family": "League Script",
+    "category": "handwriting",
+    "source": "google",
+    "language": "en",
+    "path": "google/league-script",
+    "files": [
+        {
+            "name": "LeagueScript-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

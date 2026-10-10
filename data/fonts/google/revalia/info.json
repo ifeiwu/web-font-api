@@ -1,0 +1,18 @@
+{
+    "id": "revalia",
+    "title": "Revalia",
+    "family": "Revalia",
+    "category": "display",
+    "source": "google",
+    "language": "en",
+    "path": "google/revalia",
+    "files": [
+        {
+            "name": "Revalia-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

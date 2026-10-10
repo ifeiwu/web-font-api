@@ -1,0 +1,18 @@
+{
+    "id": "prosto-one",
+    "title": "Prosto One",
+    "family": "Prosto One",
+    "category": "display",
+    "source": "google",
+    "language": "en",
+    "path": "google/prosto-one",
+    "files": [
+        {
+            "name": "ProstoOne-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

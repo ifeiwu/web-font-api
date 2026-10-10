@@ -1,0 +1,18 @@
+{
+    "id": "donegal-one",
+    "title": "Donegal One",
+    "family": "Donegal One",
+    "category": "serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/donegal-one",
+    "files": [
+        {
+            "name": "DonegalOne-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "id": "permanent-marker",
+    "title": "Permanent Marker",
+    "family": "Permanent Marker",
+    "category": "handwriting",
+    "source": "google",
+    "language": "en",
+    "path": "google/permanent-marker",
+    "files": [
+        {
+            "name": "PermanentMarker-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

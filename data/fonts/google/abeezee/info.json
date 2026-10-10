@@ -1,0 +1,25 @@
+{
+    "id": "abeezee",
+    "title": "ABeeZee",
+    "family": "ABeeZee",
+    "category": "sans-serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/abeezee",
+    "files": [
+        {
+            "name": "ABeeZee-Italic",
+            "ext": "ttf",
+            "subfamily": "Italic",
+            "style": "italic",
+            "weight": 400
+        },
+        {
+            "name": "ABeeZee-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

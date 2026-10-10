@@ -1,0 +1,18 @@
+{
+    "id": "libre-barcode-ean13-text",
+    "title": "Libre Barcode EAN13 Text",
+    "family": "Libre Barcode EAN13 Text",
+    "category": "display",
+    "source": "google",
+    "language": "en",
+    "path": "google/libre-barcode-ean13-text",
+    "files": [
+        {
+            "name": "LibreBarcodeEAN13Text-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

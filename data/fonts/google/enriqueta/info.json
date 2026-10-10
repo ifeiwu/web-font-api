@@ -1,0 +1,39 @@
+{
+    "id": "enriqueta",
+    "title": "Enriqueta",
+    "family": "Enriqueta",
+    "category": "serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/enriqueta",
+    "files": [
+        {
+            "name": "Enriqueta-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "Enriqueta-Medium",
+            "ext": "ttf",
+            "subfamily": "Medium",
+            "style": "normal",
+            "weight": 500
+        },
+        {
+            "name": "Enriqueta-SemiBold",
+            "ext": "ttf",
+            "subfamily": "SemiBold",
+            "style": "normal",
+            "weight": 600
+        },
+        {
+            "name": "Enriqueta-Bold",
+            "ext": "ttf",
+            "subfamily": "Bold",
+            "style": "normal",
+            "weight": 700
+        }
+    ]
+}

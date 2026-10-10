@@ -1,0 +1,39 @@
+{
+    "id": "kameron",
+    "title": "Kameron",
+    "family": "Kameron",
+    "category": "serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/kameron",
+    "files": [
+        {
+            "name": "Kameron-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "Kameron-Medium",
+            "ext": "ttf",
+            "subfamily": "Medium",
+            "style": "normal",
+            "weight": 500
+        },
+        {
+            "name": "Kameron-SemiBold",
+            "ext": "ttf",
+            "subfamily": "SemiBold",
+            "style": "normal",
+            "weight": 600
+        },
+        {
+            "name": "Kameron-Bold",
+            "ext": "ttf",
+            "subfamily": "Bold",
+            "style": "normal",
+            "weight": 700
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "id": "pt-mono",
+    "title": "PT Mono",
+    "family": "PT Mono",
+    "category": "monospace",
+    "source": "google",
+    "language": "en",
+    "path": "google/pt-mono",
+    "files": [
+        {
+            "name": "PTMono-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

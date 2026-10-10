@@ -1,0 +1,18 @@
+{
+    "id": "russo-one",
+    "title": "Russo One",
+    "family": "Russo One",
+    "category": "sans-serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/russo-one",
+    "files": [
+        {
+            "name": "RussoOne-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

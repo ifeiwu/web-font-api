@@ -1,0 +1,25 @@
+{
+    "id": "flamenco",
+    "title": "Flamenco",
+    "family": "Flamenco",
+    "category": "display",
+    "source": "google",
+    "language": "en",
+    "path": "google/flamenco",
+    "files": [
+        {
+            "name": "Flamenco-Light",
+            "ext": "ttf",
+            "subfamily": "Light",
+            "style": "normal",
+            "weight": 300
+        },
+        {
+            "name": "Flamenco-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

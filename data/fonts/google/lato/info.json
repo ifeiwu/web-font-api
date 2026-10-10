@@ -1,0 +1,81 @@
+{
+    "id": "lato",
+    "title": "Lato",
+    "family": "Lato",
+    "category": "sans-serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/lato",
+    "files": [
+        {
+            "name": "Lato-Thin",
+            "ext": "ttf",
+            "subfamily": "Thin",
+            "style": "normal",
+            "weight": 250
+        },
+        {
+            "name": "Lato-ThinItalic",
+            "ext": "ttf",
+            "subfamily": "ThinItalic",
+            "style": "italic",
+            "weight": 250
+        },
+        {
+            "name": "Lato-Light",
+            "ext": "ttf",
+            "subfamily": "Light",
+            "style": "normal",
+            "weight": 300
+        },
+        {
+            "name": "Lato-LightItalic",
+            "ext": "ttf",
+            "subfamily": "LightItalic",
+            "style": "italic",
+            "weight": 300
+        },
+        {
+            "name": "Lato-Italic",
+            "ext": "ttf",
+            "subfamily": "Italic",
+            "style": "italic",
+            "weight": 400
+        },
+        {
+            "name": "Lato-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "Lato-Bold",
+            "ext": "ttf",
+            "subfamily": "Bold",
+            "style": "normal",
+            "weight": 700
+        },
+        {
+            "name": "Lato-BoldItalic",
+            "ext": "ttf",
+            "subfamily": "BoldItalic",
+            "style": "italic",
+            "weight": 700
+        },
+        {
+            "name": "Lato-Black",
+            "ext": "ttf",
+            "subfamily": "Black",
+            "style": "normal",
+            "weight": 900
+        },
+        {
+            "name": "Lato-BlackItalic",
+            "ext": "ttf",
+            "subfamily": "BlackItalic",
+            "style": "italic",
+            "weight": 900
+        }
+    ]
+}

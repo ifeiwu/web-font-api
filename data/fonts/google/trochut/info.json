@@ -1,0 +1,32 @@
+{
+    "id": "trochut",
+    "title": "Trochut",
+    "family": "Trochut",
+    "category": "display",
+    "source": "google",
+    "language": "en",
+    "path": "google/trochut",
+    "files": [
+        {
+            "name": "Trochut-Italic",
+            "ext": "ttf",
+            "subfamily": "Italic",
+            "style": "italic",
+            "weight": 400
+        },
+        {
+            "name": "Trochut-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "Trochut-Bold",
+            "ext": "ttf",
+            "subfamily": "Bold",
+            "style": "normal",
+            "weight": 700
+        }
+    ]
+}

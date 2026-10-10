@@ -1,0 +1,18 @@
+{
+    "id": "ribeye-marrow",
+    "title": "Ribeye Marrow",
+    "family": "Ribeye Marrow",
+    "category": "display",
+    "source": "google",
+    "language": "en",
+    "path": "google/ribeye-marrow",
+    "files": [
+        {
+            "name": "RibeyeMarrow-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

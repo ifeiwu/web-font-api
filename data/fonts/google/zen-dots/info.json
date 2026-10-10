@@ -1,0 +1,18 @@
+{
+    "id": "zen-dots",
+    "title": "Zen Dots",
+    "family": "Zen Dots",
+    "category": "display",
+    "source": "google",
+    "language": "en",
+    "path": "google/zen-dots",
+    "files": [
+        {
+            "name": "ZenDots-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

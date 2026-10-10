@@ -1,0 +1,25 @@
+{
+    "id": "stoke",
+    "title": "Stoke",
+    "family": "Stoke",
+    "category": "serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/stoke",
+    "files": [
+        {
+            "name": "Stoke-Light",
+            "ext": "ttf",
+            "subfamily": "Light",
+            "style": "normal",
+            "weight": 300
+        },
+        {
+            "name": "Stoke-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "id": "special-elite",
+    "title": "Special Elite",
+    "family": "Special Elite",
+    "category": "display",
+    "source": "google",
+    "language": "en",
+    "path": "google/special-elite",
+    "files": [
+        {
+            "name": "SpecialElite-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

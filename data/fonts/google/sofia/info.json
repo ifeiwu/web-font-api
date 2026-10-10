@@ -1,0 +1,18 @@
+{
+    "id": "sofia",
+    "title": "Sofia",
+    "family": "Sofia",
+    "category": "handwriting",
+    "source": "google",
+    "language": "en",
+    "path": "google/sofia",
+    "files": [
+        {
+            "name": "Sofia-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

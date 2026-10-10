@@ -1,0 +1,18 @@
+{
+    "id": "averia-gruesa-libre",
+    "title": "Averia Gruesa Libre",
+    "family": "Averia Gruesa Libre",
+    "category": "display",
+    "source": "google",
+    "language": "en",
+    "path": "google/averia-gruesa-libre",
+    "files": [
+        {
+            "name": "AveriaGruesaLibre-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

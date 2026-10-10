@@ -1,0 +1,18 @@
+{
+    "id": "londrina-shadow",
+    "title": "Londrina Shadow",
+    "family": "Londrina Shadow",
+    "category": "display",
+    "source": "google",
+    "language": "en",
+    "path": "google/londrina-shadow",
+    "files": [
+        {
+            "name": "LondrinaShadow-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

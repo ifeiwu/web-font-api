@@ -1,0 +1,18 @@
+{
+    "id": "cambo",
+    "title": "Cambo",
+    "family": "Cambo",
+    "category": "serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/cambo",
+    "files": [
+        {
+            "name": "Cambo-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

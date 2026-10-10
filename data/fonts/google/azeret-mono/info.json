@@ -1,0 +1,137 @@
+{
+    "id": "azeret-mono",
+    "title": "Azeret Mono",
+    "family": "Azeret Mono",
+    "category": "monospace",
+    "source": "google",
+    "language": "en",
+    "path": "google/azeret-mono",
+    "files": [
+        {
+            "name": "AzeretMono-ExtraLight",
+            "ext": "ttf",
+            "subfamily": "ExtraLight",
+            "style": "normal",
+            "weight": 250
+        },
+        {
+            "name": "AzeretMono-ExtraLightItalic",
+            "ext": "ttf",
+            "subfamily": "ExtraLightItalic",
+            "style": "italic",
+            "weight": 250
+        },
+        {
+            "name": "AzeretMono-Thin",
+            "ext": "ttf",
+            "subfamily": "Thin",
+            "style": "normal",
+            "weight": 250
+        },
+        {
+            "name": "AzeretMono-ThinItalic",
+            "ext": "ttf",
+            "subfamily": "ThinItalic",
+            "style": "italic",
+            "weight": 250
+        },
+        {
+            "name": "AzeretMono-Light",
+            "ext": "ttf",
+            "subfamily": "Light",
+            "style": "normal",
+            "weight": 300
+        },
+        {
+            "name": "AzeretMono-LightItalic",
+            "ext": "ttf",
+            "subfamily": "LightItalic",
+            "style": "italic",
+            "weight": 300
+        },
+        {
+            "name": "AzeretMono-Italic",
+            "ext": "ttf",
+            "subfamily": "Italic",
+            "style": "italic",
+            "weight": 400
+        },
+        {
+            "name": "AzeretMono-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "AzeretMono-Medium",
+            "ext": "ttf",
+            "subfamily": "Medium",
+            "style": "normal",
+            "weight": 500
+        },
+        {
+            "name": "AzeretMono-MediumItalic",
+            "ext": "ttf",
+            "subfamily": "MediumItalic",
+            "style": "italic",
+            "weight": 500
+        },
+        {
+            "name": "AzeretMono-SemiBold",
+            "ext": "ttf",
+            "subfamily": "SemiBold",
+            "style": "normal",
+            "weight": 600
+        },
+        {
+            "name": "AzeretMono-SemiBoldItalic",
+            "ext": "ttf",
+            "subfamily": "SemiBoldItalic",
+            "style": "italic",
+            "weight": 600
+        },
+        {
+            "name": "AzeretMono-Bold",
+            "ext": "ttf",
+            "subfamily": "Bold",
+            "style": "normal",
+            "weight": 700
+        },
+        {
+            "name": "AzeretMono-BoldItalic",
+            "ext": "ttf",
+            "subfamily": "BoldItalic",
+            "style": "italic",
+            "weight": 700
+        },
+        {
+            "name": "AzeretMono-ExtraBold",
+            "ext": "ttf",
+            "subfamily": "ExtraBold",
+            "style": "normal",
+            "weight": 800
+        },
+        {
+            "name": "AzeretMono-ExtraBoldItalic",
+            "ext": "ttf",
+            "subfamily": "ExtraBoldItalic",
+            "style": "italic",
+            "weight": 800
+        },
+        {
+            "name": "AzeretMono-Black",
+            "ext": "ttf",
+            "subfamily": "Black",
+            "style": "normal",
+            "weight": 900
+        },
+        {
+            "name": "AzeretMono-BlackItalic",
+            "ext": "ttf",
+            "subfamily": "BlackItalic",
+            "style": "italic",
+            "weight": 900
+        }
+    ]
+}

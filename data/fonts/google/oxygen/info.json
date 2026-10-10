@@ -1,0 +1,32 @@
+{
+    "id": "oxygen",
+    "title": "Oxygen",
+    "family": "Oxygen",
+    "category": "sans-serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/oxygen",
+    "files": [
+        {
+            "name": "Oxygen-Light",
+            "ext": "ttf",
+            "subfamily": "Light",
+            "style": "normal",
+            "weight": 300
+        },
+        {
+            "name": "Oxygen-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "Oxygen-Bold",
+            "ext": "ttf",
+            "subfamily": "Bold",
+            "style": "normal",
+            "weight": 700
+        }
+    ]
+}

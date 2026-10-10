@@ -1,0 +1,60 @@
+{
+    "id": "mukta-vaani",
+    "title": "Mukta Vaani",
+    "family": "Mukta Vaani",
+    "category": "sans-serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/mukta-vaani",
+    "files": [
+        {
+            "name": "MuktaVaani-ExtraLight",
+            "ext": "ttf",
+            "subfamily": "ExtraLight",
+            "style": "normal",
+            "weight": 275
+        },
+        {
+            "name": "MuktaVaani-Light",
+            "ext": "ttf",
+            "subfamily": "Light",
+            "style": "normal",
+            "weight": 300
+        },
+        {
+            "name": "MuktaVaani-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "MuktaVaani-Medium",
+            "ext": "ttf",
+            "subfamily": "Medium",
+            "style": "normal",
+            "weight": 500
+        },
+        {
+            "name": "MuktaVaani-SemiBold",
+            "ext": "ttf",
+            "subfamily": "SemiBold",
+            "style": "normal",
+            "weight": 600
+        },
+        {
+            "name": "MuktaVaani-Bold",
+            "ext": "ttf",
+            "subfamily": "Bold",
+            "style": "normal",
+            "weight": 700
+        },
+        {
+            "name": "MuktaVaani-ExtraBold",
+            "ext": "ttf",
+            "subfamily": "ExtraBold",
+            "style": "normal",
+            "weight": 800
+        }
+    ]
+}

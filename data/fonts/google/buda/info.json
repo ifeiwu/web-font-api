@@ -1,0 +1,18 @@
+{
+    "id": "buda",
+    "title": "Buda",
+    "family": "Buda",
+    "category": "display",
+    "source": "google",
+    "language": "en",
+    "path": "google/buda",
+    "files": [
+        {
+            "name": "Buda-Light",
+            "ext": "ttf",
+            "subfamily": "Light",
+            "style": "normal",
+            "weight": 300
+        }
+    ]
+}

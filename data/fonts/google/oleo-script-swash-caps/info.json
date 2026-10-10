@@ -1,0 +1,25 @@
+{
+    "id": "oleo-script-swash-caps",
+    "title": "Oleo Script Swash Caps",
+    "family": "Oleo Script Swash Caps",
+    "category": "display",
+    "source": "google",
+    "language": "en",
+    "path": "google/oleo-script-swash-caps",
+    "files": [
+        {
+            "name": "OleoScriptSwashCaps-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "OleoScriptSwashCaps-Bold",
+            "ext": "ttf",
+            "subfamily": "Bold",
+            "style": "normal",
+            "weight": 700
+        }
+    ]
+}

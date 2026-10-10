@@ -1,0 +1,18 @@
+{
+    "id": "fauna-one",
+    "title": "Fauna One",
+    "family": "Fauna One",
+    "category": "serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/fauna-one",
+    "files": [
+        {
+            "name": "FaunaOne-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "id": "londrina-sketch",
+    "title": "Londrina Sketch",
+    "family": "Londrina Sketch",
+    "category": "display",
+    "source": "google",
+    "language": "en",
+    "path": "google/londrina-sketch",
+    "files": [
+        {
+            "name": "LondrinaSketch-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

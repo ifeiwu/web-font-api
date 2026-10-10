@@ -1,0 +1,25 @@
+{
+    "id": "baskervville",
+    "title": "Baskervville",
+    "family": "Baskervville",
+    "category": "serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/baskervville",
+    "files": [
+        {
+            "name": "Baskervville-Italic",
+            "ext": "ttf",
+            "subfamily": "Italic",
+            "style": "italic",
+            "weight": 400
+        },
+        {
+            "name": "Baskervville-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

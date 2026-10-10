@@ -1,0 +1,25 @@
+{
+    "id": "rufina",
+    "title": "Rufina",
+    "family": "Rufina",
+    "category": "serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/rufina",
+    "files": [
+        {
+            "name": "Rufina-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "Rufina-Bold",
+            "ext": "ttf",
+            "subfamily": "Bold",
+            "style": "normal",
+            "weight": 700
+        }
+    ]
+}

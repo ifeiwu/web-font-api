@@ -1,0 +1,18 @@
+{
+    "id": "adamina",
+    "title": "Adamina",
+    "family": "Adamina",
+    "category": "serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/adamina",
+    "files": [
+        {
+            "name": "Adamina-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

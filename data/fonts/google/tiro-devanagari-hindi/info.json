@@ -1,0 +1,25 @@
+{
+    "id": "tiro-devanagari-hindi",
+    "title": "Tiro Devanagari Hindi",
+    "family": "Tiro Devanagari Hindi",
+    "category": "serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/tiro-devanagari-hindi",
+    "files": [
+        {
+            "name": "TiroDevanagariHindi-Italic",
+            "ext": "ttf",
+            "subfamily": "Italic",
+            "style": "italic",
+            "weight": 400
+        },
+        {
+            "name": "TiroDevanagariHindi-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

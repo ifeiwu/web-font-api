@@ -1,0 +1,18 @@
+{
+    "id": "stalemate",
+    "title": "Stalemate",
+    "family": "Stalemate",
+    "category": "handwriting",
+    "source": "google",
+    "language": "en",
+    "path": "google/stalemate",
+    "files": [
+        {
+            "name": "Stalemate-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

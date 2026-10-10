@@ -1,0 +1,18 @@
+{
+    "id": "julee",
+    "title": "Julee",
+    "family": "Julee",
+    "category": "handwriting",
+    "source": "google",
+    "language": "en",
+    "path": "google/julee",
+    "files": [
+        {
+            "name": "Julee-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

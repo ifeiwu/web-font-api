@@ -1,0 +1,18 @@
+{
+    "id": "delius",
+    "title": "Delius",
+    "family": "Delius",
+    "category": "handwriting",
+    "source": "google",
+    "language": "en",
+    "path": "google/delius",
+    "files": [
+        {
+            "name": "Delius-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

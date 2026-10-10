@@ -1,0 +1,39 @@
+{
+    "id": "kay-pho-du",
+    "title": "Kay Pho Du",
+    "family": "Kay Pho Du",
+    "category": "serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/kay-pho-du",
+    "files": [
+        {
+            "name": "KayPhoDu-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "KayPhoDu-Medium",
+            "ext": "ttf",
+            "subfamily": "Medium",
+            "style": "normal",
+            "weight": 500
+        },
+        {
+            "name": "KayPhoDu-SemiBold",
+            "ext": "ttf",
+            "subfamily": "SemiBold",
+            "style": "normal",
+            "weight": 600
+        },
+        {
+            "name": "KayPhoDu-Bold",
+            "ext": "ttf",
+            "subfamily": "Bold",
+            "style": "normal",
+            "weight": 700
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "id": "rajdhani",
+    "title": "Rajdhani",
+    "family": "Rajdhani",
+    "category": "sans-serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/rajdhani",
+    "files": [
+        {
+            "name": "Rajdhani-Light",
+            "ext": "ttf",
+            "subfamily": "Light",
+            "style": "normal",
+            "weight": 300
+        },
+        {
+            "name": "Rajdhani-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "Rajdhani-Medium",
+            "ext": "ttf",
+            "subfamily": "Medium",
+            "style": "normal",
+            "weight": 500
+        },
+        {
+            "name": "Rajdhani-SemiBold",
+            "ext": "ttf",
+            "subfamily": "SemiBold",
+            "style": "normal",
+            "weight": 600
+        },
+        {
+            "name": "Rajdhani-Bold",
+            "ext": "ttf",
+            "subfamily": "Bold",
+            "style": "normal",
+            "weight": 700
+        }
+    ]
+}

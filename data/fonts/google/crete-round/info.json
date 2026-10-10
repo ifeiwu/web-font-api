@@ -1,0 +1,25 @@
+{
+    "id": "crete-round",
+    "title": "Crete Round",
+    "family": "Crete Round",
+    "category": "serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/crete-round",
+    "files": [
+        {
+            "name": "CreteRound-Italic",
+            "ext": "ttf",
+            "subfamily": "Italic",
+            "style": "italic",
+            "weight": 400
+        },
+        {
+            "name": "CreteRound-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

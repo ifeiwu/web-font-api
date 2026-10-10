@@ -1,0 +1,25 @@
+{
+    "id": "unkempt",
+    "title": "Unkempt",
+    "family": "Unkempt",
+    "category": "display",
+    "source": "google",
+    "language": "en",
+    "path": "google/unkempt",
+    "files": [
+        {
+            "name": "Unkempt-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "Unkempt-Bold",
+            "ext": "ttf",
+            "subfamily": "Bold",
+            "style": "normal",
+            "weight": 700
+        }
+    ]
+}

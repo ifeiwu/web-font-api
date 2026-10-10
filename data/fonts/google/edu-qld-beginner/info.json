@@ -1,0 +1,39 @@
+{
+    "id": "edu-qld-beginner",
+    "title": "Edu QLD Beginner",
+    "family": "Edu QLD Beginner",
+    "category": "handwriting",
+    "source": "google",
+    "language": "en",
+    "path": "google/edu-qld-beginner",
+    "files": [
+        {
+            "name": "EduQLDBeginner-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "EduQLDBeginner-Medium",
+            "ext": "ttf",
+            "subfamily": "Medium",
+            "style": "normal",
+            "weight": 500
+        },
+        {
+            "name": "EduQLDBeginner-SemiBold",
+            "ext": "ttf",
+            "subfamily": "SemiBold",
+            "style": "normal",
+            "weight": 600
+        },
+        {
+            "name": "EduQLDBeginner-Bold",
+            "ext": "ttf",
+            "subfamily": "Bold",
+            "style": "normal",
+            "weight": 700
+        }
+    ]
+}

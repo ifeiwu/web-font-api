@@ -1,0 +1,25 @@
+{
+    "id": "inika",
+    "title": "Inika",
+    "family": "Inika",
+    "category": "serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/inika",
+    "files": [
+        {
+            "name": "Inika-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "Inika-Bold",
+            "ext": "ttf",
+            "subfamily": "Bold",
+            "style": "normal",
+            "weight": 700
+        }
+    ]
+}

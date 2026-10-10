@@ -1,0 +1,39 @@
+{
+    "id": "arvo",
+    "title": "Arvo",
+    "family": "Arvo",
+    "category": "serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/arvo",
+    "files": [
+        {
+            "name": "Arvo-Italic",
+            "ext": "ttf",
+            "subfamily": "Italic",
+            "style": "italic",
+            "weight": 400
+        },
+        {
+            "name": "Arvo-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "Arvo-Bold",
+            "ext": "ttf",
+            "subfamily": "Bold",
+            "style": "normal",
+            "weight": 700
+        },
+        {
+            "name": "Arvo-BoldItalic",
+            "ext": "ttf",
+            "subfamily": "BoldItalic",
+            "style": "italic",
+            "weight": 700
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "id": "bakbak-one",
+    "title": "Bakbak One",
+    "family": "Bakbak One",
+    "category": "display",
+    "source": "google",
+    "language": "en",
+    "path": "google/bakbak-one",
+    "files": [
+        {
+            "name": "BakbakOne-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

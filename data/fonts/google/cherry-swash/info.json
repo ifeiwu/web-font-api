@@ -1,0 +1,25 @@
+{
+    "id": "cherry-swash",
+    "title": "Cherry Swash",
+    "family": "Cherry Swash",
+    "category": "display",
+    "source": "google",
+    "language": "en",
+    "path": "google/cherry-swash",
+    "files": [
+        {
+            "name": "CherrySwash-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "CherrySwash-Bold",
+            "ext": "ttf",
+            "subfamily": "Bold",
+            "style": "normal",
+            "weight": 700
+        }
+    ]
+}

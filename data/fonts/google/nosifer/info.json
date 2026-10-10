@@ -1,0 +1,18 @@
+{
+    "id": "nosifer",
+    "title": "Nosifer",
+    "family": "Nosifer",
+    "category": "display",
+    "source": "google",
+    "language": "en",
+    "path": "google/nosifer",
+    "files": [
+        {
+            "name": "Nosifer-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

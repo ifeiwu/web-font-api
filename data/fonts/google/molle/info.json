@@ -1,0 +1,18 @@
+{
+    "id": "molle",
+    "title": "Molle",
+    "family": "Molle",
+    "category": "handwriting",
+    "source": "google",
+    "language": "en",
+    "path": "google/molle",
+    "files": [
+        {
+            "name": "Molle-Italic",
+            "ext": "ttf",
+            "subfamily": "Italic",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

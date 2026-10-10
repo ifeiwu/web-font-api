@@ -1,0 +1,18 @@
+{
+    "id": "zen-tokyo-zoo",
+    "title": "Zen Tokyo Zoo",
+    "family": "Zen Tokyo Zoo",
+    "category": "display",
+    "source": "google",
+    "language": "en",
+    "path": "google/zen-tokyo-zoo",
+    "files": [
+        {
+            "name": "ZenTokyoZoo-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

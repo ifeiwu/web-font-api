@@ -1,0 +1,18 @@
+{
+    "id": "gochi-hand",
+    "title": "Gochi Hand",
+    "family": "Gochi Hand",
+    "category": "handwriting",
+    "source": "google",
+    "language": "en",
+    "path": "google/gochi-hand",
+    "files": [
+        {
+            "name": "GochiHand-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

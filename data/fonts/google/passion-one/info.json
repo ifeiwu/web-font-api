@@ -1,0 +1,32 @@
+{
+    "id": "passion-one",
+    "title": "Passion One",
+    "family": "Passion One",
+    "category": "display",
+    "source": "google",
+    "language": "en",
+    "path": "google/passion-one",
+    "files": [
+        {
+            "name": "PassionOne-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "PassionOne-Bold",
+            "ext": "ttf",
+            "subfamily": "Bold",
+            "style": "normal",
+            "weight": 700
+        },
+        {
+            "name": "PassionOne-Black",
+            "ext": "ttf",
+            "subfamily": "Black",
+            "style": "normal",
+            "weight": 900
+        }
+    ]
+}

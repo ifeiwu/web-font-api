@@ -1,0 +1,18 @@
+{
+    "id": "telex",
+    "title": "Telex",
+    "family": "Telex",
+    "category": "sans-serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/telex",
+    "files": [
+        {
+            "name": "Telex-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

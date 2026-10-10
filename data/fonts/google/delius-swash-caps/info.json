@@ -1,0 +1,18 @@
+{
+    "id": "delius-swash-caps",
+    "title": "Delius Swash Caps",
+    "family": "Delius Swash Caps",
+    "category": "handwriting",
+    "source": "google",
+    "language": "en",
+    "path": "google/delius-swash-caps",
+    "files": [
+        {
+            "name": "DeliusSwashCaps-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

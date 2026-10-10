@@ -1,0 +1,18 @@
+{
+    "id": "tulpen-one",
+    "title": "Tulpen One",
+    "family": "Tulpen One",
+    "category": "display",
+    "source": "google",
+    "language": "en",
+    "path": "google/tulpen-one",
+    "files": [
+        {
+            "name": "TulpenOne-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

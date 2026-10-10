@@ -1,0 +1,18 @@
+{
+    "id": "limelight",
+    "title": "Limelight",
+    "family": "Limelight",
+    "category": "display",
+    "source": "google",
+    "language": "en",
+    "path": "google/limelight",
+    "files": [
+        {
+            "name": "Limelight-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

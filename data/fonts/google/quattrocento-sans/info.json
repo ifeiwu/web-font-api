@@ -1,0 +1,39 @@
+{
+    "id": "quattrocento-sans",
+    "title": "Quattrocento Sans",
+    "family": "Quattrocento Sans",
+    "category": "sans-serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/quattrocento-sans",
+    "files": [
+        {
+            "name": "QuattrocentoSans-Italic",
+            "ext": "ttf",
+            "subfamily": "Italic",
+            "style": "italic",
+            "weight": 400
+        },
+        {
+            "name": "QuattrocentoSans-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "QuattrocentoSans-Bold",
+            "ext": "ttf",
+            "subfamily": "Bold",
+            "style": "normal",
+            "weight": 700
+        },
+        {
+            "name": "QuattrocentoSans-BoldItalic",
+            "ext": "ttf",
+            "subfamily": "BoldItalic",
+            "style": "italic",
+            "weight": 700
+        }
+    ]
+}

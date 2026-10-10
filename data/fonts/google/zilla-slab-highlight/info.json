@@ -1,0 +1,25 @@
+{
+    "id": "zilla-slab-highlight",
+    "title": "Zilla Slab Highlight",
+    "family": "Zilla Slab Highlight",
+    "category": "serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/zilla-slab-highlight",
+    "files": [
+        {
+            "name": "ZillaSlabHighlight-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "ZillaSlabHighlight-Bold",
+            "ext": "ttf",
+            "subfamily": "Bold",
+            "style": "normal",
+            "weight": 700
+        }
+    ]
+}

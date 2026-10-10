@@ -1,0 +1,46 @@
+{
+    "id": "fira-code",
+    "title": "Fira Code",
+    "family": "Fira Code",
+    "category": "monospace",
+    "source": "google",
+    "language": "en",
+    "path": "google/fira-code",
+    "files": [
+        {
+            "name": "FiraCode-Light",
+            "ext": "ttf",
+            "subfamily": "Light",
+            "style": "normal",
+            "weight": 300
+        },
+        {
+            "name": "FiraCode-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "FiraCode-Medium",
+            "ext": "ttf",
+            "subfamily": "Medium",
+            "style": "normal",
+            "weight": 500
+        },
+        {
+            "name": "FiraCode-SemiBold",
+            "ext": "ttf",
+            "subfamily": "SemiBold",
+            "style": "normal",
+            "weight": 600
+        },
+        {
+            "name": "FiraCode-Bold",
+            "ext": "ttf",
+            "subfamily": "Bold",
+            "style": "normal",
+            "weight": 700
+        }
+    ]
+}

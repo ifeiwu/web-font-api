@@ -1,0 +1,18 @@
+{
+    "id": "aldrich",
+    "title": "Aldrich",
+    "family": "Aldrich",
+    "category": "sans-serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/aldrich",
+    "files": [
+        {
+            "name": "Aldrich-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

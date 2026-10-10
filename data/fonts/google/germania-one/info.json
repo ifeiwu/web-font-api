@@ -1,0 +1,18 @@
+{
+    "id": "germania-one",
+    "title": "Germania One",
+    "family": "Germania One",
+    "category": "display",
+    "source": "google",
+    "language": "en",
+    "path": "google/germania-one",
+    "files": [
+        {
+            "name": "GermaniaOne-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

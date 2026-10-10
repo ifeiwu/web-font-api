@@ -1,0 +1,18 @@
+{
+    "id": "griffy",
+    "title": "Griffy",
+    "family": "Griffy",
+    "category": "display",
+    "source": "google",
+    "language": "en",
+    "path": "google/griffy",
+    "files": [
+        {
+            "name": "Griffy-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

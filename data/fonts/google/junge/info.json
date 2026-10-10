@@ -1,0 +1,18 @@
+{
+    "id": "junge",
+    "title": "Junge",
+    "family": "Junge",
+    "category": "serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/junge",
+    "files": [
+        {
+            "name": "Junge-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

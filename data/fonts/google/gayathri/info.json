@@ -1,0 +1,32 @@
+{
+    "id": "gayathri",
+    "title": "Gayathri",
+    "family": "Gayathri",
+    "category": "sans-serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/gayathri",
+    "files": [
+        {
+            "name": "Gayathri-Thin",
+            "ext": "ttf",
+            "subfamily": "Thin",
+            "style": "normal",
+            "weight": 100
+        },
+        {
+            "name": "Gayathri-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "Gayathri-Bold",
+            "ext": "ttf",
+            "subfamily": "Bold",
+            "style": "normal",
+            "weight": 700
+        }
+    ]
+}

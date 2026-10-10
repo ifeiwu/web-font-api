@@ -1,0 +1,18 @@
+{
+    "id": "basic",
+    "title": "Basic",
+    "family": "Basic",
+    "category": "sans-serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/basic",
+    "files": [
+        {
+            "name": "Basic-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "id": "rock-salt",
+    "title": "Rock Salt",
+    "family": "Rock Salt",
+    "category": "handwriting",
+    "source": "google",
+    "language": "en",
+    "path": "google/rock-salt",
+    "files": [
+        {
+            "name": "RockSalt-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "id": "holtwood-one-sc",
+    "title": "Holtwood One SC",
+    "family": "Holtwood One SC",
+    "category": "serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/holtwood-one-sc",
+    "files": [
+        {
+            "name": "HoltwoodOneSC-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

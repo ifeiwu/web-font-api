@@ -1,0 +1,18 @@
+{
+    "id": "text-me-one",
+    "title": "Text Me One",
+    "family": "Text Me One",
+    "category": "sans-serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/text-me-one",
+    "files": [
+        {
+            "name": "TextMeOne-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

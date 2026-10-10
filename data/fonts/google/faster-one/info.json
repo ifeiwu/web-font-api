@@ -1,0 +1,18 @@
+{
+    "id": "faster-one",
+    "title": "Faster One",
+    "family": "Faster One",
+    "category": "display",
+    "source": "google",
+    "language": "en",
+    "path": "google/faster-one",
+    "files": [
+        {
+            "name": "FasterOne-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

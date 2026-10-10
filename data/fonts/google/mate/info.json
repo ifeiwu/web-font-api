@@ -1,0 +1,25 @@
+{
+    "id": "mate",
+    "title": "Mate",
+    "family": "Mate",
+    "category": "serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/mate",
+    "files": [
+        {
+            "name": "Mate-Italic",
+            "ext": "ttf",
+            "subfamily": "Italic",
+            "style": "italic",
+            "weight": 400
+        },
+        {
+            "name": "Mate-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

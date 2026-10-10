@@ -1,0 +1,25 @@
+{
+    "id": "kadwa",
+    "title": "Kadwa",
+    "family": "Kadwa",
+    "category": "serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/kadwa",
+    "files": [
+        {
+            "name": "Kadwa-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "Kadwa-Bold",
+            "ext": "ttf",
+            "subfamily": "Bold",
+            "style": "normal",
+            "weight": 700
+        }
+    ]
+}

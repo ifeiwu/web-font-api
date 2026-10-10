@@ -1,0 +1,25 @@
+{
+    "id": "dm-serif-text",
+    "title": "DM Serif Text",
+    "family": "DM Serif Text",
+    "category": "serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/dm-serif-text",
+    "files": [
+        {
+            "name": "DMSerifText-Italic",
+            "ext": "ttf",
+            "subfamily": "Italic",
+            "style": "italic",
+            "weight": 400
+        },
+        {
+            "name": "DMSerifText-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

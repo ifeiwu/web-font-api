@@ -1,0 +1,18 @@
+{
+    "id": "satisfy",
+    "title": "Satisfy",
+    "family": "Satisfy",
+    "category": "handwriting",
+    "source": "google",
+    "language": "en",
+    "path": "google/satisfy",
+    "files": [
+        {
+            "name": "Satisfy-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

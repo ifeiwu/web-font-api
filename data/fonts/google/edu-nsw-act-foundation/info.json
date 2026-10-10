@@ -1,0 +1,39 @@
+{
+    "id": "edu-nsw-act-foundation",
+    "title": "Edu NSW ACT Foundation",
+    "family": "Edu NSW ACT Foundation",
+    "category": "handwriting",
+    "source": "google",
+    "language": "en",
+    "path": "google/edu-nsw-act-foundation",
+    "files": [
+        {
+            "name": "EduNSWACTFoundation-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "EduNSWACTFoundation-Medium",
+            "ext": "ttf",
+            "subfamily": "Medium",
+            "style": "normal",
+            "weight": 500
+        },
+        {
+            "name": "EduNSWACTFoundation-SemiBold",
+            "ext": "ttf",
+            "subfamily": "SemiBold",
+            "style": "normal",
+            "weight": 600
+        },
+        {
+            "name": "EduNSWACTFoundation-Bold",
+            "ext": "ttf",
+            "subfamily": "Bold",
+            "style": "normal",
+            "weight": 700
+        }
+    ]
+}

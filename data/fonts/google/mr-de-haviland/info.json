@@ -1,0 +1,18 @@
+{
+    "id": "mr-de-haviland",
+    "title": "Mr De Haviland",
+    "family": "Mr De Haviland",
+    "category": "handwriting",
+    "source": "google",
+    "language": "en",
+    "path": "google/mr-de-haviland",
+    "files": [
+        {
+            "name": "MrDeHaviland-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "id": "sulphur-point",
+    "title": "Sulphur Point",
+    "family": "Sulphur Point",
+    "category": "sans-serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/sulphur-point",
+    "files": [
+        {
+            "name": "SulphurPoint-Light",
+            "ext": "ttf",
+            "subfamily": "Light",
+            "style": "normal",
+            "weight": 300
+        },
+        {
+            "name": "SulphurPoint-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "SulphurPoint-Bold",
+            "ext": "ttf",
+            "subfamily": "Bold",
+            "style": "normal",
+            "weight": 700
+        }
+    ]
+}

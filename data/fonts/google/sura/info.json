@@ -1,0 +1,25 @@
+{
+    "id": "sura",
+    "title": "Sura",
+    "family": "Sura",
+    "category": "serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/sura",
+    "files": [
+        {
+            "name": "Sura-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "Sura-Bold",
+            "ext": "ttf",
+            "subfamily": "Bold",
+            "style": "normal",
+            "weight": 700
+        }
+    ]
+}

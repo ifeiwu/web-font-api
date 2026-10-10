@@ -1,0 +1,18 @@
+{
+    "id": "trade-winds",
+    "title": "Trade Winds",
+    "family": "Trade Winds",
+    "category": "display",
+    "source": "google",
+    "language": "en",
+    "path": "google/trade-winds",
+    "files": [
+        {
+            "name": "TradeWinds-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

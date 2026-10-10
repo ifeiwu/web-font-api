@@ -1,0 +1,25 @@
+{
+    "id": "sniglet",
+    "title": "Sniglet",
+    "family": "Sniglet",
+    "category": "display",
+    "source": "google",
+    "language": "en",
+    "path": "google/sniglet",
+    "files": [
+        {
+            "name": "Sniglet-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "Sniglet-ExtraBold",
+            "ext": "ttf",
+            "subfamily": "ExtraBold",
+            "style": "normal",
+            "weight": 800
+        }
+    ]
+}

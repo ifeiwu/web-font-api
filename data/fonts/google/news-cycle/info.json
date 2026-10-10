@@ -1,0 +1,25 @@
+{
+    "id": "news-cycle",
+    "title": "News Cycle",
+    "family": "News Cycle",
+    "category": "sans-serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/news-cycle",
+    "files": [
+        {
+            "name": "NewsCycle-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "NewsCycle-Bold",
+            "ext": "ttf",
+            "subfamily": "Bold",
+            "style": "normal",
+            "weight": 700
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": "dm-serif-display",
+    "title": "DM Serif Display",
+    "family": "DM Serif Display",
+    "category": "serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/dm-serif-display",
+    "files": [
+        {
+            "name": "DMSerifDisplay-Italic",
+            "ext": "ttf",
+            "subfamily": "Italic",
+            "style": "italic",
+            "weight": 400
+        },
+        {
+            "name": "DMSerifDisplay-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

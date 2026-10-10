@@ -1,0 +1,18 @@
+{
+    "id": "shrikhand",
+    "title": "Shrikhand",
+    "family": "Shrikhand",
+    "category": "display",
+    "source": "google",
+    "language": "en",
+    "path": "google/shrikhand",
+    "files": [
+        {
+            "name": "Shrikhand-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

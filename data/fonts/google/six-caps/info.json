@@ -1,0 +1,18 @@
+{
+    "id": "six-caps",
+    "title": "Six Caps",
+    "family": "Six Caps",
+    "category": "sans-serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/six-caps",
+    "files": [
+        {
+            "name": "SixCaps-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

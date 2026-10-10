@@ -1,0 +1,18 @@
+{
+    "id": "average-sans",
+    "title": "Average Sans",
+    "family": "Average Sans",
+    "category": "sans-serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/average-sans",
+    "files": [
+        {
+            "name": "AverageSans-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

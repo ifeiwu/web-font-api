@@ -1,0 +1,18 @@
+{
+    "id": "imprima",
+    "title": "Imprima",
+    "family": "Imprima",
+    "category": "sans-serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/imprima",
+    "files": [
+        {
+            "name": "Imprima-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

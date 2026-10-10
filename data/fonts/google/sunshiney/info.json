@@ -1,0 +1,18 @@
+{
+    "id": "sunshiney",
+    "title": "Sunshiney",
+    "family": "Sunshiney",
+    "category": "handwriting",
+    "source": "google",
+    "language": "en",
+    "path": "google/sunshiney",
+    "files": [
+        {
+            "name": "Sunshiney-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

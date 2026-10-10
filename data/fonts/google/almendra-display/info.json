@@ -1,0 +1,18 @@
+{
+    "id": "almendra-display",
+    "title": "Almendra Display",
+    "family": "Almendra Display",
+    "category": "display",
+    "source": "google",
+    "language": "en",
+    "path": "google/almendra-display",
+    "files": [
+        {
+            "name": "AlmendraDisplay-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

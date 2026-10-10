@@ -1,0 +1,18 @@
+{
+    "id": "monoton",
+    "title": "Monoton",
+    "family": "Monoton",
+    "category": "display",
+    "source": "google",
+    "language": "en",
+    "path": "google/monoton",
+    "files": [
+        {
+            "name": "Monoton-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

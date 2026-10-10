@@ -1,0 +1,18 @@
+{
+    "id": "crushed",
+    "title": "Crushed",
+    "family": "Crushed",
+    "category": "display",
+    "source": "google",
+    "language": "en",
+    "path": "google/crushed",
+    "files": [
+        {
+            "name": "Crushed-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

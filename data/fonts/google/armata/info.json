@@ -1,0 +1,18 @@
+{
+    "id": "armata",
+    "title": "Armata",
+    "family": "Armata",
+    "category": "sans-serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/armata",
+    "files": [
+        {
+            "name": "Armata-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

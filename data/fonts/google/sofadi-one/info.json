@@ -1,0 +1,18 @@
+{
+    "id": "sofadi-one",
+    "title": "Sofadi One",
+    "family": "Sofadi One",
+    "category": "display",
+    "source": "google",
+    "language": "en",
+    "path": "google/sofadi-one",
+    "files": [
+        {
+            "name": "SofadiOne-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

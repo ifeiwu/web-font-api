@@ -1,0 +1,18 @@
+{
+    "id": "chelsea-market",
+    "title": "Chelsea Market",
+    "family": "Chelsea Market",
+    "category": "display",
+    "source": "google",
+    "language": "en",
+    "path": "google/chelsea-market",
+    "files": [
+        {
+            "name": "ChelseaMarket-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

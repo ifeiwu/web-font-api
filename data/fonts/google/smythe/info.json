@@ -1,0 +1,18 @@
+{
+    "id": "smythe",
+    "title": "Smythe",
+    "family": "Smythe",
+    "category": "display",
+    "source": "google",
+    "language": "en",
+    "path": "google/smythe",
+    "files": [
+        {
+            "name": "Smythe-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

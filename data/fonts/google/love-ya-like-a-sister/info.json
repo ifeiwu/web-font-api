@@ -1,0 +1,18 @@
+{
+    "id": "love-ya-like-a-sister",
+    "title": "Love Ya Like A Sister",
+    "family": "Love Ya Like A Sister",
+    "category": "display",
+    "source": "google",
+    "language": "en",
+    "path": "google/love-ya-like-a-sister",
+    "files": [
+        {
+            "name": "LoveYaLikeASister-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

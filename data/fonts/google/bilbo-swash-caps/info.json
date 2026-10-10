@@ -1,0 +1,18 @@
+{
+    "id": "bilbo-swash-caps",
+    "title": "Bilbo Swash Caps",
+    "family": "Bilbo Swash Caps",
+    "category": "handwriting",
+    "source": "google",
+    "language": "en",
+    "path": "google/bilbo-swash-caps",
+    "files": [
+        {
+            "name": "BilboSwashCaps-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

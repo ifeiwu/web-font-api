@@ -1,0 +1,18 @@
+{
+    "id": "wallpoet",
+    "title": "Wallpoet",
+    "family": "Wallpoet",
+    "category": "display",
+    "source": "google",
+    "language": "en",
+    "path": "google/wallpoet",
+    "files": [
+        {
+            "name": "Wallpoet-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

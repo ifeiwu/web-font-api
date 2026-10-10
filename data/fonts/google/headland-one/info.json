@@ -1,0 +1,18 @@
+{
+    "id": "headland-one",
+    "title": "Headland One",
+    "family": "Headland One",
+    "category": "serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/headland-one",
+    "files": [
+        {
+            "name": "HeadlandOne-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

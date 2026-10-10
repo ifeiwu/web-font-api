@@ -1,0 +1,18 @@
+{
+    "id": "rouge-script",
+    "title": "Rouge Script",
+    "family": "Rouge Script",
+    "category": "handwriting",
+    "source": "google",
+    "language": "en",
+    "path": "google/rouge-script",
+    "files": [
+        {
+            "name": "RougeScript-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

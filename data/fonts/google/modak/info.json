@@ -1,0 +1,18 @@
+{
+    "id": "modak",
+    "title": "Modak",
+    "family": "Modak",
+    "category": "display",
+    "source": "google",
+    "language": "en",
+    "path": "google/modak",
+    "files": [
+        {
+            "name": "Modak-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

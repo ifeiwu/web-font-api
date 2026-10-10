@@ -1,0 +1,18 @@
+{
+    "id": "almendra-sc",
+    "title": "Almendra SC",
+    "family": "Almendra SC",
+    "category": "serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/almendra-sc",
+    "files": [
+        {
+            "name": "AlmendraSC-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "id": "yellowtail",
+    "title": "Yellowtail",
+    "family": "Yellowtail",
+    "category": "handwriting",
+    "source": "google",
+    "language": "en",
+    "path": "google/yellowtail",
+    "files": [
+        {
+            "name": "Yellowtail-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

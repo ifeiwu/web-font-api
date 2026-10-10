@@ -1,0 +1,18 @@
+{
+    "id": "carrois-gothic-sc",
+    "title": "Carrois Gothic SC",
+    "family": "Carrois Gothic SC",
+    "category": "sans-serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/carrois-gothic-sc",
+    "files": [
+        {
+            "name": "CarroisGothicSC-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

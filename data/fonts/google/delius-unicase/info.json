@@ -1,0 +1,25 @@
+{
+    "id": "delius-unicase",
+    "title": "Delius Unicase",
+    "family": "Delius Unicase",
+    "category": "handwriting",
+    "source": "google",
+    "language": "en",
+    "path": "google/delius-unicase",
+    "files": [
+        {
+            "name": "DeliusUnicase-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "DeliusUnicase-Bold",
+            "ext": "ttf",
+            "subfamily": "Bold",
+            "style": "normal",
+            "weight": 700
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "id": "miss-fajardose",
+    "title": "Miss Fajardose",
+    "family": "Miss Fajardose",
+    "category": "handwriting",
+    "source": "google",
+    "language": "en",
+    "path": "google/miss-fajardose",
+    "files": [
+        {
+            "name": "MissFajardose-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

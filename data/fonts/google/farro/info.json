@@ -1,0 +1,39 @@
+{
+    "id": "farro",
+    "title": "Farro",
+    "family": "Farro",
+    "category": "sans-serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/farro",
+    "files": [
+        {
+            "name": "Farro-Light",
+            "ext": "ttf",
+            "subfamily": "Light",
+            "style": "normal",
+            "weight": 300
+        },
+        {
+            "name": "Farro-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "Farro-Medium",
+            "ext": "ttf",
+            "subfamily": "Medium",
+            "style": "normal",
+            "weight": 500
+        },
+        {
+            "name": "Farro-Bold",
+            "ext": "ttf",
+            "subfamily": "Bold",
+            "style": "normal",
+            "weight": 700
+        }
+    ]
+}

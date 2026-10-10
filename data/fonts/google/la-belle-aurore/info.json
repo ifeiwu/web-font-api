@@ -1,0 +1,18 @@
+{
+    "id": "la-belle-aurore",
+    "title": "La Belle Aurore",
+    "family": "La Belle Aurore",
+    "category": "handwriting",
+    "source": "google",
+    "language": "en",
+    "path": "google/la-belle-aurore",
+    "files": [
+        {
+            "name": "LaBelleAurore-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": "oleo-script",
+    "title": "Oleo Script",
+    "family": "Oleo Script",
+    "category": "display",
+    "source": "google",
+    "language": "en",
+    "path": "google/oleo-script",
+    "files": [
+        {
+            "name": "OleoScript-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "OleoScript-Bold",
+            "ext": "ttf",
+            "subfamily": "Bold",
+            "style": "normal",
+            "weight": 700
+        }
+    ]
+}

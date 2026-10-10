@@ -1,0 +1,18 @@
+{
+    "id": "sirin-stencil",
+    "title": "Sirin Stencil",
+    "family": "Sirin Stencil",
+    "category": "display",
+    "source": "google",
+    "language": "en",
+    "path": "google/sirin-stencil",
+    "files": [
+        {
+            "name": "SirinStencil-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

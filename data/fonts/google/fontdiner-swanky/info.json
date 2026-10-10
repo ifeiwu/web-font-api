@@ -1,0 +1,18 @@
+{
+    "id": "fontdiner-swanky",
+    "title": "Fontdiner Swanky",
+    "family": "Fontdiner Swanky",
+    "category": "display",
+    "source": "google",
+    "language": "en",
+    "path": "google/fontdiner-swanky",
+    "files": [
+        {
+            "name": "FontdinerSwanky-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

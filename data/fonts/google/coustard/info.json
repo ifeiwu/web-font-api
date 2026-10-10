@@ -1,0 +1,25 @@
+{
+    "id": "coustard",
+    "title": "Coustard",
+    "family": "Coustard",
+    "category": "serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/coustard",
+    "files": [
+        {
+            "name": "Coustard-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "Coustard-Black",
+            "ext": "ttf",
+            "subfamily": "Black",
+            "style": "normal",
+            "weight": 900
+        }
+    ]
+}

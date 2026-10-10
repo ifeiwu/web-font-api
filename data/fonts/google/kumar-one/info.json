@@ -1,0 +1,18 @@
+{
+    "id": "kumar-one",
+    "title": "Kumar One",
+    "family": "Kumar One",
+    "category": "display",
+    "source": "google",
+    "language": "en",
+    "path": "google/kumar-one",
+    "files": [
+        {
+            "name": "KumarOne-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

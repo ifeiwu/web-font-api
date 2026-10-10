@@ -1,0 +1,18 @@
+{
+    "id": "swanky-and-moo-moo",
+    "title": "Swanky and Moo Moo",
+    "family": "Swanky and Moo Moo",
+    "category": "handwriting",
+    "source": "google",
+    "language": "en",
+    "path": "google/swanky-and-moo-moo",
+    "files": [
+        {
+            "name": "SwankyandMooMoo-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

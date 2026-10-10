@@ -1,0 +1,39 @@
+{
+    "id": "atkinson-hyperlegible",
+    "title": "Atkinson Hyperlegible",
+    "family": "Atkinson Hyperlegible",
+    "category": "sans-serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/atkinson-hyperlegible",
+    "files": [
+        {
+            "name": "AtkinsonHyperlegible-Italic",
+            "ext": "ttf",
+            "subfamily": "Italic",
+            "style": "italic",
+            "weight": 400
+        },
+        {
+            "name": "AtkinsonHyperlegible-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "AtkinsonHyperlegible-Bold",
+            "ext": "ttf",
+            "subfamily": "Bold",
+            "style": "normal",
+            "weight": 700
+        },
+        {
+            "name": "AtkinsonHyperlegible-BoldItalic",
+            "ext": "ttf",
+            "subfamily": "BoldItalic",
+            "style": "italic",
+            "weight": 700
+        }
+    ]
+}

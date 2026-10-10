@@ -1,0 +1,18 @@
+{
+    "id": "niconne",
+    "title": "Niconne",
+    "family": "Niconne",
+    "category": "handwriting",
+    "source": "google",
+    "language": "en",
+    "path": "google/niconne",
+    "files": [
+        {
+            "name": "Niconne-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

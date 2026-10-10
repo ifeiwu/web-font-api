@@ -1,0 +1,39 @@
+{
+    "id": "dynapuff",
+    "title": "DynaPuff",
+    "family": "DynaPuff",
+    "category": "display",
+    "source": "google",
+    "language": "en",
+    "path": "google/dynapuff",
+    "files": [
+        {
+            "name": "DynaPuff-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "DynaPuff-Medium",
+            "ext": "ttf",
+            "subfamily": "Medium",
+            "style": "normal",
+            "weight": 500
+        },
+        {
+            "name": "DynaPuff-SemiBold",
+            "ext": "ttf",
+            "subfamily": "SemiBold",
+            "style": "normal",
+            "weight": 600
+        },
+        {
+            "name": "DynaPuff-Bold",
+            "ext": "ttf",
+            "subfamily": "Bold",
+            "style": "normal",
+            "weight": 700
+        }
+    ]
+}

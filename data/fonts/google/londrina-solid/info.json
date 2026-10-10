@@ -1,0 +1,39 @@
+{
+    "id": "londrina-solid",
+    "title": "Londrina Solid",
+    "family": "Londrina Solid",
+    "category": "display",
+    "source": "google",
+    "language": "en",
+    "path": "google/londrina-solid",
+    "files": [
+        {
+            "name": "LondrinaSolid-Thin",
+            "ext": "ttf",
+            "subfamily": "Thin",
+            "style": "normal",
+            "weight": 250
+        },
+        {
+            "name": "LondrinaSolid-Light",
+            "ext": "ttf",
+            "subfamily": "Light",
+            "style": "normal",
+            "weight": 300
+        },
+        {
+            "name": "LondrinaSolid-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "LondrinaSolid-Black",
+            "ext": "ttf",
+            "subfamily": "Black",
+            "style": "normal",
+            "weight": 900
+        }
+    ]
+}

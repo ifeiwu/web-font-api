@@ -1,0 +1,39 @@
+{
+    "id": "caladea",
+    "title": "Caladea",
+    "family": "Caladea",
+    "category": "serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/caladea",
+    "files": [
+        {
+            "name": "Caladea-Italic",
+            "ext": "ttf",
+            "subfamily": "Italic",
+            "style": "italic",
+            "weight": 400
+        },
+        {
+            "name": "Caladea-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "Caladea-Bold",
+            "ext": "ttf",
+            "subfamily": "Bold",
+            "style": "normal",
+            "weight": 700
+        },
+        {
+            "name": "Caladea-BoldItalic",
+            "ext": "ttf",
+            "subfamily": "BoldItalic",
+            "style": "italic",
+            "weight": 700
+        }
+    ]
+}

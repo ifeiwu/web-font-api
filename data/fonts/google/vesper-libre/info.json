@@ -1,0 +1,39 @@
+{
+    "id": "vesper-libre",
+    "title": "Vesper Libre",
+    "family": "Vesper Libre",
+    "category": "serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/vesper-libre",
+    "files": [
+        {
+            "name": "VesperLibre-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "VesperLibre-Medium",
+            "ext": "ttf",
+            "subfamily": "Medium",
+            "style": "normal",
+            "weight": 500
+        },
+        {
+            "name": "VesperLibre-Bold",
+            "ext": "ttf",
+            "subfamily": "Bold",
+            "style": "normal",
+            "weight": 700
+        },
+        {
+            "name": "VesperLibre-Black",
+            "ext": "ttf",
+            "subfamily": "Black",
+            "style": "normal",
+            "weight": 900
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "id": "averia-serif-libre",
+    "title": "Averia Serif Libre",
+    "family": "Averia Serif Libre",
+    "category": "display",
+    "source": "google",
+    "language": "en",
+    "path": "google/averia-serif-libre",
+    "files": [
+        {
+            "name": "AveriaSerifLibre-Light",
+            "ext": "ttf",
+            "subfamily": "Light",
+            "style": "normal",
+            "weight": 300
+        },
+        {
+            "name": "AveriaSerifLibre-LightItalic",
+            "ext": "ttf",
+            "subfamily": "LightItalic",
+            "style": "italic",
+            "weight": 300
+        },
+        {
+            "name": "AveriaSerifLibre-Italic",
+            "ext": "ttf",
+            "subfamily": "Italic",
+            "style": "italic",
+            "weight": 400
+        },
+        {
+            "name": "AveriaSerifLibre-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "AveriaSerifLibre-Bold",
+            "ext": "ttf",
+            "subfamily": "Bold",
+            "style": "normal",
+            "weight": 700
+        },
+        {
+            "name": "AveriaSerifLibre-BoldItalic",
+            "ext": "ttf",
+            "subfamily": "BoldItalic",
+            "style": "italic",
+            "weight": 700
+        }
+    ]
+}

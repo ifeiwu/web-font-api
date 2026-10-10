@@ -1,0 +1,18 @@
+{
+    "id": "cherry-cream-soda",
+    "title": "Cherry Cream Soda",
+    "family": "Cherry Cream Soda",
+    "category": "display",
+    "source": "google",
+    "language": "en",
+    "path": "google/cherry-cream-soda",
+    "files": [
+        {
+            "name": "CherryCreamSoda-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

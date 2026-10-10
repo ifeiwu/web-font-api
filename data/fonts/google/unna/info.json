@@ -1,0 +1,39 @@
+{
+    "id": "unna",
+    "title": "Unna",
+    "family": "Unna",
+    "category": "serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/unna",
+    "files": [
+        {
+            "name": "Unna-Italic",
+            "ext": "ttf",
+            "subfamily": "Italic",
+            "style": "italic",
+            "weight": 400
+        },
+        {
+            "name": "Unna-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "Unna-Bold",
+            "ext": "ttf",
+            "subfamily": "Bold",
+            "style": "normal",
+            "weight": 700
+        },
+        {
+            "name": "Unna-BoldItalic",
+            "ext": "ttf",
+            "subfamily": "BoldItalic",
+            "style": "italic",
+            "weight": 700
+        }
+    ]
+}

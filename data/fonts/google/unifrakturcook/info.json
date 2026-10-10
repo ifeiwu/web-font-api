@@ -1,0 +1,18 @@
+{
+    "id": "unifrakturcook",
+    "title": "UnifrakturCook",
+    "family": "UnifrakturCook",
+    "category": "display",
+    "source": "google",
+    "language": "en",
+    "path": "google/unifrakturcook",
+    "files": [
+        {
+            "name": "UnifrakturCook-Bold",
+            "ext": "ttf",
+            "subfamily": "Bold",
+            "style": "normal",
+            "weight": 700
+        }
+    ]
+}

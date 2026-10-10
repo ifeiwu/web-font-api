@@ -1,0 +1,25 @@
+{
+    "id": "sarala",
+    "title": "Sarala",
+    "family": "Sarala",
+    "category": "sans-serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/sarala",
+    "files": [
+        {
+            "name": "Sarala-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "Sarala-Bold",
+            "ext": "ttf",
+            "subfamily": "Bold",
+            "style": "normal",
+            "weight": 700
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "id": "vampiro-one",
+    "title": "Vampiro One",
+    "family": "Vampiro One",
+    "category": "display",
+    "source": "google",
+    "language": "en",
+    "path": "google/vampiro-one",
+    "files": [
+        {
+            "name": "VampiroOne-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

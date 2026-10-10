@@ -1,0 +1,25 @@
+{
+    "id": "gorditas",
+    "title": "Gorditas",
+    "family": "Gorditas",
+    "category": "display",
+    "source": "google",
+    "language": "en",
+    "path": "google/gorditas",
+    "files": [
+        {
+            "name": "Gorditas-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "Gorditas-Bold",
+            "ext": "ttf",
+            "subfamily": "Bold",
+            "style": "normal",
+            "weight": 700
+        }
+    ]
+}

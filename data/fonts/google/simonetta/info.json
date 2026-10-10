@@ -1,0 +1,39 @@
+{
+    "id": "simonetta",
+    "title": "Simonetta",
+    "family": "Simonetta",
+    "category": "display",
+    "source": "google",
+    "language": "en",
+    "path": "google/simonetta",
+    "files": [
+        {
+            "name": "Simonetta-Italic",
+            "ext": "ttf",
+            "subfamily": "Italic",
+            "style": "italic",
+            "weight": 400
+        },
+        {
+            "name": "Simonetta-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "Simonetta-Black",
+            "ext": "ttf",
+            "subfamily": "Black",
+            "style": "normal",
+            "weight": 900
+        },
+        {
+            "name": "Simonetta-BlackItalic",
+            "ext": "ttf",
+            "subfamily": "BlackItalic",
+            "style": "italic",
+            "weight": 900
+        }
+    ]
+}

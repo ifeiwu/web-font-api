@@ -1,0 +1,18 @@
+{
+    "id": "poller-one",
+    "title": "Poller One",
+    "family": "Poller One",
+    "category": "display",
+    "source": "google",
+    "language": "en",
+    "path": "google/poller-one",
+    "files": [
+        {
+            "name": "PollerOne-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

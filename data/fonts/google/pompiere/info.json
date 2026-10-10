@@ -1,0 +1,18 @@
+{
+    "id": "pompiere",
+    "title": "Pompiere",
+    "family": "Pompiere",
+    "category": "display",
+    "source": "google",
+    "language": "en",
+    "path": "google/pompiere",
+    "files": [
+        {
+            "name": "Pompiere-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

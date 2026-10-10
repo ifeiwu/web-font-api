@@ -1,0 +1,18 @@
+{
+    "id": "abyssinica-sil",
+    "title": "Abyssinica SIL",
+    "family": "Abyssinica SIL",
+    "category": "serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/abyssinica-sil",
+    "files": [
+        {
+            "name": "AbyssinicaSIL-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

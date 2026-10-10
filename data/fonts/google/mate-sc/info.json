@@ -1,0 +1,18 @@
+{
+    "id": "mate-sc",
+    "title": "Mate SC",
+    "family": "Mate SC",
+    "category": "serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/mate-sc",
+    "files": [
+        {
+            "name": "MateSC-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

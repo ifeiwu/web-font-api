@@ -1,0 +1,18 @@
+{
+    "id": "bigelow-rules",
+    "title": "Bigelow Rules",
+    "family": "Bigelow Rules",
+    "category": "display",
+    "source": "google",
+    "language": "en",
+    "path": "google/bigelow-rules",
+    "files": [
+        {
+            "name": "BigelowRules-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

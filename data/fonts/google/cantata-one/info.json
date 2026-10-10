@@ -1,0 +1,18 @@
+{
+    "id": "cantata-one",
+    "title": "Cantata One",
+    "family": "Cantata One",
+    "category": "serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/cantata-one",
+    "files": [
+        {
+            "name": "CantataOne-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

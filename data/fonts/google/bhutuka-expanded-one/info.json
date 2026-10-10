@@ -1,0 +1,18 @@
+{
+    "id": "bhutuka-expanded-one",
+    "title": "BhuTuka Expanded One",
+    "family": "BhuTuka Expanded One",
+    "category": "serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/bhutuka-expanded-one",
+    "files": [
+        {
+            "name": "BhuTukaExpandedOne-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

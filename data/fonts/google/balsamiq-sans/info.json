@@ -1,0 +1,39 @@
+{
+    "id": "balsamiq-sans",
+    "title": "Balsamiq Sans",
+    "family": "Balsamiq Sans",
+    "category": "display",
+    "source": "google",
+    "language": "en",
+    "path": "google/balsamiq-sans",
+    "files": [
+        {
+            "name": "BalsamiqSans-Italic",
+            "ext": "ttf",
+            "subfamily": "Italic",
+            "style": "italic",
+            "weight": 400
+        },
+        {
+            "name": "BalsamiqSans-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "BalsamiqSans-Bold",
+            "ext": "ttf",
+            "subfamily": "Bold",
+            "style": "normal",
+            "weight": 700
+        },
+        {
+            "name": "BalsamiqSans-BoldItalic",
+            "ext": "ttf",
+            "subfamily": "BoldItalic",
+            "style": "italic",
+            "weight": 700
+        }
+    ]
+}

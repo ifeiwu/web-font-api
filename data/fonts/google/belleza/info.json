@@ -1,0 +1,18 @@
+{
+    "id": "belleza",
+    "title": "Belleza",
+    "family": "Belleza",
+    "category": "sans-serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/belleza",
+    "files": [
+        {
+            "name": "Belleza-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

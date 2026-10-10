@@ -1,0 +1,25 @@
+{
+    "id": "arapey",
+    "title": "Arapey",
+    "family": "Arapey",
+    "category": "serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/arapey",
+    "files": [
+        {
+            "name": "Arapey-Italic",
+            "ext": "ttf",
+            "subfamily": "Italic",
+            "style": "italic",
+            "weight": 400
+        },
+        {
+            "name": "Arapey-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

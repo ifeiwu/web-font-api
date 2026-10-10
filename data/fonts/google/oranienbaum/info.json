@@ -1,0 +1,18 @@
+{
+    "id": "oranienbaum",
+    "title": "Oranienbaum",
+    "family": "Oranienbaum",
+    "category": "serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/oranienbaum",
+    "files": [
+        {
+            "name": "Oranienbaum-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "id": "b612-mono",
+    "title": "B612 Mono",
+    "family": "B612 Mono",
+    "category": "monospace",
+    "source": "google",
+    "language": "en",
+    "path": "google/b612-mono",
+    "files": [
+        {
+            "name": "B612Mono-Italic",
+            "ext": "ttf",
+            "subfamily": "Italic",
+            "style": "italic",
+            "weight": 400
+        },
+        {
+            "name": "B612Mono-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "B612Mono-Bold",
+            "ext": "ttf",
+            "subfamily": "Bold",
+            "style": "normal",
+            "weight": 700
+        },
+        {
+            "name": "B612Mono-BoldItalic",
+            "ext": "ttf",
+            "subfamily": "BoldItalic",
+            "style": "italic",
+            "weight": 700
+        }
+    ]
+}

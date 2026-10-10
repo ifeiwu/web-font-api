@@ -1,0 +1,18 @@
+{
+    "id": "krona-one",
+    "title": "Krona One",
+    "family": "Krona One",
+    "category": "sans-serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/krona-one",
+    "files": [
+        {
+            "name": "KronaOne-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

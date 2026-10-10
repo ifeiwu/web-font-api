@@ -1,0 +1,25 @@
+{
+    "id": "fragment-mono",
+    "title": "Fragment Mono",
+    "family": "Fragment Mono",
+    "category": "monospace",
+    "source": "google",
+    "language": "en",
+    "path": "google/fragment-mono",
+    "files": [
+        {
+            "name": "FragmentMono-Italic",
+            "ext": "ttf",
+            "subfamily": "Italic",
+            "style": "italic",
+            "weight": 400
+        },
+        {
+            "name": "FragmentMono-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "id": "pixelify-sans",
+    "title": "Pixelify Sans",
+    "family": "Pixelify Sans",
+    "category": "display",
+    "source": "google",
+    "language": "en",
+    "path": "google/pixelify-sans",
+    "files": [
+        {
+            "name": "PixelifySans-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "PixelifySans-Medium",
+            "ext": "ttf",
+            "subfamily": "Medium",
+            "style": "normal",
+            "weight": 500
+        },
+        {
+            "name": "PixelifySans-SemiBold",
+            "ext": "ttf",
+            "subfamily": "SemiBold",
+            "style": "normal",
+            "weight": 600
+        },
+        {
+            "name": "PixelifySans-Bold",
+            "ext": "ttf",
+            "subfamily": "Bold",
+            "style": "normal",
+            "weight": 700
+        }
+    ]
+}

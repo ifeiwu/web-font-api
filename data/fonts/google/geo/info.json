@@ -1,0 +1,25 @@
+{
+    "id": "geo",
+    "title": "Geo",
+    "family": "Geo",
+    "category": "sans-serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/geo",
+    "files": [
+        {
+            "name": "Geo-Italic",
+            "ext": "ttf",
+            "subfamily": "Italic",
+            "style": "normal",
+            "weight": 500
+        },
+        {
+            "name": "Geo-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 500
+        }
+    ]
+}

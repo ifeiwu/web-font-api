@@ -1,0 +1,25 @@
+{
+    "id": "im-fell-english",
+    "title": "IM Fell English",
+    "family": "IM Fell English",
+    "category": "serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/im-fell-english",
+    "files": [
+        {
+            "name": "IMFellEnglish-Italic",
+            "ext": "ttf",
+            "subfamily": "Italic",
+            "style": "italic",
+            "weight": 400
+        },
+        {
+            "name": "IMFellEnglish-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

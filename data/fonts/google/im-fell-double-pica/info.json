@@ -1,0 +1,25 @@
+{
+    "id": "im-fell-double-pica",
+    "title": "IM Fell Double Pica",
+    "family": "IM Fell Double Pica",
+    "category": "serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/im-fell-double-pica",
+    "files": [
+        {
+            "name": "IMFellDoublePica-Italic",
+            "ext": "ttf",
+            "subfamily": "Italic",
+            "style": "italic",
+            "weight": 400
+        },
+        {
+            "name": "IMFellDoublePica-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

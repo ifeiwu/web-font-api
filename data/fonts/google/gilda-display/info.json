@@ -1,0 +1,18 @@
+{
+    "id": "gilda-display",
+    "title": "Gilda Display",
+    "family": "Gilda Display",
+    "category": "serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/gilda-display",
+    "files": [
+        {
+            "name": "GildaDisplay-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

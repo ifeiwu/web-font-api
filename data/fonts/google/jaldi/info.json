@@ -1,0 +1,25 @@
+{
+    "id": "jaldi",
+    "title": "Jaldi",
+    "family": "Jaldi",
+    "category": "sans-serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/jaldi",
+    "files": [
+        {
+            "name": "Jaldi-Bold",
+            "ext": "ttf",
+            "subfamily": "Bold",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "Jaldi-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

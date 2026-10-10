@@ -1,0 +1,25 @@
+{
+    "id": "silkscreen",
+    "title": "Silkscreen",
+    "family": "Silkscreen",
+    "category": "display",
+    "source": "google",
+    "language": "en",
+    "path": "google/silkscreen",
+    "files": [
+        {
+            "name": "Silkscreen-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "Silkscreen-Bold",
+            "ext": "ttf",
+            "subfamily": "Bold",
+            "style": "normal",
+            "weight": 700
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "id": "edu-tas-beginner",
+    "title": "Edu TAS Beginner",
+    "family": "Edu TAS Beginner",
+    "category": "handwriting",
+    "source": "google",
+    "language": "en",
+    "path": "google/edu-tas-beginner",
+    "files": [
+        {
+            "name": "EduTASBeginner-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "EduTASBeginner-Medium",
+            "ext": "ttf",
+            "subfamily": "Medium",
+            "style": "normal",
+            "weight": 500
+        },
+        {
+            "name": "EduTASBeginner-SemiBold",
+            "ext": "ttf",
+            "subfamily": "SemiBold",
+            "style": "normal",
+            "weight": 600
+        },
+        {
+            "name": "EduTASBeginner-Bold",
+            "ext": "ttf",
+            "subfamily": "Bold",
+            "style": "normal",
+            "weight": 700
+        }
+    ]
+}

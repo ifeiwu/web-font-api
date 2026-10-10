@@ -1,0 +1,18 @@
+{
+    "id": "montez",
+    "title": "Montez",
+    "family": "Montez",
+    "category": "handwriting",
+    "source": "google",
+    "language": "en",
+    "path": "google/montez",
+    "files": [
+        {
+            "name": "Montez-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

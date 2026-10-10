@@ -1,0 +1,18 @@
+{
+    "id": "kite-one",
+    "title": "Kite One",
+    "family": "Kite One",
+    "category": "sans-serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/kite-one",
+    "files": [
+        {
+            "name": "KiteOne-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

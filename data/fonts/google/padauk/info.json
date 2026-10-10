@@ -1,0 +1,25 @@
+{
+    "id": "padauk",
+    "title": "Padauk",
+    "family": "Padauk",
+    "category": "sans-serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/padauk",
+    "files": [
+        {
+            "name": "Padauk-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "Padauk-Bold",
+            "ext": "ttf",
+            "subfamily": "Bold",
+            "style": "normal",
+            "weight": 700
+        }
+    ]
+}

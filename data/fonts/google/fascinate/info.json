@@ -1,0 +1,18 @@
+{
+    "id": "fascinate",
+    "title": "Fascinate",
+    "family": "Fascinate",
+    "category": "display",
+    "source": "google",
+    "language": "en",
+    "path": "google/fascinate",
+    "files": [
+        {
+            "name": "Fascinate-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 900
+        }
+    ]
+}

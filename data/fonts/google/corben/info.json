@@ -1,0 +1,25 @@
+{
+    "id": "corben",
+    "title": "Corben",
+    "family": "Corben",
+    "category": "display",
+    "source": "google",
+    "language": "en",
+    "path": "google/corben",
+    "files": [
+        {
+            "name": "Corben-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "Corben-Bold",
+            "ext": "ttf",
+            "subfamily": "Bold",
+            "style": "normal",
+            "weight": 700
+        }
+    ]
+}

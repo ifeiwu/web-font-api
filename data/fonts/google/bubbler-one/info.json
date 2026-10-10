@@ -1,0 +1,18 @@
+{
+    "id": "bubbler-one",
+    "title": "Bubbler One",
+    "family": "Bubbler One",
+    "category": "sans-serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/bubbler-one",
+    "files": [
+        {
+            "name": "BubblerOne-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

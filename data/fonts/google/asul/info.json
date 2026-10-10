@@ -1,0 +1,25 @@
+{
+    "id": "asul",
+    "title": "Asul",
+    "family": "Asul",
+    "category": "sans-serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/asul",
+    "files": [
+        {
+            "name": "Asul-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "Asul-Bold",
+            "ext": "ttf",
+            "subfamily": "Bold",
+            "style": "normal",
+            "weight": 700
+        }
+    ]
+}

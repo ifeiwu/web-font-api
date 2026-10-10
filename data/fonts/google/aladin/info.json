@@ -1,0 +1,18 @@
+{
+    "id": "aladin",
+    "title": "Aladin",
+    "family": "Aladin",
+    "category": "display",
+    "source": "google",
+    "language": "en",
+    "path": "google/aladin",
+    "files": [
+        {
+            "name": "Aladin-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

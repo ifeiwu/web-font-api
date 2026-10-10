@@ -1,0 +1,18 @@
+{
+    "id": "lacquer",
+    "title": "Lacquer",
+    "family": "Lacquer",
+    "category": "display",
+    "source": "google",
+    "language": "en",
+    "path": "google/lacquer",
+    "files": [
+        {
+            "name": "Lacquer-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

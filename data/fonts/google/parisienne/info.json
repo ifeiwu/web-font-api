@@ -1,0 +1,18 @@
+{
+    "id": "parisienne",
+    "title": "Parisienne",
+    "family": "Parisienne",
+    "category": "handwriting",
+    "source": "google",
+    "language": "en",
+    "path": "google/parisienne",
+    "files": [
+        {
+            "name": "Parisienne-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

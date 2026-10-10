@@ -1,0 +1,25 @@
+{
+    "id": "pragati-narrow",
+    "title": "Pragati Narrow",
+    "family": "Pragati Narrow",
+    "category": "sans-serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/pragati-narrow",
+    "files": [
+        {
+            "name": "PragatiNarrow-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "PragatiNarrow-Bold",
+            "ext": "ttf",
+            "subfamily": "Bold",
+            "style": "normal",
+            "weight": 700
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": "tangerine",
+    "title": "Tangerine",
+    "family": "Tangerine",
+    "category": "handwriting",
+    "source": "google",
+    "language": "en",
+    "path": "google/tangerine",
+    "files": [
+        {
+            "name": "Tangerine-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "Tangerine-Bold",
+            "ext": "ttf",
+            "subfamily": "Bold",
+            "style": "normal",
+            "weight": 700
+        }
+    ]
+}

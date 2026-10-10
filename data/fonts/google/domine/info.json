@@ -1,0 +1,39 @@
+{
+    "id": "domine",
+    "title": "Domine",
+    "family": "Domine",
+    "category": "serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/domine",
+    "files": [
+        {
+            "name": "Domine-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "Domine-Medium",
+            "ext": "ttf",
+            "subfamily": "Medium",
+            "style": "normal",
+            "weight": 500
+        },
+        {
+            "name": "Domine-SemiBold",
+            "ext": "ttf",
+            "subfamily": "SemiBold",
+            "style": "normal",
+            "weight": 600
+        },
+        {
+            "name": "Domine-Bold",
+            "ext": "ttf",
+            "subfamily": "Bold",
+            "style": "normal",
+            "weight": 700
+        }
+    ]
+}

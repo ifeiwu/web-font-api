@@ -1,0 +1,18 @@
+{
+    "id": "geostar-fill",
+    "title": "Geostar Fill",
+    "family": "Geostar Fill",
+    "category": "display",
+    "source": "google",
+    "language": "en",
+    "path": "google/geostar-fill",
+    "files": [
+        {
+            "name": "GeostarFill-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

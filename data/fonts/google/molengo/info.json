@@ -1,0 +1,18 @@
+{
+    "id": "molengo",
+    "title": "Molengo",
+    "family": "Molengo",
+    "category": "sans-serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/molengo",
+    "files": [
+        {
+            "name": "Molengo-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

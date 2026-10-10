@@ -1,0 +1,25 @@
+{
+    "id": "poly",
+    "title": "Poly",
+    "family": "Poly",
+    "category": "serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/poly",
+    "files": [
+        {
+            "name": "Poly-Italic",
+            "ext": "ttf",
+            "subfamily": "Italic",
+            "style": "italic",
+            "weight": 400
+        },
+        {
+            "name": "Poly-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

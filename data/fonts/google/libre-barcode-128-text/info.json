@@ -1,0 +1,18 @@
+{
+    "id": "libre-barcode-128-text",
+    "title": "Libre Barcode 128 Text",
+    "family": "Libre Barcode 128 Text",
+    "category": "display",
+    "source": "google",
+    "language": "en",
+    "path": "google/libre-barcode-128-text",
+    "files": [
+        {
+            "name": "LibreBarcode128Text-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": "glegoo",
+    "title": "Glegoo",
+    "family": "Glegoo",
+    "category": "serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/glegoo",
+    "files": [
+        {
+            "name": "Glegoo-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "Glegoo-Bold",
+            "ext": "ttf",
+            "subfamily": "Bold",
+            "style": "normal",
+            "weight": 700
+        }
+    ]
+}

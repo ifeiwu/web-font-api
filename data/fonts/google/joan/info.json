@@ -1,0 +1,18 @@
+{
+    "id": "joan",
+    "title": "Joan",
+    "family": "Joan",
+    "category": "serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/joan",
+    "files": [
+        {
+            "name": "Joan-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

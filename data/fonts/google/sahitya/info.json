@@ -1,0 +1,25 @@
+{
+    "id": "sahitya",
+    "title": "Sahitya",
+    "family": "Sahitya",
+    "category": "serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/sahitya",
+    "files": [
+        {
+            "name": "Sahitya-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "Sahitya-Bold",
+            "ext": "ttf",
+            "subfamily": "Bold",
+            "style": "normal",
+            "weight": 700
+        }
+    ]
+}

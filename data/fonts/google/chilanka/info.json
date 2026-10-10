@@ -1,0 +1,18 @@
+{
+    "id": "chilanka",
+    "title": "Chilanka",
+    "family": "Chilanka",
+    "category": "handwriting",
+    "source": "google",
+    "language": "en",
+    "path": "google/chilanka",
+    "files": [
+        {
+            "name": "Chilanka-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

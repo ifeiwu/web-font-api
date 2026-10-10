@@ -1,0 +1,25 @@
+{
+    "id": "sintony",
+    "title": "Sintony",
+    "family": "Sintony",
+    "category": "sans-serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/sintony",
+    "files": [
+        {
+            "name": "Sintony-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "Sintony-Bold",
+            "ext": "ttf",
+            "subfamily": "Bold",
+            "style": "normal",
+            "weight": 700
+        }
+    ]
+}

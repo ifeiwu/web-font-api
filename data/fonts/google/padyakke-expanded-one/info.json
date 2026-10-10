@@ -1,0 +1,18 @@
+{
+    "id": "padyakke-expanded-one",
+    "title": "Padyakke Expanded One",
+    "family": "Padyakke Expanded One",
+    "category": "serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/padyakke-expanded-one",
+    "files": [
+        {
+            "name": "PadyakkeExpandedOne-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

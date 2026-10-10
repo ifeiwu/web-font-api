@@ -1,0 +1,18 @@
+{
+    "id": "rubik-mono-one",
+    "title": "Rubik Mono One",
+    "family": "Rubik Mono One",
+    "category": "sans-serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/rubik-mono-one",
+    "files": [
+        {
+            "name": "RubikMonoOne-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

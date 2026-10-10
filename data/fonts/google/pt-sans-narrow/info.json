@@ -1,0 +1,25 @@
+{
+    "id": "pt-sans-narrow",
+    "title": "PT Sans Narrow",
+    "family": "PT Sans Narrow",
+    "category": "sans-serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/pt-sans-narrow",
+    "files": [
+        {
+            "name": "PTSansNarrow-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "PTSansNarrow-Bold",
+            "ext": "ttf",
+            "subfamily": "Bold",
+            "style": "normal",
+            "weight": 700
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "id": "monofett",
+    "title": "Monofett",
+    "family": "Monofett",
+    "category": "monospace",
+    "source": "google",
+    "language": "en",
+    "path": "google/monofett",
+    "files": [
+        {
+            "name": "Monofett-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

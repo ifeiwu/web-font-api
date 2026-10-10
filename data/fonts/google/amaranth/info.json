@@ -1,0 +1,39 @@
+{
+    "id": "amaranth",
+    "title": "Amaranth",
+    "family": "Amaranth",
+    "category": "sans-serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/amaranth",
+    "files": [
+        {
+            "name": "Amaranth-Italic",
+            "ext": "ttf",
+            "subfamily": "Italic",
+            "style": "italic",
+            "weight": 400
+        },
+        {
+            "name": "Amaranth-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "Amaranth-Bold",
+            "ext": "ttf",
+            "subfamily": "Bold",
+            "style": "normal",
+            "weight": 700
+        },
+        {
+            "name": "Amaranth-BoldItalic",
+            "ext": "ttf",
+            "subfamily": "BoldItalic",
+            "style": "italic",
+            "weight": 700
+        }
+    ]
+}

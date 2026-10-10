@@ -1,0 +1,25 @@
+{
+    "id": "elsie-swash-caps",
+    "title": "Elsie Swash Caps",
+    "family": "Elsie Swash Caps",
+    "category": "display",
+    "source": "google",
+    "language": "en",
+    "path": "google/elsie-swash-caps",
+    "files": [
+        {
+            "name": "ElsieSwashCaps-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "ElsieSwashCaps-Black",
+            "ext": "ttf",
+            "subfamily": "Black",
+            "style": "normal",
+            "weight": 900
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "id": "montaga",
+    "title": "Montaga",
+    "family": "Montaga",
+    "category": "serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/montaga",
+    "files": [
+        {
+            "name": "Montaga-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

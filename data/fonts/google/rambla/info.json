@@ -1,0 +1,39 @@
+{
+    "id": "rambla",
+    "title": "Rambla",
+    "family": "Rambla",
+    "category": "sans-serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/rambla",
+    "files": [
+        {
+            "name": "Rambla-Italic",
+            "ext": "ttf",
+            "subfamily": "Italic",
+            "style": "italic",
+            "weight": 400
+        },
+        {
+            "name": "Rambla-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "Rambla-Bold",
+            "ext": "ttf",
+            "subfamily": "Bold",
+            "style": "normal",
+            "weight": 700
+        },
+        {
+            "name": "Rambla-BoldItalic",
+            "ext": "ttf",
+            "subfamily": "BoldItalic",
+            "style": "italic",
+            "weight": 700
+        }
+    ]
+}

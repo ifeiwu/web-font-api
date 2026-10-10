@@ -1,0 +1,18 @@
+{
+    "id": "electrolize",
+    "title": "Electrolize",
+    "family": "Electrolize",
+    "category": "sans-serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/electrolize",
+    "files": [
+        {
+            "name": "Electrolize-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

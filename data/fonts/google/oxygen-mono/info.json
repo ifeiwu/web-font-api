@@ -1,0 +1,18 @@
+{
+    "id": "oxygen-mono",
+    "title": "Oxygen Mono",
+    "family": "Oxygen Mono",
+    "category": "monospace",
+    "source": "google",
+    "language": "en",
+    "path": "google/oxygen-mono",
+    "files": [
+        {
+            "name": "OxygenMono-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

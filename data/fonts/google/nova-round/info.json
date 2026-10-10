@@ -1,0 +1,18 @@
+{
+    "id": "nova-round",
+    "title": "Nova Round",
+    "family": "Nova Round",
+    "category": "display",
+    "source": "google",
+    "language": "en",
+    "path": "google/nova-round",
+    "files": [
+        {
+            "name": "NovaRound-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

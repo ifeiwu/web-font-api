@@ -1,0 +1,18 @@
+{
+    "id": "michroma",
+    "title": "Michroma",
+    "family": "Michroma",
+    "category": "sans-serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/michroma",
+    "files": [
+        {
+            "name": "Michroma-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

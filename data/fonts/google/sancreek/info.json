@@ -1,0 +1,18 @@
+{
+    "id": "sancreek",
+    "title": "Sancreek",
+    "family": "Sancreek",
+    "category": "display",
+    "source": "google",
+    "language": "en",
+    "path": "google/sancreek",
+    "files": [
+        {
+            "name": "Sancreek-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

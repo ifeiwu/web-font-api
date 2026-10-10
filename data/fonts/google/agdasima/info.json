@@ -1,0 +1,25 @@
+{
+    "id": "agdasima",
+    "title": "Agdasima",
+    "family": "Agdasima",
+    "category": "sans-serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/agdasima",
+    "files": [
+        {
+            "name": "Agdasima-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "Agdasima-Bold",
+            "ext": "ttf",
+            "subfamily": "Bold",
+            "style": "normal",
+            "weight": 700
+        }
+    ]
+}

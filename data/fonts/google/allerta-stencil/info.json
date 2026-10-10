@@ -1,0 +1,18 @@
+{
+    "id": "allerta-stencil",
+    "title": "Allerta Stencil",
+    "family": "Allerta Stencil",
+    "category": "sans-serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/allerta-stencil",
+    "files": [
+        {
+            "name": "AllertaStencil-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

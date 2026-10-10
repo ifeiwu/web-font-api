@@ -1,0 +1,25 @@
+{
+    "id": "oregano",
+    "title": "Oregano",
+    "family": "Oregano",
+    "category": "display",
+    "source": "google",
+    "language": "en",
+    "path": "google/oregano",
+    "files": [
+        {
+            "name": "Oregano-Italic",
+            "ext": "ttf",
+            "subfamily": "Italic",
+            "style": "italic",
+            "weight": 400
+        },
+        {
+            "name": "Oregano-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

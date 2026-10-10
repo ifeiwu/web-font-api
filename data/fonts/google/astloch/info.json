@@ -1,0 +1,25 @@
+{
+    "id": "astloch",
+    "title": "Astloch",
+    "family": "Astloch",
+    "category": "display",
+    "source": "google",
+    "language": "en",
+    "path": "google/astloch",
+    "files": [
+        {
+            "name": "Astloch-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "Astloch-Bold",
+            "ext": "ttf",
+            "subfamily": "Bold",
+            "style": "normal",
+            "weight": 700
+        }
+    ]
+}

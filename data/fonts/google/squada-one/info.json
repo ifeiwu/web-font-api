@@ -1,0 +1,18 @@
+{
+    "id": "squada-one",
+    "title": "Squada One",
+    "family": "Squada One",
+    "category": "display",
+    "source": "google",
+    "language": "en",
+    "path": "google/squada-one",
+    "files": [
+        {
+            "name": "SquadaOne-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

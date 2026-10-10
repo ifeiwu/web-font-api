@@ -1,0 +1,25 @@
+{
+    "id": "im-fell-dw-pica",
+    "title": "IM Fell DW Pica",
+    "family": "IM Fell DW Pica",
+    "category": "serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/im-fell-dw-pica",
+    "files": [
+        {
+            "name": "IMFellDWPica-Italic",
+            "ext": "ttf",
+            "subfamily": "Italic",
+            "style": "italic",
+            "weight": 400
+        },
+        {
+            "name": "IMFellDWPica-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

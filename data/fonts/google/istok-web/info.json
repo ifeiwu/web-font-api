@@ -1,0 +1,39 @@
+{
+    "id": "istok-web",
+    "title": "Istok Web",
+    "family": "Istok Web",
+    "category": "sans-serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/istok-web",
+    "files": [
+        {
+            "name": "IstokWeb-Italic",
+            "ext": "ttf",
+            "subfamily": "Italic",
+            "style": "italic",
+            "weight": 400
+        },
+        {
+            "name": "IstokWeb-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "IstokWeb-Bold",
+            "ext": "ttf",
+            "subfamily": "Bold",
+            "style": "normal",
+            "weight": 700
+        },
+        {
+            "name": "IstokWeb-BoldItalic",
+            "ext": "ttf",
+            "subfamily": "BoldItalic",
+            "style": "italic",
+            "weight": 700
+        }
+    ]
+}

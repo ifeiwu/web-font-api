@@ -1,0 +1,18 @@
+{
+    "id": "baumans",
+    "title": "Baumans",
+    "family": "Baumans",
+    "category": "display",
+    "source": "google",
+    "language": "en",
+    "path": "google/baumans",
+    "files": [
+        {
+            "name": "Baumans-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

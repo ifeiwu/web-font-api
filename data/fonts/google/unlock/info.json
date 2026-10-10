@@ -1,0 +1,18 @@
+{
+    "id": "unlock",
+    "title": "Unlock",
+    "family": "Unlock",
+    "category": "display",
+    "source": "google",
+    "language": "en",
+    "path": "google/unlock",
+    "files": [
+        {
+            "name": "Unlock-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

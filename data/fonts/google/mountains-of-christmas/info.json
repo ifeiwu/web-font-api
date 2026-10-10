@@ -1,0 +1,25 @@
+{
+    "id": "mountains-of-christmas",
+    "title": "Mountains of Christmas",
+    "family": "Mountains of Christmas",
+    "category": "display",
+    "source": "google",
+    "language": "en",
+    "path": "google/mountains-of-christmas",
+    "files": [
+        {
+            "name": "MountainsofChristmas-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "MountainsofChristmas-Bold",
+            "ext": "ttf",
+            "subfamily": "Bold",
+            "style": "normal",
+            "weight": 700
+        }
+    ]
+}

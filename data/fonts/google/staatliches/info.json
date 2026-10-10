@@ -1,0 +1,18 @@
+{
+    "id": "staatliches",
+    "title": "Staatliches",
+    "family": "Staatliches",
+    "category": "display",
+    "source": "google",
+    "language": "en",
+    "path": "google/staatliches",
+    "files": [
+        {
+            "name": "Staatliches-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

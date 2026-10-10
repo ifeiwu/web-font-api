@@ -1,0 +1,18 @@
+{
+    "id": "langar",
+    "title": "Langar",
+    "family": "Langar",
+    "category": "display",
+    "source": "google",
+    "language": "en",
+    "path": "google/langar",
+    "files": [
+        {
+            "name": "Langar-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

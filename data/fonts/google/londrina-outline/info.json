@@ -1,0 +1,18 @@
+{
+    "id": "londrina-outline",
+    "title": "Londrina Outline",
+    "family": "Londrina Outline",
+    "category": "display",
+    "source": "google",
+    "language": "en",
+    "path": "google/londrina-outline",
+    "files": [
+        {
+            "name": "LondrinaOutline-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

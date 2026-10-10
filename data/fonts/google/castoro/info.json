@@ -1,0 +1,25 @@
+{
+    "id": "castoro",
+    "title": "Castoro",
+    "family": "Castoro",
+    "category": "serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/castoro",
+    "files": [
+        {
+            "name": "Castoro-Italic",
+            "ext": "ttf",
+            "subfamily": "Italic",
+            "style": "italic",
+            "weight": 400
+        },
+        {
+            "name": "Castoro-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

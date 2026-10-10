@@ -1,0 +1,18 @@
+{
+    "id": "shojumaru",
+    "title": "Shojumaru",
+    "family": "Shojumaru",
+    "category": "display",
+    "source": "google",
+    "language": "en",
+    "path": "google/shojumaru",
+    "files": [
+        {
+            "name": "Shojumaru-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

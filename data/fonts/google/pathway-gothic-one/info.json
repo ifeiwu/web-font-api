@@ -1,0 +1,18 @@
+{
+    "id": "pathway-gothic-one",
+    "title": "Pathway Gothic One",
+    "family": "Pathway Gothic One",
+    "category": "sans-serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/pathway-gothic-one",
+    "files": [
+        {
+            "name": "PathwayGothicOne-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

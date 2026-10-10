@@ -1,0 +1,18 @@
+{
+    "id": "numans",
+    "title": "Numans",
+    "family": "Numans",
+    "category": "sans-serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/numans",
+    "files": [
+        {
+            "name": "Numans-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

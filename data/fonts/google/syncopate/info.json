@@ -1,0 +1,25 @@
+{
+    "id": "syncopate",
+    "title": "Syncopate",
+    "family": "Syncopate",
+    "category": "sans-serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/syncopate",
+    "files": [
+        {
+            "name": "Syncopate-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "Syncopate-Bold",
+            "ext": "ttf",
+            "subfamily": "Bold",
+            "style": "normal",
+            "weight": 700
+        }
+    ]
+}

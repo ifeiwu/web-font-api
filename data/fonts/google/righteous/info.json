@@ -1,0 +1,18 @@
+{
+    "id": "righteous",
+    "title": "Righteous",
+    "family": "Righteous",
+    "category": "display",
+    "source": "google",
+    "language": "en",
+    "path": "google/righteous",
+    "files": [
+        {
+            "name": "Righteous-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

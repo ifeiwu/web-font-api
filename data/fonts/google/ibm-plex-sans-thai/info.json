@@ -1,0 +1,60 @@
+{
+    "id": "ibm-plex-sans-thai",
+    "title": "IBM Plex Sans Thai",
+    "family": "IBM Plex Sans Thai",
+    "category": "sans-serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/ibm-plex-sans-thai",
+    "files": [
+        {
+            "name": "IBMPlexSansThai-Thin",
+            "ext": "ttf",
+            "subfamily": "Thin",
+            "style": "normal",
+            "weight": 100
+        },
+        {
+            "name": "IBMPlexSansThai-ExtraLight",
+            "ext": "ttf",
+            "subfamily": "ExtraLight",
+            "style": "normal",
+            "weight": 200
+        },
+        {
+            "name": "IBMPlexSansThai-Light",
+            "ext": "ttf",
+            "subfamily": "Light",
+            "style": "normal",
+            "weight": 300
+        },
+        {
+            "name": "IBMPlexSansThai-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "IBMPlexSansThai-Medium",
+            "ext": "ttf",
+            "subfamily": "Medium",
+            "style": "normal",
+            "weight": 500
+        },
+        {
+            "name": "IBMPlexSansThai-SemiBold",
+            "ext": "ttf",
+            "subfamily": "SemiBold",
+            "style": "normal",
+            "weight": 600
+        },
+        {
+            "name": "IBMPlexSansThai-Bold",
+            "ext": "ttf",
+            "subfamily": "Bold",
+            "style": "normal",
+            "weight": 700
+        }
+    ]
+}

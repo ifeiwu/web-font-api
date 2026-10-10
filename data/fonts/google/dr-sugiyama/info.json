@@ -1,0 +1,18 @@
+{
+    "id": "dr-sugiyama",
+    "title": "Dr Sugiyama",
+    "family": "Dr Sugiyama",
+    "category": "handwriting",
+    "source": "google",
+    "language": "en",
+    "path": "google/dr-sugiyama",
+    "files": [
+        {
+            "name": "DrSugiyama-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

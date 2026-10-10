@@ -1,0 +1,18 @@
+{
+    "id": "wellfleet",
+    "title": "Wellfleet",
+    "family": "Wellfleet",
+    "category": "serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/wellfleet",
+    "files": [
+        {
+            "name": "Wellfleet-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

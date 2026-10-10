@@ -1,0 +1,32 @@
+{
+    "id": "gudea",
+    "title": "Gudea",
+    "family": "Gudea",
+    "category": "sans-serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/gudea",
+    "files": [
+        {
+            "name": "Gudea-Italic",
+            "ext": "ttf",
+            "subfamily": "Italic",
+            "style": "italic",
+            "weight": 400
+        },
+        {
+            "name": "Gudea-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "Gudea-Bold",
+            "ext": "ttf",
+            "subfamily": "Bold",
+            "style": "normal",
+            "weight": 700
+        }
+    ]
+}

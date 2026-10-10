@@ -1,0 +1,18 @@
+{
+    "id": "julius-sans-one",
+    "title": "Julius Sans One",
+    "family": "Julius Sans One",
+    "category": "sans-serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/julius-sans-one",
+    "files": [
+        {
+            "name": "JuliusSansOne-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

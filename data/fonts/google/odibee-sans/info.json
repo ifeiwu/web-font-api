@@ -1,0 +1,18 @@
+{
+    "id": "odibee-sans",
+    "title": "Odibee Sans",
+    "family": "Odibee Sans",
+    "category": "display",
+    "source": "google",
+    "language": "en",
+    "path": "google/odibee-sans",
+    "files": [
+        {
+            "name": "OdibeeSans-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

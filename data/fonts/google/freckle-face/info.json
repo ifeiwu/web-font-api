@@ -1,0 +1,18 @@
+{
+    "id": "freckle-face",
+    "title": "Freckle Face",
+    "family": "Freckle Face",
+    "category": "display",
+    "source": "google",
+    "language": "en",
+    "path": "google/freckle-face",
+    "files": [
+        {
+            "name": "FreckleFace-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": "ranga",
+    "title": "Ranga",
+    "family": "Ranga",
+    "category": "display",
+    "source": "google",
+    "language": "en",
+    "path": "google/ranga",
+    "files": [
+        {
+            "name": "Ranga-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "Ranga-Bold",
+            "ext": "ttf",
+            "subfamily": "Bold",
+            "style": "normal",
+            "weight": 700
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "id": "irish-grover",
+    "title": "Irish Grover",
+    "family": "Irish Grover",
+    "category": "display",
+    "source": "google",
+    "language": "en",
+    "path": "google/irish-grover",
+    "files": [
+        {
+            "name": "IrishGrover-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

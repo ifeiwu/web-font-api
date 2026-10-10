@@ -1,0 +1,18 @@
+{
+    "id": "scope-one",
+    "title": "Scope One",
+    "family": "Scope One",
+    "category": "serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/scope-one",
+    "files": [
+        {
+            "name": "ScopeOne-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

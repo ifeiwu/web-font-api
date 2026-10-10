@@ -1,0 +1,18 @@
+{
+    "id": "asar",
+    "title": "Asar",
+    "family": "Asar",
+    "category": "serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/asar",
+    "files": [
+        {
+            "name": "Asar-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

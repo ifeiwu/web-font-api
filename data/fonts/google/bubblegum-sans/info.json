@@ -1,0 +1,18 @@
+{
+    "id": "bubblegum-sans",
+    "title": "Bubblegum Sans",
+    "family": "Bubblegum Sans",
+    "category": "display",
+    "source": "google",
+    "language": "en",
+    "path": "google/bubblegum-sans",
+    "files": [
+        {
+            "name": "BubblegumSans-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

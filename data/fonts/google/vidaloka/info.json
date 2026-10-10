@@ -1,0 +1,18 @@
+{
+    "id": "vidaloka",
+    "title": "Vidaloka",
+    "family": "Vidaloka",
+    "category": "serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/vidaloka",
+    "files": [
+        {
+            "name": "Vidaloka-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

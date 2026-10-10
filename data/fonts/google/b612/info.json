@@ -1,0 +1,39 @@
+{
+    "id": "b612",
+    "title": "B612",
+    "family": "B612",
+    "category": "sans-serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/b612",
+    "files": [
+        {
+            "name": "B612-Italic",
+            "ext": "ttf",
+            "subfamily": "Italic",
+            "style": "italic",
+            "weight": 400
+        },
+        {
+            "name": "B612-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "B612-Bold",
+            "ext": "ttf",
+            "subfamily": "Bold",
+            "style": "normal",
+            "weight": 700
+        },
+        {
+            "name": "B612-BoldItalic",
+            "ext": "ttf",
+            "subfamily": "BoldItalic",
+            "style": "italic",
+            "weight": 700
+        }
+    ]
+}

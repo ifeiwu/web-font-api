@@ -1,0 +1,18 @@
+{
+    "id": "mr-dafoe",
+    "title": "Mr Dafoe",
+    "family": "Mr Dafoe",
+    "category": "handwriting",
+    "source": "google",
+    "language": "en",
+    "path": "google/mr-dafoe",
+    "files": [
+        {
+            "name": "MrDafoe-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "id": "nova-slim",
+    "title": "Nova Slim",
+    "family": "Nova Slim",
+    "category": "display",
+    "source": "google",
+    "language": "en",
+    "path": "google/nova-slim",
+    "files": [
+        {
+            "name": "NovaSlim-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

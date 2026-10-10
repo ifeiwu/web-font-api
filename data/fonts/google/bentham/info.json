@@ -1,0 +1,18 @@
+{
+    "id": "bentham",
+    "title": "Bentham",
+    "family": "Bentham",
+    "category": "serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/bentham",
+    "files": [
+        {
+            "name": "Bentham-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

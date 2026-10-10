@@ -1,0 +1,32 @@
+{
+    "id": "gupter",
+    "title": "Gupter",
+    "family": "Gupter",
+    "category": "serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/gupter",
+    "files": [
+        {
+            "name": "Gupter-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "Gupter-Medium",
+            "ext": "ttf",
+            "subfamily": "Medium",
+            "style": "normal",
+            "weight": 500
+        },
+        {
+            "name": "Gupter-Bold",
+            "ext": "ttf",
+            "subfamily": "Bold",
+            "style": "normal",
+            "weight": 700
+        }
+    ]
+}

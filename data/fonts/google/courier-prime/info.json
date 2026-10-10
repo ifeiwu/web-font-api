@@ -1,0 +1,39 @@
+{
+    "id": "courier-prime",
+    "title": "Courier Prime",
+    "family": "Courier Prime",
+    "category": "monospace",
+    "source": "google",
+    "language": "en",
+    "path": "google/courier-prime",
+    "files": [
+        {
+            "name": "CourierPrime-Italic",
+            "ext": "ttf",
+            "subfamily": "Italic",
+            "style": "italic",
+            "weight": 400
+        },
+        {
+            "name": "CourierPrime-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "CourierPrime-Bold",
+            "ext": "ttf",
+            "subfamily": "Bold",
+            "style": "normal",
+            "weight": 700
+        },
+        {
+            "name": "CourierPrime-BoldItalic",
+            "ext": "ttf",
+            "subfamily": "BoldItalic",
+            "style": "italic",
+            "weight": 700
+        }
+    ]
+}

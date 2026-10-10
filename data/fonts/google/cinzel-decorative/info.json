@@ -1,0 +1,32 @@
+{
+    "id": "cinzel-decorative",
+    "title": "Cinzel Decorative",
+    "family": "Cinzel Decorative",
+    "category": "display",
+    "source": "google",
+    "language": "en",
+    "path": "google/cinzel-decorative",
+    "files": [
+        {
+            "name": "CinzelDecorative-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "CinzelDecorative-Bold",
+            "ext": "ttf",
+            "subfamily": "Bold",
+            "style": "normal",
+            "weight": 700
+        },
+        {
+            "name": "CinzelDecorative-Black",
+            "ext": "ttf",
+            "subfamily": "Black",
+            "style": "normal",
+            "weight": 900
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "id": "audiowide",
+    "title": "Audiowide",
+    "family": "Audiowide",
+    "category": "display",
+    "source": "google",
+    "language": "en",
+    "path": "google/audiowide",
+    "files": [
+        {
+            "name": "Audiowide-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "id": "lustria",
+    "title": "Lustria",
+    "family": "Lustria",
+    "category": "serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/lustria",
+    "files": [
+        {
+            "name": "Lustria-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

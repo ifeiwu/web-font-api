@@ -1,0 +1,46 @@
+{
+    "id": "abhaya-libre",
+    "title": "Abhaya Libre",
+    "family": "Abhaya Libre",
+    "category": "serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/abhaya-libre",
+    "files": [
+        {
+            "name": "AbhayaLibre-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "AbhayaLibre-Medium",
+            "ext": "ttf",
+            "subfamily": "Medium",
+            "style": "normal",
+            "weight": 500
+        },
+        {
+            "name": "AbhayaLibre-SemiBold",
+            "ext": "ttf",
+            "subfamily": "SemiBold",
+            "style": "normal",
+            "weight": 600
+        },
+        {
+            "name": "AbhayaLibre-Bold",
+            "ext": "ttf",
+            "subfamily": "Bold",
+            "style": "normal",
+            "weight": 700
+        },
+        {
+            "name": "AbhayaLibre-ExtraBold",
+            "ext": "ttf",
+            "subfamily": "ExtraBold",
+            "style": "normal",
+            "weight": 800
+        }
+    ]
+}

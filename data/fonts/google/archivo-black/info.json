@@ -1,0 +1,18 @@
+{
+    "id": "archivo-black",
+    "title": "Archivo Black",
+    "family": "Archivo Black",
+    "category": "sans-serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/archivo-black",
+    "files": [
+        {
+            "name": "ArchivoBlack-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

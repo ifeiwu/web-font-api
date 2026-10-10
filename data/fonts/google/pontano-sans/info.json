@@ -1,0 +1,46 @@
+{
+    "id": "pontano-sans",
+    "title": "Pontano Sans",
+    "family": "Pontano Sans",
+    "category": "sans-serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/pontano-sans",
+    "files": [
+        {
+            "name": "PontanoSans-Light",
+            "ext": "ttf",
+            "subfamily": "Light",
+            "style": "normal",
+            "weight": 300
+        },
+        {
+            "name": "PontanoSans-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "PontanoSans-Medium",
+            "ext": "ttf",
+            "subfamily": "Medium",
+            "style": "normal",
+            "weight": 500
+        },
+        {
+            "name": "PontanoSans-SemiBold",
+            "ext": "ttf",
+            "subfamily": "SemiBold",
+            "style": "normal",
+            "weight": 600
+        },
+        {
+            "name": "PontanoSans-Bold",
+            "ext": "ttf",
+            "subfamily": "Bold",
+            "style": "normal",
+            "weight": 700
+        }
+    ]
+}

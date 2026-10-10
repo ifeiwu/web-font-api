@@ -1,0 +1,25 @@
+{
+    "id": "tiro-gurmukhi",
+    "title": "Tiro Gurmukhi",
+    "family": "Tiro Gurmukhi",
+    "category": "serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/tiro-gurmukhi",
+    "files": [
+        {
+            "name": "TiroGurmukhi-Italic",
+            "ext": "ttf",
+            "subfamily": "Italic",
+            "style": "italic",
+            "weight": 400
+        },
+        {
+            "name": "TiroGurmukhi-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

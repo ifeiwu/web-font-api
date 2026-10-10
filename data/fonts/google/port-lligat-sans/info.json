@@ -1,0 +1,18 @@
+{
+    "id": "port-lligat-sans",
+    "title": "Port Lligat Sans",
+    "family": "Port Lligat Sans",
+    "category": "sans-serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/port-lligat-sans",
+    "files": [
+        {
+            "name": "PortLligatSans-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

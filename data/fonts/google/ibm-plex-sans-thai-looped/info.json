@@ -1,0 +1,60 @@
+{
+    "id": "ibm-plex-sans-thai-looped",
+    "title": "IBM Plex Sans Thai Looped",
+    "family": "IBM Plex Sans Thai Looped",
+    "category": "sans-serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/ibm-plex-sans-thai-looped",
+    "files": [
+        {
+            "name": "IBMPlexSansThaiLooped-Thin",
+            "ext": "ttf",
+            "subfamily": "Thin",
+            "style": "normal",
+            "weight": 100
+        },
+        {
+            "name": "IBMPlexSansThaiLooped-ExtraLight",
+            "ext": "ttf",
+            "subfamily": "ExtraLight",
+            "style": "normal",
+            "weight": 200
+        },
+        {
+            "name": "IBMPlexSansThaiLooped-Light",
+            "ext": "ttf",
+            "subfamily": "Light",
+            "style": "normal",
+            "weight": 300
+        },
+        {
+            "name": "IBMPlexSansThaiLooped-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "IBMPlexSansThaiLooped-Medium",
+            "ext": "ttf",
+            "subfamily": "Medium",
+            "style": "normal",
+            "weight": 500
+        },
+        {
+            "name": "IBMPlexSansThaiLooped-SemiBold",
+            "ext": "ttf",
+            "subfamily": "SemiBold",
+            "style": "normal",
+            "weight": 600
+        },
+        {
+            "name": "IBMPlexSansThaiLooped-Bold",
+            "ext": "ttf",
+            "subfamily": "Bold",
+            "style": "normal",
+            "weight": 700
+        }
+    ]
+}

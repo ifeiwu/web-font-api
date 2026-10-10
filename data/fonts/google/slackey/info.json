@@ -1,0 +1,18 @@
+{
+    "id": "slackey",
+    "title": "Slackey",
+    "family": "Slackey",
+    "category": "display",
+    "source": "google",
+    "language": "en",
+    "path": "google/slackey",
+    "files": [
+        {
+            "name": "Slackey-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

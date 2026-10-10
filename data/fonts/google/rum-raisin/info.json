@@ -1,0 +1,18 @@
+{
+    "id": "rum-raisin",
+    "title": "Rum Raisin",
+    "family": "Rum Raisin",
+    "category": "sans-serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/rum-raisin",
+    "files": [
+        {
+            "name": "RumRaisin-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

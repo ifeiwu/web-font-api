@@ -1,0 +1,25 @@
+{
+    "id": "zen-loop",
+    "title": "Zen Loop",
+    "family": "Zen Loop",
+    "category": "display",
+    "source": "google",
+    "language": "en",
+    "path": "google/zen-loop",
+    "files": [
+        {
+            "name": "ZenLoop-Italic",
+            "ext": "ttf",
+            "subfamily": "Italic",
+            "style": "italic",
+            "weight": 400
+        },
+        {
+            "name": "ZenLoop-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

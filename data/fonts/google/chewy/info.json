@@ -1,0 +1,18 @@
+{
+    "id": "chewy",
+    "title": "Chewy",
+    "family": "Chewy",
+    "category": "display",
+    "source": "google",
+    "language": "en",
+    "path": "google/chewy",
+    "files": [
+        {
+            "name": "Chewy-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

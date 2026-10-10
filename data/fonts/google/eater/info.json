@@ -1,0 +1,18 @@
+{
+    "id": "eater",
+    "title": "Eater",
+    "family": "Eater",
+    "category": "display",
+    "source": "google",
+    "language": "en",
+    "path": "google/eater",
+    "files": [
+        {
+            "name": "Eater-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

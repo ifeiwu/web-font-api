@@ -1,0 +1,18 @@
+{
+    "id": "cagliostro",
+    "title": "Cagliostro",
+    "family": "Cagliostro",
+    "category": "sans-serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/cagliostro",
+    "files": [
+        {
+            "name": "Cagliostro-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

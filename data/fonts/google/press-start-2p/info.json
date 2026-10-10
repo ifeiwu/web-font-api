@@ -1,0 +1,18 @@
+{
+    "id": "press-start-2p",
+    "title": "Press Start 2P",
+    "family": "Press Start 2P",
+    "category": "display",
+    "source": "google",
+    "language": "en",
+    "path": "google/press-start-2p",
+    "files": [
+        {
+            "name": "PressStart2P-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "id": "cookie",
+    "title": "Cookie",
+    "family": "Cookie",
+    "category": "handwriting",
+    "source": "google",
+    "language": "en",
+    "path": "google/cookie",
+    "files": [
+        {
+            "name": "Cookie-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

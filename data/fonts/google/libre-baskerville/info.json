@@ -1,0 +1,32 @@
+{
+    "id": "libre-baskerville",
+    "title": "Libre Baskerville",
+    "family": "Libre Baskerville",
+    "category": "serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/libre-baskerville",
+    "files": [
+        {
+            "name": "LibreBaskerville-Italic",
+            "ext": "ttf",
+            "subfamily": "Italic",
+            "style": "italic",
+            "weight": 400
+        },
+        {
+            "name": "LibreBaskerville-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "LibreBaskerville-Bold",
+            "ext": "ttf",
+            "subfamily": "Bold",
+            "style": "normal",
+            "weight": 700
+        }
+    ]
+}

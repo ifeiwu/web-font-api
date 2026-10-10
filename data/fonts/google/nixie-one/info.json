@@ -1,0 +1,18 @@
+{
+    "id": "nixie-one",
+    "title": "Nixie One",
+    "family": "Nixie One",
+    "category": "display",
+    "source": "google",
+    "language": "en",
+    "path": "google/nixie-one",
+    "files": [
+        {
+            "name": "NixieOne-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

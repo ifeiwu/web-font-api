@@ -1,0 +1,39 @@
+{
+    "id": "volkhov",
+    "title": "Volkhov",
+    "family": "Volkhov",
+    "category": "serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/volkhov",
+    "files": [
+        {
+            "name": "Volkhov-Italic",
+            "ext": "ttf",
+            "subfamily": "Italic",
+            "style": "italic",
+            "weight": 400
+        },
+        {
+            "name": "Volkhov-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "Volkhov-Bold",
+            "ext": "ttf",
+            "subfamily": "Bold",
+            "style": "normal",
+            "weight": 700
+        },
+        {
+            "name": "Volkhov-BoldItalic",
+            "ext": "ttf",
+            "subfamily": "BoldItalic",
+            "style": "italic",
+            "weight": 700
+        }
+    ]
+}

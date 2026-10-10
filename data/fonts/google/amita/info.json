@@ -1,0 +1,25 @@
+{
+    "id": "amita",
+    "title": "Amita",
+    "family": "Amita",
+    "category": "handwriting",
+    "source": "google",
+    "language": "en",
+    "path": "google/amita",
+    "files": [
+        {
+            "name": "Amita-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "Amita-Bold",
+            "ext": "ttf",
+            "subfamily": "Bold",
+            "style": "normal",
+            "weight": 700
+        }
+    ]
+}

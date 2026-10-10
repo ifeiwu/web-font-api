@@ -1,0 +1,32 @@
+{
+    "id": "tienne",
+    "title": "Tienne",
+    "family": "Tienne",
+    "category": "serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/tienne",
+    "files": [
+        {
+            "name": "Tienne-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "Tienne-Bold",
+            "ext": "ttf",
+            "subfamily": "Bold",
+            "style": "normal",
+            "weight": 700
+        },
+        {
+            "name": "Tienne-Black",
+            "ext": "ttf",
+            "subfamily": "Black",
+            "style": "normal",
+            "weight": 900
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": "ropa-sans",
+    "title": "Ropa Sans",
+    "family": "Ropa Sans",
+    "category": "sans-serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/ropa-sans",
+    "files": [
+        {
+            "name": "RopaSans-Italic",
+            "ext": "ttf",
+            "subfamily": "Italic",
+            "style": "italic",
+            "weight": 400
+        },
+        {
+            "name": "RopaSans-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

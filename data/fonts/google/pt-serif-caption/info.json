@@ -1,0 +1,25 @@
+{
+    "id": "pt-serif-caption",
+    "title": "PT Serif Caption",
+    "family": "PT Serif Caption",
+    "category": "serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/pt-serif-caption",
+    "files": [
+        {
+            "name": "PTSerifCaption-Italic",
+            "ext": "ttf",
+            "subfamily": "Italic",
+            "style": "italic",
+            "weight": 400
+        },
+        {
+            "name": "PTSerifCaption-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

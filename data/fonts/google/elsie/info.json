@@ -1,0 +1,25 @@
+{
+    "id": "elsie",
+    "title": "Elsie",
+    "family": "Elsie",
+    "category": "display",
+    "source": "google",
+    "language": "en",
+    "path": "google/elsie",
+    "files": [
+        {
+            "name": "Elsie-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "Elsie-Black",
+            "ext": "ttf",
+            "subfamily": "Black",
+            "style": "normal",
+            "weight": 900
+        }
+    ]
+}

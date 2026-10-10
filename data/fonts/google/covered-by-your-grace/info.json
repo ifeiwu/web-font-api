@@ -1,0 +1,18 @@
+{
+    "id": "covered-by-your-grace",
+    "title": "Covered By Your Grace",
+    "family": "Covered By Your Grace",
+    "category": "handwriting",
+    "source": "google",
+    "language": "en",
+    "path": "google/covered-by-your-grace",
+    "files": [
+        {
+            "name": "CoveredByYourGrace-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

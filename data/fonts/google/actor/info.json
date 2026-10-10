@@ -1,0 +1,18 @@
+{
+    "id": "actor",
+    "title": "Actor",
+    "family": "Actor",
+    "category": "sans-serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/actor",
+    "files": [
+        {
+            "name": "Actor-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

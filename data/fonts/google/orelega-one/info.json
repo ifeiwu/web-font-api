@@ -1,0 +1,18 @@
+{
+    "id": "orelega-one",
+    "title": "Orelega One",
+    "family": "Orelega One",
+    "category": "display",
+    "source": "google",
+    "language": "en",
+    "path": "google/orelega-one",
+    "files": [
+        {
+            "name": "OrelegaOne-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

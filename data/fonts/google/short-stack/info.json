@@ -1,0 +1,18 @@
+{
+    "id": "short-stack",
+    "title": "Short Stack",
+    "family": "Short Stack",
+    "category": "handwriting",
+    "source": "google",
+    "language": "en",
+    "path": "google/short-stack",
+    "files": [
+        {
+            "name": "ShortStack-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

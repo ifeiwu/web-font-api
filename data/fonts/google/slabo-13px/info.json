@@ -1,0 +1,18 @@
+{
+    "id": "slabo-13px",
+    "title": "Slabo 13px",
+    "family": "Slabo 13px",
+    "category": "serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/slabo-13px",
+    "files": [
+        {
+            "name": "Slabo13px-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

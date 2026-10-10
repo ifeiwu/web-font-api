@@ -1,0 +1,18 @@
+{
+    "id": "ranchers",
+    "title": "Ranchers",
+    "family": "Ranchers",
+    "category": "display",
+    "source": "google",
+    "language": "en",
+    "path": "google/ranchers",
+    "files": [
+        {
+            "name": "Ranchers-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

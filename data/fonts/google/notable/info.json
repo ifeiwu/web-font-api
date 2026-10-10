@@ -1,0 +1,18 @@
+{
+    "id": "notable",
+    "title": "Notable",
+    "family": "Notable",
+    "category": "sans-serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/notable",
+    "files": [
+        {
+            "name": "Notable-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "id": "supermercado-one",
+    "title": "Supermercado One",
+    "family": "Supermercado One",
+    "category": "display",
+    "source": "google",
+    "language": "en",
+    "path": "google/supermercado-one",
+    "files": [
+        {
+            "name": "SupermercadoOne-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

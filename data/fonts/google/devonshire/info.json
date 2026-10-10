@@ -1,0 +1,18 @@
+{
+    "id": "devonshire",
+    "title": "Devonshire",
+    "family": "Devonshire",
+    "category": "handwriting",
+    "source": "google",
+    "language": "en",
+    "path": "google/devonshire",
+    "files": [
+        {
+            "name": "Devonshire-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

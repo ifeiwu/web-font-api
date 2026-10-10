@@ -1,0 +1,25 @@
+{
+    "id": "magra",
+    "title": "Magra",
+    "family": "Magra",
+    "category": "sans-serif",
+    "source": "google",
+    "language": "en",
+    "path": "google/magra",
+    "files": [
+        {
+            "name": "Magra-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "Magra-Bold",
+            "ext": "ttf",
+            "subfamily": "Bold",
+            "style": "normal",
+            "weight": 600
+        }
+    ]
+}
