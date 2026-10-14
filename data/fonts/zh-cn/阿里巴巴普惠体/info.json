@@ -1,0 +1,74 @@
+{
+    "id": "alibabapuhui",
+    "title": "阿里巴巴普惠体",
+    "family": "AlibabaPuHui",
+    "category": "",
+    "source": "",
+    "language": "zh-cn",
+    "path": "zh-cn/阿里巴巴普惠体",
+    "files": [
+        {
+            "name": "AlibabaPuHui-Thin",
+            "ext": "ttf",
+            "subfamily": "Thin",
+            "style": "normal",
+            "weight": 250
+        },
+        {
+            "name": "AlibabaPuHui-Light",
+            "ext": "ttf",
+            "subfamily": "Light",
+            "style": "normal",
+            "weight": 300
+        },
+        {
+            "name": "AlibabaPuHui-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "AlibabaPuHui-Medium",
+            "ext": "ttf",
+            "subfamily": "Medium",
+            "style": "normal",
+            "weight": 500
+        },
+        {
+            "name": "AlibabaPuHui-SemiBold",
+            "ext": "ttf",
+            "subfamily": "SemiBold",
+            "style": "normal",
+            "weight": 600
+        },
+        {
+            "name": "AlibabaPuHui-Bold",
+            "ext": "ttf",
+            "subfamily": "Bold",
+            "style": "normal",
+            "weight": 700
+        },
+        {
+            "name": "AlibabaPuHui-ExtraBold",
+            "ext": "ttf",
+            "subfamily": "ExtraBold",
+            "style": "normal",
+            "weight": 800
+        },
+        {
+            "name": "AlibabaPuHui-Heavy",
+            "ext": "ttf",
+            "subfamily": "Heavy",
+            "style": "normal",
+            "weight": 900
+        },
+        {
+            "name": "AlibabaPuHui-Black",
+            "ext": "ttf",
+            "subfamily": "Black",
+            "style": "normal",
+            "weight": 1000
+        }
+    ]
+}

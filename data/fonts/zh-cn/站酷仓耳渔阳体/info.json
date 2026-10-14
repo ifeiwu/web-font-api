@@ -1,0 +1,46 @@
+{
+    "id": "tsangeryuyang",
+    "title": "站酷仓耳渔阳体",
+    "family": "TsangerYuYang",
+    "category": "",
+    "source": "",
+    "language": "zh-cn",
+    "path": "zh-cn/站酷仓耳渔阳体",
+    "files": [
+        {
+            "name": "TsangerYuYang-Bold",
+            "ext": "ttf",
+            "subfamily": "Bold",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "TsangerYuYang-Light",
+            "ext": "ttf",
+            "subfamily": "Light",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "TsangerYuYang-Medium",
+            "ext": "ttf",
+            "subfamily": "Medium",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "TsangerYuYang-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "TsangerYuYang-SemiBold",
+            "ext": "ttf",
+            "subfamily": "SemiBold",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

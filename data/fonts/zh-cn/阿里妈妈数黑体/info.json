@@ -1,0 +1,18 @@
+{
+    "id": "alimamashuhei",
+    "title": "阿里妈妈数黑体",
+    "family": "AlimamaShuhei",
+    "category": "",
+    "source": "",
+    "language": "zh-cn",
+    "path": "zh-cn/阿里妈妈数黑体",
+    "files": [
+        {
+            "name": "AlimamaShuhei",
+            "ext": "otf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 700
+        }
+    ]
+}

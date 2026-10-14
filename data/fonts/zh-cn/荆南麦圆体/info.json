@@ -1,0 +1,18 @@
+{
+    "id": "kingnammaiyuan",
+    "title": "荆南麦圆体",
+    "family": "KingnamMaiyuan",
+    "category": "",
+    "source": "",
+    "language": "zh-cn",
+    "path": "zh-cn/荆南麦圆体",
+    "files": [
+        {
+            "name": "荆南麦圆体",
+            "ext": "otf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

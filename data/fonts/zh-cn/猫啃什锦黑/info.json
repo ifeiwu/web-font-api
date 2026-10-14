@@ -1,0 +1,18 @@
+{
+    "id": "maokenassortedsans",
+    "title": "猫啃什锦黑",
+    "family": "MaokenAssortedSans",
+    "category": "",
+    "source": "",
+    "language": "zh-cn",
+    "path": "zh-cn/猫啃什锦黑",
+    "files": [
+        {
+            "name": "MaokenAssortedSans",
+            "ext": "otf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 500
+        }
+    ]
+}

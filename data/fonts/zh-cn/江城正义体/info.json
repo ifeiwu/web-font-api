@@ -1,0 +1,46 @@
+{
+    "id": "jiangchengzhengyi",
+    "title": "江城正义体",
+    "family": "JiangChengZhengYi",
+    "category": "",
+    "source": "",
+    "language": "zh-cn",
+    "path": "zh-cn/江城正义体",
+    "files": [
+        {
+            "name": "JiangChengZhengYi-ExtraLight",
+            "ext": "ttf",
+            "subfamily": "ExtraLight",
+            "style": "normal",
+            "weight": 200
+        },
+        {
+            "name": "JiangChengZhengYi-Light",
+            "ext": "ttf",
+            "subfamily": "Light",
+            "style": "normal",
+            "weight": 300
+        },
+        {
+            "name": "JiangChengZhengYi-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "JiangChengZhengYi-Medium",
+            "ext": "ttf",
+            "subfamily": "Medium",
+            "style": "normal",
+            "weight": 500
+        },
+        {
+            "name": "JiangChengZhengYi-SemiBold",
+            "ext": "ttf",
+            "subfamily": "SemiBold",
+            "style": "normal",
+            "weight": 600
+        }
+    ]
+}

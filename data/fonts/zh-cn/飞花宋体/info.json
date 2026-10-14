@@ -1,0 +1,18 @@
+{
+    "id": "flyflowersong",
+    "title": "飞花宋体",
+    "family": "FlyFlowerSong",
+    "category": "",
+    "source": "",
+    "language": "zh-cn",
+    "path": "zh-cn/飞花宋体",
+    "files": [
+        {
+            "name": "FlyFlowerSong",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

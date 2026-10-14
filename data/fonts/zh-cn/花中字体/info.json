@@ -1,0 +1,18 @@
+{
+    "id": "hanazome",
+    "title": "花中字体",
+    "family": "Hanazome",
+    "category": "",
+    "source": "",
+    "language": "zh-cn",
+    "path": "zh-cn/花中字体",
+    "files": [
+        {
+            "name": "Hanazome",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "id": "ktxprounded",
+    "title": "极影毁片圆",
+    "family": "KTXPRounded",
+    "category": "",
+    "source": "",
+    "language": "zh-cn",
+    "path": "zh-cn/极影毁片圆",
+    "files": [
+        {
+            "name": "KTXPRounded-Medium",
+            "ext": "ttf",
+            "subfamily": "Medium",
+            "style": "normal",
+            "weight": 500
+        }
+    ]
+}

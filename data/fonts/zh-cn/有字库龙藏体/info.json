@@ -1,0 +1,18 @@
+{
+    "id": "longcang",
+    "title": "有字库龙藏体",
+    "family": "LongCang",
+    "category": "",
+    "source": "",
+    "language": "zh-cn",
+    "path": "zh-cn/有字库龙藏体",
+    "files": [
+        {
+            "name": "LongCang-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

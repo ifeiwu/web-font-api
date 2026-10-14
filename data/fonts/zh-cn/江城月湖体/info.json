@@ -1,0 +1,32 @@
+{
+    "id": "jiangchengyuehu",
+    "title": "江城月湖体",
+    "family": "JiangChengYueHu",
+    "category": "",
+    "source": "",
+    "language": "zh-cn",
+    "path": "zh-cn/江城月湖体",
+    "files": [
+        {
+            "name": "JiangChengYueHu-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "JiangChengYueHu-Medium",
+            "ext": "ttf",
+            "subfamily": "Medium",
+            "style": "normal",
+            "weight": 500
+        },
+        {
+            "name": "JiangChengYueHu-SemiBold",
+            "ext": "ttf",
+            "subfamily": "SemiBold",
+            "style": "normal",
+            "weight": 600
+        }
+    ]
+}

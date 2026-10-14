@@ -1,0 +1,18 @@
+{
+    "id": "zcoolqingkehuangyou",
+    "title": "站酷庆科黄油体",
+    "family": "ZCOOLQingKeHuangYou",
+    "category": "",
+    "source": "",
+    "language": "zh-cn",
+    "path": "zh-cn/站酷庆科黄油体",
+    "files": [
+        {
+            "name": "ZCOOLQingKeHuangYou-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

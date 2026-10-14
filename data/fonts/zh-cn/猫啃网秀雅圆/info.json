@@ -1,0 +1,18 @@
+{
+    "id": "maokenwangxiuyayuan",
+    "title": "猫啃网秀雅圆",
+    "family": "MaoKenWangXiuYaYuan",
+    "category": "",
+    "source": "",
+    "language": "zh-cn",
+    "path": "zh-cn/猫啃网秀雅圆",
+    "files": [
+        {
+            "name": "MaoKenWangXiuYaYuan",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "id": "jiangchengzhiyin",
+    "title": "江城知音体",
+    "family": "JiangChengZhiYin",
+    "category": "",
+    "source": "",
+    "language": "zh-cn",
+    "path": "zh-cn/江城知音体",
+    "files": [
+        {
+            "name": "JiangChengZhiYin-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "JiangChengZhiYin-Medium",
+            "ext": "ttf",
+            "subfamily": "Medium",
+            "style": "normal",
+            "weight": 500
+        },
+        {
+            "name": "JiangChengZhiYin-SemiBold",
+            "ext": "ttf",
+            "subfamily": "SemiBold",
+            "style": "normal",
+            "weight": 600
+        }
+    ]
+}

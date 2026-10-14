@@ -1,0 +1,18 @@
+{
+    "id": "zcoolxiaowei",
+    "title": "站酷小薇体",
+    "family": "ZCOOLXiaoWei",
+    "category": "",
+    "source": "",
+    "language": "zh-cn",
+    "path": "zh-cn/站酷小薇体",
+    "files": [
+        {
+            "name": "ZCOOLXiaoWei-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

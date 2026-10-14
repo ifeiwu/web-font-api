@@ -1,0 +1,18 @@
+{
+    "id": "maokentan",
+    "title": "猫啃网糖圆体",
+    "family": "MaoKenTan",
+    "category": "",
+    "source": "",
+    "language": "zh-cn",
+    "path": "zh-cn/猫啃网糖圆体",
+    "files": [
+        {
+            "name": "MaoKenTan",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "id": "harmonyossanssc",
+    "title": "鸿蒙OS",
+    "family": "HarmonyOSSansSC",
+    "category": "",
+    "source": "",
+    "language": "zh-cn",
+    "path": "zh-cn/鸿蒙OS",
+    "files": [
+        {
+            "name": "HarmonyOS_Sans_SC_Thin",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 250
+        },
+        {
+            "name": "HarmonyOS_Sans_SC_Light",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 300
+        },
+        {
+            "name": "HarmonyOS_Sans_SC_Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "HarmonyOS_Sans_SC_Medium",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 500
+        },
+        {
+            "name": "HarmonyOS_Sans_SC_Bold",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 700
+        },
+        {
+            "name": "HarmonyOS_Sans_SC_Black",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 900
+        }
+    ]
+}

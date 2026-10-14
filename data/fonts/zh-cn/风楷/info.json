@@ -1,0 +1,32 @@
+{
+    "id": "fengkai",
+    "title": "风楷",
+    "family": "FengKai",
+    "category": "",
+    "source": "",
+    "language": "zh-cn",
+    "path": "zh-cn/风楷",
+    "files": [
+        {
+            "name": "Light",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 300
+        },
+        {
+            "name": "Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "Bold",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 700
+        }
+    ]
+}

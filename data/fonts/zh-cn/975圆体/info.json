@@ -1,0 +1,32 @@
+{
+    "id": "975marusc",
+    "title": "975圆体",
+    "family": "975MaruSC",
+    "category": "",
+    "source": "",
+    "language": "zh-cn",
+    "path": "zh-cn/975圆体",
+    "files": [
+        {
+            "name": "975MaruSC-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "975MaruSC-Medium",
+            "ext": "ttf",
+            "subfamily": "Medium",
+            "style": "normal",
+            "weight": 500
+        },
+        {
+            "name": "975MaruSC-Bold",
+            "ext": "ttf",
+            "subfamily": "Bold",
+            "style": "normal",
+            "weight": 700
+        }
+    ]
+}

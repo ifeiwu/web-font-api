@@ -1,0 +1,18 @@
+{
+    "id": "hongleixingshu",
+    "title": "鸿雷行书简体",
+    "family": "HongleiXingshu",
+    "category": "",
+    "source": "",
+    "language": "zh-cn",
+    "path": "zh-cn/鸿雷行书简体",
+    "files": [
+        {
+            "name": "HongleiXingshu",
+            "ext": "otf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

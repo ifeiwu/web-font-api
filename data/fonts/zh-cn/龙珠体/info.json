@@ -1,0 +1,18 @@
+{
+    "id": "logosclongzhu",
+    "title": "龙珠体",
+    "family": "LogoSCLongZhu",
+    "category": "",
+    "source": "",
+    "language": "zh-cn",
+    "path": "zh-cn/龙珠体",
+    "files": [
+        {
+            "name": "LogoSCLongZhu-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}
