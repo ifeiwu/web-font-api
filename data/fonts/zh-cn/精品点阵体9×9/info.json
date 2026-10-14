@@ -1,0 +1,60 @@
+{
+    "id": "boutiquebitmap9x9",
+    "title": "精品点阵体9×9",
+    "family": "BoutiqueBitmap9x9",
+    "category": "",
+    "source": "",
+    "language": "zh-cn",
+    "path": "zh-cn/精品点阵体9×9",
+    "files": [
+        {
+            "name": "BoutiqueBitmap9x9_1.6",
+            "ext": "ttf",
+            "subfamily": "BoutiqueBitmap9x9_1.6",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "BoutiqueBitmap9x9_3D",
+            "ext": "ttf",
+            "subfamily": "BoutiqueBitmap9x9_3D",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "BoutiqueBitmap9x9_Blur",
+            "ext": "ttf",
+            "subfamily": "BoutiqueBitmap9x9_Blur",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "BoutiqueBitmap9x9_Circle_Dot",
+            "ext": "ttf",
+            "subfamily": "BoutiqueBitmap9x9_Circle_Dot",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "BoutiqueBitmap9x9_Gradient",
+            "ext": "ttf",
+            "subfamily": "BoutiqueBitmap9x9_Gradient",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "BoutiqueBitmap9x9_Square_Dot",
+            "ext": "ttf",
+            "subfamily": "BoutiqueBitmap9x9_Square_Dot",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "BoutiqueBitmap9x9_Bold_1.6",
+            "ext": "ttf",
+            "subfamily": "BoutiqueBitmap9x9_Bold_1.6",
+            "style": "normal",
+            "weight": 700
+        }
+    ]
+}

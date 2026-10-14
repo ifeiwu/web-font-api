@@ -1,0 +1,39 @@
+{
+    "id": "chilllongcangkaishu",
+    "title": "寒蝉龙藏楷书",
+    "family": "ChillLongCangKaiShu",
+    "category": "",
+    "source": "",
+    "language": "zh-cn",
+    "path": "zh-cn/寒蝉龙藏楷书",
+    "files": [
+        {
+            "name": "ChillLongCangKaiShu_Regular",
+            "ext": "otf",
+            "subfamily": "ChillLongCangKaiShu_Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "ChillLongCangKaiShu_Medium",
+            "ext": "otf",
+            "subfamily": "ChillLongCangKaiShu_Medium",
+            "style": "normal",
+            "weight": 500
+        },
+        {
+            "name": "ChillLongCangKaiShu_Bold",
+            "ext": "otf",
+            "subfamily": "ChillLongCangKaiShu_Bold",
+            "style": "normal",
+            "weight": 700
+        },
+        {
+            "name": "ChillLongCangKaiShu_ExtraBold",
+            "ext": "otf",
+            "subfamily": "ChillLongCangKaiShu_ExtraBold",
+            "style": "normal",
+            "weight": 800
+        }
+    ]
+}

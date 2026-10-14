@@ -1,0 +1,18 @@
+{
+    "id": "zhaohuatypewriter",
+    "title": "朝华打字机",
+    "family": "ZhaohuaTypeWriter",
+    "category": "",
+    "source": "",
+    "language": "zh-cn",
+    "path": "zh-cn/朝华打字机",
+    "files": [
+        {
+            "name": "ZhaohuaTypeWriter",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 300
+        }
+    ]
+}

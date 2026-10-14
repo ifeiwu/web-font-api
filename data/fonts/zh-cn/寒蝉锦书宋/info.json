@@ -1,0 +1,95 @@
+{
+    "id": "chilljinshusong",
+    "title": "寒蝉锦书宋",
+    "family": "ChillJinshuSong",
+    "category": "",
+    "source": "",
+    "language": "zh-cn",
+    "path": "zh-cn/寒蝉锦书宋",
+    "files": [
+        {
+            "name": "ChillJinshuSongLight",
+            "ext": "otf",
+            "subfamily": "ChillJinshuSongLight",
+            "style": "normal",
+            "weight": 300
+        },
+        {
+            "name": "ChillJinshuSong_CompactLight",
+            "ext": "otf",
+            "subfamily": "ChillJinshuSong_CompactLight",
+            "style": "normal",
+            "weight": 300
+        },
+        {
+            "name": "ChillJinshuSongRegular",
+            "ext": "otf",
+            "subfamily": "ChillJinshuSongRegular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "ChillJinshuSongTextRegular",
+            "ext": "otf",
+            "subfamily": "ChillJinshuSongTextRegular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "ChillJinshuSong_CompactRegular",
+            "ext": "otf",
+            "subfamily": "ChillJinshuSong_CompactRegular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "ChillJinshuSong_WideRegular",
+            "ext": "otf",
+            "subfamily": "ChillJinshuSong_WideRegular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "ChillJinshuSongMedium",
+            "ext": "otf",
+            "subfamily": "ChillJinshuSongMedium",
+            "style": "normal",
+            "weight": 500
+        },
+        {
+            "name": "ChillJinshuSongTextMedium",
+            "ext": "otf",
+            "subfamily": "ChillJinshuSongTextMedium",
+            "style": "normal",
+            "weight": 500
+        },
+        {
+            "name": "ChillJinshuSongBold",
+            "ext": "otf",
+            "subfamily": "ChillJinshuSongBold",
+            "style": "normal",
+            "weight": 700
+        },
+        {
+            "name": "ChillJinshuSong_CompactBold",
+            "ext": "otf",
+            "subfamily": "ChillJinshuSong_CompactBold",
+            "style": "normal",
+            "weight": 800
+        },
+        {
+            "name": "ChillJinshuSong_WideBold",
+            "ext": "otf",
+            "subfamily": "ChillJinshuSong_WideBold",
+            "style": "normal",
+            "weight": 800
+        },
+        {
+            "name": "ChillJinshuSongHeavy",
+            "ext": "otf",
+            "subfamily": "ChillJinshuSongHeavy",
+            "style": "normal",
+            "weight": 900
+        }
+    ]
+}

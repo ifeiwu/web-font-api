@@ -1,0 +1,18 @@
+{
+    "id": "hangeuljaemin4",
+    "title": "韩契在民体",
+    "family": "Hangeuljaemin4",
+    "category": "",
+    "source": "",
+    "language": "zh-cn",
+    "path": "zh-cn/韩契在民体",
+    "files": [
+        {
+            "name": "Hangeuljaemin4-Regular",
+            "ext": "otf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

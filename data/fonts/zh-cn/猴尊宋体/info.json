@@ -1,0 +1,18 @@
+{
+    "id": "houzunsongti",
+    "title": "猴尊宋体",
+    "family": "HouZunSongTi",
+    "category": "",
+    "source": "",
+    "language": "zh-cn",
+    "path": "zh-cn/猴尊宋体",
+    "files": [
+        {
+            "name": "猴尊宋体",
+            "ext": "ttf",
+            "subfamily": "猴尊宋体",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

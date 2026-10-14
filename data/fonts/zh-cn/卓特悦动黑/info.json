@@ -1,0 +1,18 @@
+{
+    "id": "ztyuedonghei",
+    "title": "卓特悦动黑",
+    "family": "ZTYueDongHei",
+    "category": "",
+    "source": "",
+    "language": "zh-cn",
+    "path": "zh-cn/卓特悦动黑",
+    "files": [
+        {
+            "name": "ZTYueDongHei",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

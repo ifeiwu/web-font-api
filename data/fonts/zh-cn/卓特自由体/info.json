@@ -1,0 +1,18 @@
+{
+    "id": "ztziyouti",
+    "title": "卓特自由体",
+    "family": "ZTZiYouTi",
+    "category": "",
+    "source": "",
+    "language": "zh-cn",
+    "path": "zh-cn/卓特自由体",
+    "files": [
+        {
+            "name": "ZTZiYouTi",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

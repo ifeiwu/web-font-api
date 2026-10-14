@@ -1,0 +1,25 @@
+{
+    "id": "chillreunion",
+    "title": "寒蝉团圆圆",
+    "family": "ChillReunion",
+    "category": "",
+    "source": "",
+    "language": "zh-cn",
+    "path": "zh-cn/寒蝉团圆圆",
+    "files": [
+        {
+            "name": "ChillReunion_Round",
+            "ext": "otf",
+            "subfamily": "ChillReunion_Round",
+            "style": "normal",
+            "weight": 500
+        },
+        {
+            "name": "ChillReunion_Sans",
+            "ext": "otf",
+            "subfamily": "ChillReunion_Sans",
+            "style": "normal",
+            "weight": 500
+        }
+    ]
+}

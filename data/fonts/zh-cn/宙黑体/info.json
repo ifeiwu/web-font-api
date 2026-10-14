@@ -1,0 +1,25 @@
+{
+    "id": "zevheitc-vf",
+    "title": "宙黑体",
+    "family": "ZevHeiTC-VF",
+    "category": "",
+    "source": "",
+    "language": "zh-cn",
+    "path": "zh-cn/宙黑体",
+    "files": [
+        {
+            "name": "ZevHeiTC-F-VF",
+            "ext": "otf",
+            "subfamily": "F",
+            "style": "normal",
+            "weight": 200
+        },
+        {
+            "name": "ZevHeiTC-N-VF",
+            "ext": "otf",
+            "subfamily": "N",
+            "style": "normal",
+            "weight": 200
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": "zhaohuamin",
+    "title": "朝华标题",
+    "family": "ZhaohuaMin",
+    "category": "",
+    "source": "",
+    "language": "zh-cn",
+    "path": "zh-cn/朝华标题",
+    "files": [
+        {
+            "name": "ZhaohuaMinA",
+            "ext": "ttf",
+            "subfamily": "Bold",
+            "style": "normal",
+            "weight": 700
+        },
+        {
+            "name": "ZhaohuaMinB",
+            "ext": "ttf",
+            "subfamily": "Heavy",
+            "style": "normal",
+            "weight": 900
+        }
+    ]
+}

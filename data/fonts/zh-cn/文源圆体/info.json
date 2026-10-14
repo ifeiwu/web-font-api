@@ -1,0 +1,53 @@
+{
+    "id": "wenyuanroundedsc",
+    "title": "文源圆体",
+    "family": "WenYuanRoundedSC",
+    "category": "",
+    "source": "",
+    "language": "zh-cn",
+    "path": "zh-cn/文源圆体",
+    "files": [
+        {
+            "name": "WenYuanRoundedSC-Thin",
+            "ext": "ttf",
+            "subfamily": "Thin",
+            "style": "normal",
+            "weight": 100
+        },
+        {
+            "name": "WenYuanRoundedSC-Light",
+            "ext": "ttf",
+            "subfamily": "Light",
+            "style": "normal",
+            "weight": 300
+        },
+        {
+            "name": "WenYuanRoundedSC-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "WenYuanRoundedSC-Medium",
+            "ext": "ttf",
+            "subfamily": "Medium",
+            "style": "normal",
+            "weight": 500
+        },
+        {
+            "name": "WenYuanRoundedSC-Bold",
+            "ext": "ttf",
+            "subfamily": "Bold",
+            "style": "normal",
+            "weight": 700
+        },
+        {
+            "name": "WenYuanRoundedSC-Heavy",
+            "ext": "ttf",
+            "subfamily": "Heavy",
+            "style": "normal",
+            "weight": 900
+        }
+    ]
+}

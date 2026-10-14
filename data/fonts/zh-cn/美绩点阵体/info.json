@@ -1,0 +1,25 @@
+{
+    "id": "misekibitmap",
+    "title": "美绩点阵体",
+    "family": "MisekiBitmap",
+    "category": "",
+    "source": "",
+    "language": "zh-cn",
+    "path": "zh-cn/美绩点阵体",
+    "files": [
+        {
+            "name": "MisekiBitmap",
+            "ext": "ttf",
+            "subfamily": "MisekiBitmap",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "MisekiBitmapMincho",
+            "ext": "ttf",
+            "subfamily": "MisekiBitmapMincho",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

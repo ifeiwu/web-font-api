@@ -1,0 +1,32 @@
+{
+    "id": "lxgwheart",
+    "title": "霞鹜铭心宋",
+    "family": "LXGWHeart",
+    "category": "",
+    "source": "",
+    "language": "zh-cn",
+    "path": "zh-cn/霞鹜铭心宋",
+    "files": [
+        {
+            "name": "LXGWHeartSerif",
+            "ext": "ttf",
+            "subfamily": "LXGWHeartSerif",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "LXGWHeartSerifCL",
+            "ext": "ttf",
+            "subfamily": "LXGWHeartSerifCL",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "LXGWHeartSerifMN",
+            "ext": "ttf",
+            "subfamily": "LXGWHeartSerifMN",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

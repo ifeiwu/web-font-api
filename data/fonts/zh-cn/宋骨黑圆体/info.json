@@ -1,0 +1,25 @@
+{
+    "id": "sghr",
+    "title": "宋骨黑圆体",
+    "family": "SGHr",
+    "category": "",
+    "source": "",
+    "language": "zh-cn",
+    "path": "zh-cn/宋骨黑圆体",
+    "files": [
+        {
+            "name": "SGHr-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "SGHr-Medium",
+            "ext": "ttf",
+            "subfamily": "Medium",
+            "style": "normal",
+            "weight": 500
+        }
+    ]
+}
