@@ -1,0 +1,18 @@
+{
+    "id": "zhuquefangsong",
+    "title": "朱雀仿宋",
+    "family": "ZhuqueFangsong",
+    "category": "",
+    "source": "",
+    "language": "zh-cn",
+    "path": "zh-cn/朱雀仿宋",
+    "files": [
+        {
+            "name": "ZhuqueFangsong-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

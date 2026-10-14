@@ -1,0 +1,46 @@
+{
+    "id": "lxgw975gosc",
+    "title": "霞骛975黑体",
+    "family": "Lxgw975GoSC",
+    "category": "",
+    "source": "",
+    "language": "zh-cn",
+    "path": "zh-cn/霞骛975黑体",
+    "files": [
+        {
+            "name": "Lxgw975GoSC-UltraLight",
+            "ext": "ttf",
+            "subfamily": "UltraLight",
+            "style": "normal",
+            "weight": 200
+        },
+        {
+            "name": "Lxgw975GoSC-Light",
+            "ext": "ttf",
+            "subfamily": "Light",
+            "style": "normal",
+            "weight": 300
+        },
+        {
+            "name": "Lxgw975GoSC-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "Lxgw975GoSC-Medium",
+            "ext": "ttf",
+            "subfamily": "Medium",
+            "style": "normal",
+            "weight": 500
+        },
+        {
+            "name": "Lxgw975GoSC-SemiBold",
+            "ext": "ttf",
+            "subfamily": "SemiBold",
+            "style": "normal",
+            "weight": 600
+        }
+    ]
+}

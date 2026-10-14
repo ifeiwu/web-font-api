@@ -1,0 +1,18 @@
+{
+    "id": "aajianhao",
+    "title": "Aa剑豪体",
+    "family": "AaJianhao",
+    "category": "",
+    "source": "",
+    "language": "zh-cn",
+    "path": "zh-cn/Aa剑豪体",
+    "files": [
+        {
+            "name": "AaJianhao",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

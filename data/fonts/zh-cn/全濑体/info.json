@@ -1,0 +1,18 @@
+{
+    "id": "cjkfonts",
+    "title": "全濑体",
+    "family": "CJKFonts",
+    "category": "",
+    "source": "",
+    "language": "zh-cn",
+    "path": "zh-cn/全濑体",
+    "files": [
+        {
+            "name": "CJKFonts",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

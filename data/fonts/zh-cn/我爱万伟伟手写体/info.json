@@ -1,0 +1,18 @@
+{
+    "id": "woaiwanweiweishouxie",
+    "title": "我爱万伟伟手写体",
+    "family": "WoAiWanWeiWeiShouXie",
+    "category": "",
+    "source": "",
+    "language": "zh-cn",
+    "path": "zh-cn/我爱万伟伟手写体",
+    "files": [
+        {
+            "name": "WoAiWanWeiWeiShouXie",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "id": "lxgwwenkai",
+    "title": "霞鹜文楷",
+    "family": "LXGWWenKai",
+    "category": "",
+    "source": "",
+    "language": "zh-cn",
+    "path": "zh-cn/霞鹜文楷",
+    "files": [
+        {
+            "name": "LXGWWenKai-Light",
+            "ext": "ttf",
+            "subfamily": "Light",
+            "style": "normal",
+            "weight": 300
+        },
+        {
+            "name": "LXGWWenKai-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "LXGWWenKai-Bold",
+            "ext": "ttf",
+            "subfamily": "Bold",
+            "style": "normal",
+            "weight": 700
+        }
+    ]
+}

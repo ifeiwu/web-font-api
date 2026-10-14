@@ -1,0 +1,18 @@
+{
+    "id": "yunfengjinglongxingshu",
+    "title": "云峰静龙行书",
+    "family": "YunfengJinglongxingshu",
+    "category": "",
+    "source": "",
+    "language": "zh-cn",
+    "path": "zh-cn/云峰静龙行书",
+    "files": [
+        {
+            "name": "YunfengJinglongxingshu",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

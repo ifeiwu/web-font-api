@@ -1,0 +1,18 @@
+{
+    "id": "alimamadaoliti",
+    "title": "阿里妈妈刀隶体",
+    "family": "AlimamaDaoLiTi",
+    "category": "",
+    "source": "",
+    "language": "zh-cn",
+    "path": "zh-cn/阿里妈妈刀隶体",
+    "files": [
+        {
+            "name": "AlimamaDaoLiTi",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "id": "yozai",
+    "title": "悠哉字体",
+    "family": "Yozai",
+    "category": "",
+    "source": "",
+    "language": "zh-cn",
+    "path": "zh-cn/悠哉字体",
+    "files": [
+        {
+            "name": "Yozai-Light",
+            "ext": "ttf",
+            "subfamily": "Light",
+            "style": "normal",
+            "weight": 300
+        },
+        {
+            "name": "Yozai-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "Yozai-Medium",
+            "ext": "ttf",
+            "subfamily": "Medium",
+            "style": "normal",
+            "weight": 500
+        },
+        {
+            "name": "Yozai-Bold",
+            "ext": "ttf",
+            "subfamily": "Bold",
+            "style": "normal",
+            "weight": 700
+        }
+    ]
+}

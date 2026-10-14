@@ -1,0 +1,32 @@
+{
+    "id": "jyunsaikaai",
+    "title": "芫茜雅楷",
+    "family": "JyunsaiKaai",
+    "category": "",
+    "source": "",
+    "language": "zh-cn",
+    "path": "zh-cn/芫茜雅楷",
+    "files": [
+        {
+            "name": "JyunsaiKaai-Light",
+            "ext": "ttf",
+            "subfamily": "Light",
+            "style": "normal",
+            "weight": 300
+        },
+        {
+            "name": "JyunsaiKaai-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "JyunsaiKaai-Bold",
+            "ext": "ttf",
+            "subfamily": "Bold",
+            "style": "normal",
+            "weight": 700
+        }
+    ]
+}

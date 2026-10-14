@@ -1,0 +1,18 @@
+{
+    "id": "yunfengfeiyun",
+    "title": "云峰飞云体",
+    "family": "YunfengFeiyun",
+    "category": "",
+    "source": "",
+    "language": "zh-cn",
+    "path": "zh-cn/云峰飞云体",
+    "files": [
+        {
+            "name": "YunfengFeiyun",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

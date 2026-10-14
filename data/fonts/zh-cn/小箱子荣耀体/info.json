@@ -1,0 +1,18 @@
+{
+    "id": "xiaoxiangzirongyao",
+    "title": "小箱子荣耀体",
+    "family": "XiaoxiangziRongyao",
+    "category": "",
+    "source": "",
+    "language": "zh-cn",
+    "path": "zh-cn/小箱子荣耀体",
+    "files": [
+        {
+            "name": "XiaoxiangziRongyao",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

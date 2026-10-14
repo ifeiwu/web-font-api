@@ -1,0 +1,60 @@
+{
+    "id": "sourcehansanssc",
+    "title": "思源黑体",
+    "family": "SourceHanSansSC",
+    "category": "",
+    "source": "",
+    "language": "zh-cn",
+    "path": "zh-cn/思源黑体",
+    "files": [
+        {
+            "name": "SourceHanSansSC-ExtraLight",
+            "ext": "otf",
+            "subfamily": "ExtraLight",
+            "style": "normal",
+            "weight": 250
+        },
+        {
+            "name": "SourceHanSansSC-Light",
+            "ext": "otf",
+            "subfamily": "Light",
+            "style": "normal",
+            "weight": 300
+        },
+        {
+            "name": "SourceHanSansSC-Normal",
+            "ext": "otf",
+            "subfamily": "Normal",
+            "style": "normal",
+            "weight": 350
+        },
+        {
+            "name": "SourceHanSansSC-Regular",
+            "ext": "otf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "SourceHanSansSC-Medium",
+            "ext": "otf",
+            "subfamily": "Medium",
+            "style": "normal",
+            "weight": 500
+        },
+        {
+            "name": "SourceHanSansSC-Bold",
+            "ext": "otf",
+            "subfamily": "Bold",
+            "style": "normal",
+            "weight": 700
+        },
+        {
+            "name": "SourceHanSansSC-Heavy",
+            "ext": "otf",
+            "subfamily": "Heavy",
+            "style": "normal",
+            "weight": 900
+        }
+    ]
+}

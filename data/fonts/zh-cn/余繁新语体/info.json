@@ -1,0 +1,39 @@
+{
+    "id": "yufanxinyu",
+    "title": "余繁新语体",
+    "family": "YufanXinyu",
+    "category": "",
+    "source": "",
+    "language": "zh-cn",
+    "path": "zh-cn/余繁新语体",
+    "files": [
+        {
+            "name": "YufanXinyu-Light",
+            "ext": "ttf",
+            "subfamily": "Light",
+            "style": "normal",
+            "weight": 300
+        },
+        {
+            "name": "YufanXinyu-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 500
+        },
+        {
+            "name": "YufanXinyu-Medium",
+            "ext": "ttf",
+            "subfamily": "Medium",
+            "style": "normal",
+            "weight": 600
+        },
+        {
+            "name": "YufanXinyu-Bold",
+            "ext": "ttf",
+            "subfamily": "Bold",
+            "style": "normal",
+            "weight": 700
+        }
+    ]
+}

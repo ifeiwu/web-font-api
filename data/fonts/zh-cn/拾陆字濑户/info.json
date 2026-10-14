@@ -1,0 +1,46 @@
+{
+    "id": "shiluwordslaihu",
+    "title": "拾陆字濑户",
+    "family": "ShiluwordsLaihu",
+    "category": "",
+    "source": "",
+    "language": "zh-cn",
+    "path": "zh-cn/拾陆字濑户",
+    "files": [
+        {
+            "name": "ShiluwordsLaihu-Thin",
+            "ext": "ttf",
+            "subfamily": "Thin",
+            "style": "normal",
+            "weight": 200
+        },
+        {
+            "name": "ShiluwordsLaihu-Light",
+            "ext": "ttf",
+            "subfamily": "Light",
+            "style": "normal",
+            "weight": 300
+        },
+        {
+            "name": "ShiluwordsLaihu-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "ShiluwordsLaihu-Medium",
+            "ext": "ttf",
+            "subfamily": "Medium",
+            "style": "normal",
+            "weight": 500
+        },
+        {
+            "name": "ShiluwordsLaihu-Bold",
+            "ext": "ttf",
+            "subfamily": "Bold",
+            "style": "normal",
+            "weight": 700
+        }
+    ]
+}

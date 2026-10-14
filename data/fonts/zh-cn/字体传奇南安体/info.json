@@ -1,0 +1,18 @@
+{
+    "id": "ziticqnanan",
+    "title": "字体传奇南安体",
+    "family": "ZiticqNanan",
+    "category": "",
+    "source": "",
+    "language": "zh-cn",
+    "path": "zh-cn/字体传奇南安体",
+    "files": [
+        {
+            "name": "ZiticqNanan",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

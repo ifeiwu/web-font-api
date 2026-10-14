@@ -1,0 +1,25 @@
+{
+    "id": "sgh",
+    "title": "宋骨黑体",
+    "family": "SGH",
+    "category": "",
+    "source": "",
+    "language": "zh-cn",
+    "path": "zh-cn/宋骨黑体",
+    "files": [
+        {
+            "name": "SGH-Light",
+            "ext": "ttf",
+            "subfamily": "Light",
+            "style": "normal",
+            "weight": 300
+        },
+        {
+            "name": "SGH-Medium",
+            "ext": "ttf",
+            "subfamily": "Medium",
+            "style": "normal",
+            "weight": 500
+        }
+    ]
+}

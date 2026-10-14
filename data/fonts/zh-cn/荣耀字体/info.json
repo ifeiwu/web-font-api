@@ -1,0 +1,74 @@
+{
+    "id": "honorsanscn",
+    "title": "荣耀字体",
+    "family": "HONORSansCN",
+    "category": "",
+    "source": "",
+    "language": "zh-cn",
+    "path": "zh-cn/荣耀字体",
+    "files": [
+        {
+            "name": "HONORSansCN-Thin",
+            "ext": "ttf",
+            "subfamily": "Thin",
+            "style": "normal",
+            "weight": 100
+        },
+        {
+            "name": "HONORSansCN-ExtraLight",
+            "ext": "ttf",
+            "subfamily": "ExtraLight",
+            "style": "normal",
+            "weight": 200
+        },
+        {
+            "name": "HONORSansCN-Light",
+            "ext": "ttf",
+            "subfamily": "Light",
+            "style": "normal",
+            "weight": 300
+        },
+        {
+            "name": "HONORSansCN-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "HONORSansCN-Medium",
+            "ext": "ttf",
+            "subfamily": "Medium",
+            "style": "normal",
+            "weight": 500
+        },
+        {
+            "name": "HONORSansCN-DemiBold",
+            "ext": "ttf",
+            "subfamily": "DemiBold",
+            "style": "normal",
+            "weight": 600
+        },
+        {
+            "name": "HONORSansCN-Bold",
+            "ext": "ttf",
+            "subfamily": "Bold",
+            "style": "normal",
+            "weight": 700
+        },
+        {
+            "name": "HONORSansCN-ExtraBold",
+            "ext": "ttf",
+            "subfamily": "ExtraBold",
+            "style": "normal",
+            "weight": 800
+        },
+        {
+            "name": "HONORSansCN-Heavy",
+            "ext": "ttf",
+            "subfamily": "Heavy",
+            "style": "normal",
+            "weight": 900
+        }
+    ]
+}

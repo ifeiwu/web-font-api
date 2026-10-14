@@ -1,0 +1,18 @@
+{
+    "id": "pmzdcushu",
+    "title": "庞门正道粗书体",
+    "family": "PMZDCushu",
+    "category": "",
+    "source": "",
+    "language": "zh-cn",
+    "path": "zh-cn/庞门正道粗书体",
+    "files": [
+        {
+            "name": "PMZDCushu",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}
