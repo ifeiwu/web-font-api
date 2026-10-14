@@ -1,0 +1,18 @@
+{
+    "id": "lxgwzhenkai",
+    "title": "霞鹜臻楷",
+    "family": "LXGWZhenkai",
+    "category": "",
+    "source": "",
+    "language": "zh-cn",
+    "path": "zh-cn/霞鹜臻楷",
+    "files": [
+        {
+            "name": "LXGWZhenkai",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

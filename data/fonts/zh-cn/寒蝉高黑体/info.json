@@ -1,0 +1,18 @@
+{
+    "id": "chillgsans",
+    "title": "寒蝉高黑体",
+    "family": "ChillGSans",
+    "category": "",
+    "source": "",
+    "language": "zh-cn",
+    "path": "zh-cn/寒蝉高黑体",
+    "files": [
+        {
+            "name": "ChillGSans",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 500
+        }
+    ]
+}

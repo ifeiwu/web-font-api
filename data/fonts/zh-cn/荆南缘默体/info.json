@@ -1,0 +1,18 @@
+{
+    "id": "kingnamyuanmo",
+    "title": "荆南缘默体",
+    "family": "KingnamYuanmo",
+    "category": "",
+    "source": "",
+    "language": "zh-cn",
+    "path": "zh-cn/荆南缘默体",
+    "files": [
+        {
+            "name": "KingnamYuanmo",
+            "ext": "otf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 900
+        }
+    ]
+}

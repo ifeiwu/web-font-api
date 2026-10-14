@@ -1,0 +1,18 @@
+{
+    "id": "slidechunfeng",
+    "title": "演示春风楷",
+    "family": "Slidechunfeng",
+    "category": "",
+    "source": "",
+    "language": "zh-cn",
+    "path": "zh-cn/演示春风楷",
+    "files": [
+        {
+            "name": "Slidechunfeng",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

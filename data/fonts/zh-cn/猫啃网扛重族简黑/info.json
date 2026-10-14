@@ -1,0 +1,18 @@
+{
+    "id": "maokenheavylabourerscgothic",
+    "title": "猫啃网扛重族简黑",
+    "family": "MaokenHeavyLabourerSCGothic",
+    "category": "",
+    "source": "",
+    "language": "zh-cn",
+    "path": "zh-cn/猫啃网扛重族简黑",
+    "files": [
+        {
+            "name": "MaokenHeavyLabourerSCGothic-Regular",
+            "ext": "otf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 900
+        }
+    ]
+}

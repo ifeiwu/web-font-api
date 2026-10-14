@@ -1,0 +1,46 @@
+{
+    "id": "tsangerfeibai",
+    "title": "仓耳非白",
+    "family": "TsangerFeiBai",
+    "category": "",
+    "source": "",
+    "language": "zh-cn",
+    "path": "zh-cn/仓耳非白",
+    "files": [
+        {
+            "name": "TsangerFeiBai-Bold",
+            "ext": "ttf",
+            "subfamily": "Bold",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "TsangerFeiBai-Light",
+            "ext": "ttf",
+            "subfamily": "Light",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "TsangerFeiBai-Medium",
+            "ext": "ttf",
+            "subfamily": "Medium",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "TsangerFeiBai-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "TsangerFeiBai-SemiBold",
+            "ext": "ttf",
+            "subfamily": "SemiBold",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "id": "aahoudihei",
+    "title": "Aa厚底黑",
+    "family": "AaHouDiHei",
+    "category": "",
+    "source": "",
+    "language": "zh-cn",
+    "path": "zh-cn/Aa厚底黑",
+    "files": [
+        {
+            "name": "AaHoudihei",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

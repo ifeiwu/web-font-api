@@ -1,0 +1,18 @@
+{
+    "id": "chillcalligraphychunqiuqiuhong",
+    "title": "寒蝉书体·春秋秋鸿",
+    "family": "ChillCalligraphyChunQiuQiuHong",
+    "category": "",
+    "source": "",
+    "language": "zh-cn",
+    "path": "zh-cn/寒蝉书体·春秋秋鸿",
+    "files": [
+        {
+            "name": "ChillCalligraphyChunQiu_QiuHong",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

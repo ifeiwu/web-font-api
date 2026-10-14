@@ -1,0 +1,18 @@
+{
+    "id": "flowerfangsong",
+    "title": "花仿宋",
+    "family": "FlowerFangSong",
+    "category": "",
+    "source": "",
+    "language": "zh-cn",
+    "path": "zh-cn/花仿宋",
+    "files": [
+        {
+            "name": "FlowerFangSong",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

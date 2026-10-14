@@ -1,0 +1,18 @@
+{
+    "id": "tsangerzhoukezhengdabangshu",
+    "title": "仓耳周珂正大榜书",
+    "family": "TsangerZhoukeZhengdabangshu",
+    "category": "",
+    "source": "",
+    "language": "zh-cn",
+    "path": "zh-cn/仓耳周珂正大榜书",
+    "files": [
+        {
+            "name": "TsangerZhoukeZhengdabangshu",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "id": "kingnambobohei",
+    "title": "荆南波波黑",
+    "family": "KingnamBobohei",
+    "category": "",
+    "source": "",
+    "language": "zh-cn",
+    "path": "zh-cn/荆南波波黑",
+    "files": [
+        {
+            "name": "KingnamBobohei-Bold",
+            "ext": "ttf",
+            "subfamily": "Bold",
+            "style": "normal",
+            "weight": 700
+        }
+    ]
+}

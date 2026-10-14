@@ -1,0 +1,18 @@
+{
+    "id": "slideqiuhong",
+    "title": "演示秋鸿楷",
+    "family": "Slideqiuhong",
+    "category": "",
+    "source": "",
+    "language": "zh-cn",
+    "path": "zh-cn/演示秋鸿楷",
+    "files": [
+        {
+            "name": "Slideqiuhong",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "id": "shetumodengxiaofang",
+    "title": "摄图摩登小方体",
+    "family": "ShetuModengXiaofang",
+    "category": "",
+    "source": "",
+    "language": "zh-cn",
+    "path": "zh-cn/摄图摩登小方体",
+    "files": [
+        {
+            "name": "ShetuModengXiaofang",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

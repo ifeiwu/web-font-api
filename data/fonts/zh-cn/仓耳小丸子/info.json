@@ -1,0 +1,18 @@
+{
+    "id": "tsangerxwz",
+    "title": "仓耳小丸子",
+    "family": "TsangerXWZ",
+    "category": "",
+    "source": "",
+    "language": "zh-cn",
+    "path": "zh-cn/仓耳小丸子",
+    "files": [
+        {
+            "name": "TsangerXWZ",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

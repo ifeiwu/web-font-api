@@ -1,0 +1,32 @@
+{
+    "id": "bwckkt",
+    "title": "白无常可可体",
+    "family": "BWCKKT",
+    "category": "",
+    "source": "",
+    "language": "zh-cn",
+    "path": "zh-cn/白无常可可体",
+    "files": [
+        {
+            "name": "BWCKKT-Light",
+            "ext": "ttf",
+            "subfamily": "Light",
+            "style": "normal",
+            "weight": 300
+        },
+        {
+            "name": "BWCKKT-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "BWCKKT-Bold",
+            "ext": "ttf",
+            "subfamily": "Bold",
+            "style": "normal",
+            "weight": 700
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "id": "tsangershuyuan",
+    "title": "仓耳舒圆体",
+    "family": "TsangerShuYuan",
+    "category": "",
+    "source": "",
+    "language": "zh-cn",
+    "path": "zh-cn/仓耳舒圆体",
+    "files": [
+        {
+            "name": "TsangerShuYuan-Bold",
+            "ext": "ttf",
+            "subfamily": "Bold",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "TsangerShuYuan-Light",
+            "ext": "ttf",
+            "subfamily": "Light",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "TsangerShuYuan-Medium",
+            "ext": "ttf",
+            "subfamily": "Medium",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "TsangerShuYuan-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "TsangerShuYuan-SemiBold",
+            "ext": "ttf",
+            "subfamily": "SemiBold",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

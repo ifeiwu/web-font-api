@@ -1,0 +1,18 @@
+{
+    "id": "chillksans",
+    "title": "寒蝉宽黑体",
+    "family": "ChillKSans",
+    "category": "",
+    "source": "",
+    "language": "zh-cn",
+    "path": "zh-cn/寒蝉宽黑体",
+    "files": [
+        {
+            "name": "ChillKSans",
+            "ext": "otf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 500
+        }
+    ]
+}

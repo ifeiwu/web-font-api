@@ -1,0 +1,53 @@
+{
+    "id": "shiluwordsweilaiyuan",
+    "title": "未来圆",
+    "family": "ShiluwordsWeilaiyuan",
+    "category": "",
+    "source": "",
+    "language": "zh-cn",
+    "path": "zh-cn/未来圆",
+    "files": [
+        {
+            "name": "ShiluwordsWeilaiyuan-UltraLight",
+            "ext": "ttf",
+            "subfamily": "UltraLight",
+            "style": "normal",
+            "weight": 100
+        },
+        {
+            "name": "ShiluwordsWeilaiyuan-Thin",
+            "ext": "ttf",
+            "subfamily": "Thin",
+            "style": "normal",
+            "weight": 200
+        },
+        {
+            "name": "ShiluwordsWeilaiyuan-Light",
+            "ext": "ttf",
+            "subfamily": "Light",
+            "style": "normal",
+            "weight": 300
+        },
+        {
+            "name": "ShiluwordsWeilaiyuan-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "ShiluwordsWeilaiyuan-Medium",
+            "ext": "ttf",
+            "subfamily": "Medium",
+            "style": "normal",
+            "weight": 500
+        },
+        {
+            "name": "ShiluwordsWeilaiyuan-Bold",
+            "ext": "ttf",
+            "subfamily": "Bold",
+            "style": "normal",
+            "weight": 700
+        }
+    ]
+}
