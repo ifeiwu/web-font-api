@@ -1,0 +1,18 @@
+{
+    "id": "851gbaimarker",
+    "title": "851 GBai 马克笔体",
+    "family": "851GBaiMarker",
+    "category": "",
+    "source": "",
+    "language": "zh-cn",
+    "path": "zh-cn/851 GBai 马克笔体",
+    "files": [
+        {
+            "name": "851GBaiMarker",
+            "ext": "ttf",
+            "subfamily": "851GBaiMarker",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

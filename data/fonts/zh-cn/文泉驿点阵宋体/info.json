@@ -1,0 +1,46 @@
+{
+    "id": "wenquanyibitmapsong",
+    "title": "文泉驿点阵宋体",
+    "family": "WenQuanYiBitmapSong",
+    "category": "",
+    "source": "",
+    "language": "zh-cn",
+    "path": "zh-cn/文泉驿点阵宋体",
+    "files": [
+        {
+            "name": "WenQuanYi Bitmap Song 12px",
+            "ext": "ttf",
+            "subfamily": "WenQuanYi Bitmap Song 12px",
+            "style": "normal",
+            "weight": 500
+        },
+        {
+            "name": "WenQuanYi Bitmap Song 13px",
+            "ext": "ttf",
+            "subfamily": "WenQuanYi Bitmap Song 13px",
+            "style": "normal",
+            "weight": 500
+        },
+        {
+            "name": "WenQuanYi Bitmap Song 14px",
+            "ext": "ttf",
+            "subfamily": "WenQuanYi Bitmap Song 14px",
+            "style": "normal",
+            "weight": 500
+        },
+        {
+            "name": "WenQuanYi Bitmap Song 15px",
+            "ext": "ttf",
+            "subfamily": "WenQuanYi Bitmap Song 15px",
+            "style": "normal",
+            "weight": 500
+        },
+        {
+            "name": "WenQuanYi Bitmap Song 16px",
+            "ext": "ttf",
+            "subfamily": "WenQuanYi Bitmap Song 16px",
+            "style": "normal",
+            "weight": 500
+        }
+    ]
+}

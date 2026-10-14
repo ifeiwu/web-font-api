@@ -1,0 +1,67 @@
+{
+    "id": "fanthinkgrotesk",
+    "title": "繁Think黑",
+    "family": "FanThinkGrotesk",
+    "category": "",
+    "source": "",
+    "language": "zh-cn",
+    "path": "zh-cn/繁Think黑",
+    "files": [
+        {
+            "name": "FanThinkGrotesk-Thin",
+            "ext": "otf",
+            "subfamily": "Thin",
+            "style": "normal",
+            "weight": 100
+        },
+        {
+            "name": "FanThinkGrotesk-ExtraLight",
+            "ext": "otf",
+            "subfamily": "ExtraLight",
+            "style": "normal",
+            "weight": 200
+        },
+        {
+            "name": "FanThinkGrotesk-Light",
+            "ext": "otf",
+            "subfamily": "Light",
+            "style": "normal",
+            "weight": 300
+        },
+        {
+            "name": "FanThinkGrotesk-Regular",
+            "ext": "otf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "FanThinkGrotesk-Text",
+            "ext": "otf",
+            "subfamily": "Text",
+            "style": "normal",
+            "weight": 450
+        },
+        {
+            "name": "FanThinkGrotesk-Medium",
+            "ext": "otf",
+            "subfamily": "Medium",
+            "style": "normal",
+            "weight": 500
+        },
+        {
+            "name": "FanThinkGrotesk-SemiBold",
+            "ext": "otf",
+            "subfamily": "SemiBold",
+            "style": "normal",
+            "weight": 600
+        },
+        {
+            "name": "FanThinkGrotesk-Bold",
+            "ext": "otf",
+            "subfamily": "Bold",
+            "style": "normal",
+            "weight": 700
+        }
+    ]
+}

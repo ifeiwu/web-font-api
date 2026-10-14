@@ -1,0 +1,18 @@
+{
+    "id": "nanxiyoumosong",
+    "title": "南西油墨宋",
+    "family": "NanxiYoumosong",
+    "category": "",
+    "source": "",
+    "language": "zh-cn",
+    "path": "zh-cn/南西油墨宋",
+    "files": [
+        {
+            "name": "南西油墨宋",
+            "ext": "ttf",
+            "subfamily": "南西油墨宋",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

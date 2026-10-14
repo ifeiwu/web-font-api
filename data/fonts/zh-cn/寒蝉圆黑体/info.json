@@ -1,0 +1,60 @@
+{
+    "id": "chillroundgothic",
+    "title": "寒蝉圆黑体",
+    "family": "ChillRoundGothic",
+    "category": "",
+    "source": "",
+    "language": "zh-cn",
+    "path": "zh-cn/寒蝉圆黑体",
+    "files": [
+        {
+            "name": "ChillRoundGothic_ExtraLight",
+            "ext": "ttf",
+            "subfamily": "ChillRoundGothic_ExtraLight",
+            "style": "normal",
+            "weight": 200
+        },
+        {
+            "name": "ChillRoundGothic_Light",
+            "ext": "ttf",
+            "subfamily": "ChillRoundGothic_Light",
+            "style": "normal",
+            "weight": 300
+        },
+        {
+            "name": "ChillRoundGothic_Normal",
+            "ext": "ttf",
+            "subfamily": "ChillRoundGothic_Normal",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "ChillRoundGothic_Regular",
+            "ext": "ttf",
+            "subfamily": "ChillRoundGothic_Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "ChillRoundGothic_Medium",
+            "ext": "ttf",
+            "subfamily": "ChillRoundGothic_Medium",
+            "style": "normal",
+            "weight": 500
+        },
+        {
+            "name": "ChillRoundGothic_Bold",
+            "ext": "ttf",
+            "subfamily": "ChillRoundGothic_Bold",
+            "style": "normal",
+            "weight": 700
+        },
+        {
+            "name": "ChillRoundGothic_Heavy",
+            "ext": "ttf",
+            "subfamily": "ChillRoundGothic_Heavy",
+            "style": "normal",
+            "weight": 900
+        }
+    ]
+}

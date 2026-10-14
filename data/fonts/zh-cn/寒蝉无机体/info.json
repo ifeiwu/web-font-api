@@ -1,0 +1,53 @@
+{
+    "id": "chillinorganic",
+    "title": "寒蝉无机体",
+    "family": "ChillInorganic",
+    "category": "",
+    "source": "",
+    "language": "zh-cn",
+    "path": "zh-cn/寒蝉无机体",
+    "files": [
+        {
+            "name": "ChillInorganic_CompactRegular",
+            "ext": "otf",
+            "subfamily": "ChillInorganic_CompactRegular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "ChillInorganic_Regular",
+            "ext": "otf",
+            "subfamily": "ChillInorganic_Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "ChillInorganic_WideRegular",
+            "ext": "otf",
+            "subfamily": "ChillInorganic_WideRegular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "ChillInorganic_CompactMedium",
+            "ext": "otf",
+            "subfamily": "ChillInorganic_CompactMedium",
+            "style": "normal",
+            "weight": 500
+        },
+        {
+            "name": "ChillInorganic_Medium",
+            "ext": "otf",
+            "subfamily": "ChillInorganic_Medium",
+            "style": "normal",
+            "weight": 500
+        },
+        {
+            "name": "ChillInorganic_WideMedium",
+            "ext": "otf",
+            "subfamily": "ChillInorganic_WideMedium",
+            "style": "normal",
+            "weight": 500
+        }
+    ]
+}

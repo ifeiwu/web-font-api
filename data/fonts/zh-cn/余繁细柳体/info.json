@@ -1,0 +1,18 @@
+{
+    "id": "yufanxiliu",
+    "title": "余繁细柳体",
+    "family": "YuFanXiLiu",
+    "category": "",
+    "source": "",
+    "language": "zh-cn",
+    "path": "zh-cn/余繁细柳体",
+    "files": [
+        {
+            "name": "YuFanXiLiu",
+            "ext": "otf",
+            "subfamily": "YuFanXiLiu",
+            "style": "normal",
+            "weight": 100
+        }
+    ]
+}

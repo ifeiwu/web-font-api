@@ -1,0 +1,32 @@
+{
+    "id": "monutitl",
+    "title": "典迹题幕",
+    "family": "MonuTitl",
+    "category": "",
+    "source": "",
+    "language": "zh-cn",
+    "path": "zh-cn/典迹题幕",
+    "files": [
+        {
+            "name": "MonuTitl-Cond",
+            "ext": "ttf",
+            "subfamily": "Cond",
+            "style": "normal",
+            "weight": 500
+        },
+        {
+            "name": "MonuTitl-CnMd",
+            "ext": "ttf",
+            "subfamily": "CnMd",
+            "style": "normal",
+            "weight": 600
+        },
+        {
+            "name": "MonuTitl-CnBd",
+            "ext": "ttf",
+            "subfamily": "CnBd",
+            "style": "normal",
+            "weight": 700
+        }
+    ]
+}

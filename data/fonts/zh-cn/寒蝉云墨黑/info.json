@@ -1,0 +1,81 @@
+{
+    "id": "chillyunmogothic",
+    "title": "寒蝉云墨黑",
+    "family": "ChillYunmoGothic",
+    "category": "",
+    "source": "",
+    "language": "zh-cn",
+    "path": "zh-cn/寒蝉云墨黑",
+    "files": [
+        {
+            "name": "ChillYunmoGothicLight",
+            "ext": "otf",
+            "subfamily": "ChillYunmoGothicLight",
+            "style": "normal",
+            "weight": 300
+        },
+        {
+            "name": "ChillYunmoGothicWideLight",
+            "ext": "otf",
+            "subfamily": "ChillYunmoGothicWideLight",
+            "style": "normal",
+            "weight": 300
+        },
+        {
+            "name": "ChillYunmoGothicCompactRegular",
+            "ext": "otf",
+            "subfamily": "ChillYunmoGothicCompactRegular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "ChillYunmoGothicRegular",
+            "ext": "otf",
+            "subfamily": "ChillYunmoGothicRegular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "ChillYunmoGothicWideRegular",
+            "ext": "otf",
+            "subfamily": "ChillYunmoGothicWideRegular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "ChillYunmoGothicMedium",
+            "ext": "otf",
+            "subfamily": "ChillYunmoGothicMedium",
+            "style": "normal",
+            "weight": 500
+        },
+        {
+            "name": "ChillYunmoGothicBold",
+            "ext": "otf",
+            "subfamily": "ChillYunmoGothicBold",
+            "style": "normal",
+            "weight": 700
+        },
+        {
+            "name": "ChillYunmoGothicCompactBold",
+            "ext": "otf",
+            "subfamily": "ChillYunmoGothicCompactBold",
+            "style": "normal",
+            "weight": 700
+        },
+        {
+            "name": "ChillYunmoGothicWideBold",
+            "ext": "otf",
+            "subfamily": "ChillYunmoGothicWideBold",
+            "style": "normal",
+            "weight": 700
+        },
+        {
+            "name": "ChillYunmoGothicHeavy",
+            "ext": "otf",
+            "subfamily": "ChillYunmoGothicHeavy",
+            "style": "normal",
+            "weight": 900
+        }
+    ]
+}

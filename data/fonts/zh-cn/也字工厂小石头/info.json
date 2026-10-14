@@ -1,0 +1,18 @@
+{
+    "id": "yefontxiaoshitou",
+    "title": "也字工厂小石头",
+    "family": "YEFONTXiaoShiTou",
+    "category": "",
+    "source": "",
+    "language": "zh-cn",
+    "path": "zh-cn/也字工厂小石头",
+    "files": [
+        {
+            "name": "YEFONTXiaoShiTou",
+            "ext": "ttf",
+            "subfamily": "YEFONTXiaoShiTou",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

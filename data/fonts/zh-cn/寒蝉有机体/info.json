@@ -1,0 +1,25 @@
+{
+    "id": "chillorganic",
+    "title": "寒蝉有机体",
+    "family": "ChillOrganic",
+    "category": "",
+    "source": "",
+    "language": "zh-cn",
+    "path": "zh-cn/寒蝉有机体",
+    "files": [
+        {
+            "name": "ChillOrganic_Regular",
+            "ext": "otf",
+            "subfamily": "ChillOrganic_Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "ChillOrganic_Medium",
+            "ext": "otf",
+            "subfamily": "ChillOrganic_Medium",
+            "style": "normal",
+            "weight": 500
+        }
+    ]
+}

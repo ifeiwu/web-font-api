@@ -1,0 +1,18 @@
+{
+    "id": "uranus_pixel_11px",
+    "title": "天王星像素",
+    "family": "Uranus_Pixel_11Px",
+    "category": "",
+    "source": "",
+    "language": "zh-cn",
+    "path": "zh-cn/天王星像素",
+    "files": [
+        {
+            "name": "Uranus_Pixel_11Px",
+            "ext": "ttf",
+            "subfamily": "Uranus_Pixel_11Px",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

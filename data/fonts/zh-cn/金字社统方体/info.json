@@ -1,0 +1,18 @@
+{
+    "id": "jinzishetongfang",
+    "title": "金字社统方体",
+    "family": "JinzisheTongfang",
+    "category": "",
+    "source": "",
+    "language": "zh-cn",
+    "path": "zh-cn/金字社统方体",
+    "files": [
+        {
+            "name": "JinzisheTongfang-Regular",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

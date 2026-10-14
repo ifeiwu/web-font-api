@@ -1,0 +1,18 @@
+{
+    "id": "huxiaobokuhei",
+    "title": "站酷酷黑体",
+    "family": "HuXiaoBoKuHei",
+    "category": "",
+    "source": "",
+    "language": "zh-cn",
+    "path": "zh-cn/站酷酷黑体",
+    "files": [
+        {
+            "name": "HuXiaoBoKuHei",
+            "ext": "ttf",
+            "subfamily": "Regular",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

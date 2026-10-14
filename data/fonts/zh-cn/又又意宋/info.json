@@ -1,0 +1,18 @@
+{
+    "id": "youyouyisong",
+    "title": "又又意宋",
+    "family": "YouYouYiSong",
+    "category": "",
+    "source": "",
+    "language": "zh-cn",
+    "path": "zh-cn/又又意宋",
+    "files": [
+        {
+            "name": "YouYouYiSong",
+            "ext": "ttf",
+            "subfamily": "YouYouYiSong",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

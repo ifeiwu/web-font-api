@@ -1,0 +1,18 @@
+{
+    "id": "feibozhengdots",
+    "title": "飞波正点体",
+    "family": "FeiboZhengDots",
+    "category": "",
+    "source": "",
+    "language": "zh-cn",
+    "path": "zh-cn/飞波正点体",
+    "files": [
+        {
+            "name": "FeiboZhengDots",
+            "ext": "ttf",
+            "subfamily": "FeiboZhengDots",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

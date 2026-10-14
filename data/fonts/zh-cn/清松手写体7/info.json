@@ -1,0 +1,18 @@
+{
+    "id": "jasonhandwriting7",
+    "title": "清松手写体7",
+    "family": "JasonHandwriting7",
+    "category": "",
+    "source": "",
+    "language": "zh-cn",
+    "path": "zh-cn/清松手写体7",
+    "files": [
+        {
+            "name": "JasonHandwriting7",
+            "ext": "ttf",
+            "subfamily": "JasonHandwriting7",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}

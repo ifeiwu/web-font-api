@@ -1,0 +1,46 @@
+{
+    "id": "chillduansans",
+    "title": "寒蝉端黑体",
+    "family": "ChillDuanSans",
+    "category": "",
+    "source": "",
+    "language": "zh-cn",
+    "path": "zh-cn/寒蝉端黑体",
+    "files": [
+        {
+            "name": "ChillDuanSans_Light",
+            "ext": "otf",
+            "subfamily": "ChillDuanSans_Light",
+            "style": "normal",
+            "weight": 300
+        },
+        {
+            "name": "ChillDuanSans_Regular",
+            "ext": "otf",
+            "subfamily": "ChillDuanSans_Regular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "ChillDuanSans_Medium",
+            "ext": "otf",
+            "subfamily": "ChillDuanSans_Medium",
+            "style": "normal",
+            "weight": 500
+        },
+        {
+            "name": "ChillDuanSans_Bold",
+            "ext": "otf",
+            "subfamily": "ChillDuanSans_Bold",
+            "style": "normal",
+            "weight": 700
+        },
+        {
+            "name": "ChillDuanSans_Heavy",
+            "ext": "otf",
+            "subfamily": "ChillDuanSans_Heavy",
+            "style": "normal",
+            "weight": 900
+        }
+    ]
+}

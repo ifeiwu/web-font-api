@@ -1,0 +1,102 @@
+{
+    "id": "chillduanheisong",
+    "title": "寒蝉端黑宋",
+    "family": "ChillDuanHeiSong",
+    "category": "",
+    "source": "",
+    "language": "zh-cn",
+    "path": "zh-cn/寒蝉端黑宋",
+    "files": [
+        {
+            "name": "ChillDuanHeiSongExtraLight",
+            "ext": "otf",
+            "subfamily": "ChillDuanHeiSongExtraLight",
+            "style": "normal",
+            "weight": 200
+        },
+        {
+            "name": "ChillDuanHeiSongLight",
+            "ext": "otf",
+            "subfamily": "ChillDuanHeiSongLight",
+            "style": "normal",
+            "weight": 300
+        },
+        {
+            "name": "ChillDuanHeiSong_WideLight",
+            "ext": "otf",
+            "subfamily": "ChillDuanHeiSong_WideLight",
+            "style": "normal",
+            "weight": 300
+        },
+        {
+            "name": "ChillDuanHeiSong_WideMedium",
+            "ext": "otf",
+            "subfamily": "ChillDuanHeiSong_WideMedium",
+            "style": "normal",
+            "weight": 300
+        },
+        {
+            "name": "ChillDuanHeiSongRegular",
+            "ext": "otf",
+            "subfamily": "ChillDuanHeiSongRegular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "ChillDuanHeiSong_CompactRegular",
+            "ext": "otf",
+            "subfamily": "ChillDuanHeiSong_CompactRegular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "ChillDuanHeiSong_CondensedRegular",
+            "ext": "otf",
+            "subfamily": "ChillDuanHeiSong_CondensedRegular",
+            "style": "normal",
+            "weight": 400
+        },
+        {
+            "name": "ChillDuanHeiSongMedium",
+            "ext": "otf",
+            "subfamily": "ChillDuanHeiSongMedium",
+            "style": "normal",
+            "weight": 500
+        },
+        {
+            "name": "ChillDuanHeiSong_CompactMedium",
+            "ext": "otf",
+            "subfamily": "ChillDuanHeiSong_CompactMedium",
+            "style": "normal",
+            "weight": 500
+        },
+        {
+            "name": "ChillDuanHeiSong_CondensedMedium",
+            "ext": "otf",
+            "subfamily": "ChillDuanHeiSong_CondensedMedium",
+            "style": "normal",
+            "weight": 500
+        },
+        {
+            "name": "ChillDuanHeiSongBold",
+            "ext": "otf",
+            "subfamily": "ChillDuanHeiSongBold",
+            "style": "normal",
+            "weight": 700
+        },
+        {
+            "name": "ChillDuanHeiSongHeavy",
+            "ext": "otf",
+            "subfamily": "ChillDuanHeiSongHeavy",
+            "style": "normal",
+            "weight": 900
+        },
+        {
+            "name": "ChillDuanHeiSongSoft",
+            "ext": "otf",
+            "subfamily": "ChillDuanHeiSongSoft",
+            "style": "normal",
+            "weight": 900
+        }
+    ]
+}

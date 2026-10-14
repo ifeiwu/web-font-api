@@ -1,0 +1,18 @@
+{
+    "id": "xiangcuikesong",
+    "title": "香萃刻宋",
+    "family": "XiangcuiKesong",
+    "category": "",
+    "source": "",
+    "language": "zh-cn",
+    "path": "zh-cn/香萃刻宋",
+    "files": [
+        {
+            "name": "XiangcuiKesong",
+            "ext": "ttf",
+            "subfamily": "XiangcuiKesong",
+            "style": "normal",
+            "weight": 400
+        }
+    ]
+}
